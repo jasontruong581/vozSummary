@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/*.xlsx
+output/*.json
+!output/MAU_*.xlsx
+.DS_Store
+.idea/
+.vscode/
