@@ -20,6 +20,10 @@ concurrency:
 
 permissions:
   contents: write             # can de commit ket qua vao thu muc history/
+                             # Repo phai dat Settings -> Actions -> General ->
+                             # Workflow permissions = "Read and write permissions",
+                             # neu khong step luu history se bi 403 (da co
+                             # continue-on-error nen run van xanh).
 
 jobs:
   scrape:
@@ -37,6 +41,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          # Du phong: dung de gia lap TLS fingerprint cua Chrome khi
+          # Cloudflare chan IP datacenter cua GitHub Actions (403).
+          pip install "curl_cffi>=0.7"
 
       - name: Chay test parser (chan viec voz doi markup ma khong ai biet)
         run: python test_parser.py
@@ -44,32 +51,90 @@ jobs:
       - name: Quet voz.vn/f/diem-bao.33
         env:
           TZ: Asia/Ho_Chi_Minh
+          TOP: ${{ github.event.inputs.top || '20' }}
+          MAX_THREADS: ${{ github.event.inputs.max_threads || '0' }}
         run: |
-          python scrape_voz.py \
-            --out-dir output \
-            --top "${{ github.event.inputs.top || '20' }}" \
-            --max-threads "${{ github.event.inputs.max_threads || '0' }}" \
-            --delay 1.5
+          set -o pipefail
+          run_scraper() {
+            python scrape_voz.py \
+              --out-dir output \
+              --top "$TOP" \
+              --max-threads "$MAX_THREADS" \
+              --delay 1.5 \
+              "$@"
+          }
+          # Lan 1: requests thuong.
+          # CHU Y: phai lay $? NGAY sau lenh. Dat trong "if ...; then" roi doc $?
+          # sau "fi" se luon ra 0 -> lan chay that bai bi bao la thanh cong.
+          run_scraper
+          code=$?
+          if [ "$code" -eq 0 ]; then
+            exit 0
+          fi
+          # Exit 3 = 403 tu Cloudflare -> thu lai voi TLS fingerprint cua Chrome.
+          if [ "$code" -eq 3 ]; then
+            echo "::warning::Bi chan 403 bang requests thuong. Thu lai voi curl_cffi --impersonate chrome."
+            run_scraper --impersonate chrome
+            code=$?
+            if [ "$code" -ne 0 ]; then
+              echo "::error::Van bi chan sau khi impersonate (exit $code). Can self-hosted runner hoac chay tu may ca nhan."
+            fi
+            exit "$code"
+          fi
+          echo "::error::scrape_voz.py thoat voi ma $code. Xem log phia tren."
+          exit "$code"
+
+      - name: Ghi tom tat vao trang run (khong can tai file)
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import glob, json, os
+          files = sorted(glob.glob("output/voz-diem-bao_*.json"))
+          if not files:
+              print("## Khong co ket qua\n\nXem log step *Quet voz.vn* de biet ly do.")
+              raise SystemExit
+          d = json.load(open(files[-1], encoding="utf-8"))
+          th = d["threads"]
+          print(f"## Top chu de hot — {d['scraped_at'][:16].replace('T', ' ')}\n")
+          print(f"Quet {len(th)} thread. Nguon: {d['source']}\n")
+          print("| # | Hot | Reply | Ung | Chu de | Comment top 1 |")
+          print("|--:|----:|------:|----:|---|---|")
+          for i, t in enumerate(th[:10], 1):
+              c = (t["top_comments"] or [{}])[0]
+              cm = (c.get("text") or "").replace("|", "\\|").replace("\n", " ")[:110]
+              title = t["title"].replace("|", "\\|")[:70]
+              link = f"[{title}]({t['article_url']})" if t.get("article_url") else title
+              print(f"| {i} | {t['hot_score']:.0f} | {t['replies']} | "
+                    f"{t['total_reactions']} | {link} | {c.get('reactions', 0)} Ung — {cm} |")
+          bad = [t for t in th if t.get("error")]
+          if bad:
+              print(f"\n{len(bad)} thread bi loi: " + ", ".join(t["title"][:40] for t in bad[:5]))
+          PY
 
       - name: Tai ket qua len artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: voz-diem-bao-${{ github.run_id }}
           path: output/*
           retention-days: 90
-          if-no-files-found: error
+          if-no-files-found: warn
 
       - name: Luu lich su vao repo (tuy chon — xoa step nay neu khong muon)
         if: github.ref == 'refs/heads/main'
+        continue-on-error: true     # 403 o day khong lam ca run do
         run: |
           mkdir -p history
-          cp output/* history/ 2>/dev/null || true
+          cp output/voz-diem-bao_* history/ 2>/dev/null || true
           if [ -n "$(git status --porcelain history)" ]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add history
             git commit -m "voz diem bao: $(date -u +%Y-%m-%d)"
-            git push
+            git push || {
+              echo "::warning::Push that bai. Kiem tra Settings -> Actions -> General -> Workflow permissions = Read and write."
+              exit 1
+            }
           else
             echo "Khong co gi moi."
           fi
