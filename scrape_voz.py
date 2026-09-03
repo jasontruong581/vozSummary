@@ -114,6 +114,7 @@ class Thread:
     article_url: str = ""
     article_source: str = ""
     article_excerpt: str = ""
+    status: str = "ok"          # ok | gone | error
     pages_scanned: int = 0
     replies: int = 0
     total_reactions: int = 0
@@ -134,6 +135,7 @@ class Thread:
             "article_url": self.article_url,
             "article_source": self.article_source,
             "article_excerpt": self.article_excerpt,
+            "status": self.status,
             "pages_scanned": self.pages_scanned,
             "replies": self.replies,
             "total_reactions": self.total_reactions,
@@ -200,6 +202,8 @@ class Fetcher:
             r = self._sess.get(url, headers=self.headers)
         else:
             r = self._sess.get(url, timeout=self.timeout)
+        if r.status_code in (404, 410):
+            raise ThreadGone(f"{r.status_code} — thread da bi xoa hoac chuyen: {url}")
         if r.status_code == 403:
             raise PermissionError(
                 f"403 tu voz.vn cho {url}. IP hoac fingerprint bi Cloudflare chan. "
@@ -215,6 +219,15 @@ class Fetcher:
             self._sess.close()
         except Exception:
             pass
+
+
+class ThreadGone(Exception):
+    """Thread khong con truy cap duoc (404/410).
+
+    Rat hay xay ra voi box Diem bao: mod xoa hoac chuyen thread trong khoang
+    thoi gian giua luc doc danh sach page 1 va luc vao chi tiet. Day KHONG phai
+    loi cua script — no chi khong con gi de quet.
+    """
 
 
 def robots_allows(url: str, ua: str) -> bool:
@@ -546,12 +559,21 @@ def crawl(fetcher: Fetcher, *, top_n: int, min_reactions: int, max_threads: int,
                      th.pages_scanned, th.replies, th.total_reactions, th.hot_score)
         except PermissionError:
             raise
+        except ThreadGone as exc:
+            th.status = "gone"
+            th.error = str(exc)
+            th.hot_score = 0.0
+            log.warning("      -> BO QUA: %s", th.error)
         except Exception as exc:
+            th.status = "error"
             th.error = f"{type(exc).__name__}: {exc}"
+            th.hot_score = 0.0
             log.error("      -> LOI: %s", th.error)
         done.append(th)
 
-    done.sort(key=lambda t: t.hot_score, reverse=True)
+    # Thread ok xep truoc theo hot score; gone/error luon xuong duoi cung
+    # (van giu lai trong output de khong che mat van de).
+    done.sort(key=lambda t: (t.status != "ok", -t.hot_score))
     return done
 
 
@@ -632,7 +654,7 @@ def build_workbook(threads: list[Thread], top_n: int, run_at: datetime):
     headers = ["Hang", "Tieu de", "Link thread", "Link bai bao", "Nguon",
                "Replies", "Tong Ung", "Tuoi thread (gio)", "Diem goc", "Hot score",
                "So comment top", "Nguoi dang", "Thoi gian dang", "Trang da quet",
-               "Trich bai bao (post #1)", "Loi"]
+               "Trang thai", "Trich bai bao (post #1)", "Loi"]
     ov.append(headers)
     _style_header(ov, len(headers))
     n = len(threads)
@@ -661,18 +683,26 @@ def build_workbook(threads: list[Thread], top_n: int, run_at: datetime):
                 value=(th.op_created_at.astimezone(TZ_VN).strftime("%Y-%m-%d %H:%M")
                        if th.op_created_at else "")).font = body
         ov.cell(row=r, column=14, value=th.pages_scanned).font = body
-        exc = ov.cell(row=r, column=15, value=_clip(th.article_excerpt, 4000))
+        st = ov.cell(row=r, column=15, value={
+            "ok": "ok",
+            "gone": "da xoa/chuyen (404)",
+            "error": "loi",
+        }.get(th.status, th.status))
+        st.font = body
+        if th.status != "ok":
+            st.fill = PatternFill("solid", fgColor="FFE699")
+        exc = ov.cell(row=r, column=16, value=_clip(th.article_excerpt, 4000))
         exc.font = body
         exc.alignment = Alignment(wrap_text=True, vertical="top")
-        ov.cell(row=r, column=16, value=_clip(th.error, 300)).font = body
+        ov.cell(row=r, column=17, value=_clip(th.error, 300)).font = body
         for col in (8, 9, 10):
             ov.cell(row=r, column=col).number_format = "0.0"
         ov.cell(row=r, column=2).alignment = Alignment(wrap_text=True, vertical="top")
     _set_widths(ov, {"A": 6, "B": 52, "C": 34, "D": 40, "E": 16, "F": 9, "G": 10,
                      "H": 11, "I": 10, "J": 11, "K": 9, "L": 20, "M": 17, "N": 8,
-                     "O": 70, "P": 24})
+                     "O": 19, "P": 70, "Q": 24})
     if n:
-        ov.auto_filter.ref = f"A1:P{n + 1}"
+        ov.auto_filter.ref = f"A1:Q{n + 1}"
 
     # ---------------- Sheet: Top comments (dang dai — de doc/loc) ----------------
     dt = wb.create_sheet("Top comments")
@@ -836,9 +866,15 @@ def main(argv: Optional[list[str]] = None) -> int:
             top = th.top_comments[0]
             print(f"   comment top: [{top.reactions} Ung] @{top.author}: "
                   f"{_clip(top.text, 120)}")
-    failed = [t for t in threads if t.error]
+    gone = [t for t in threads if t.status == "gone"]
+    failed = [t for t in threads if t.status == "error"]
+    if gone:
+        log.warning("%d thread da bi xoa/chuyen trong luc quet (binh thuong voi "
+                    "box Diem bao): %s", len(gone),
+                    "; ".join(t.title[:40] for t in gone))
     if failed:
-        log.warning("%d thread bi loi (xem cot 'Loi' trong Excel).", len(failed))
+        log.warning("%d thread bi LOI THAT (xem cot 'Loi' trong Excel): %s",
+                    len(failed), "; ".join(t.title[:40] for t in failed))
     return 0
 
 

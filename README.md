@@ -24,7 +24,7 @@ Tampermonkey chỉ nên dùng nếu voz chặn hoàn toàn request ngoài trình
 git clone <repo-cua-ban> && cd voz-diembao
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python test_parser.py                                 # 18 test, nên chạy trước
+python test_parser.py                                 # 22 test, nên chạy trước
 ```
 
 ## 3. Chạy
@@ -108,6 +108,7 @@ bộ hẹn giờ chính xác đến giây. Nếu cần đúng 10:00, đặt cron
 | `Khong parse duoc thread nao` | voz đổi markup. Chạy `python test_parser.py` rồi mở `parse_thread_list()` sửa selector. Script **cố tình dừng và báo lỗi** thay vì xuất file rỗng. |
 | Excel thiếu link bài báo | Post #1 không có link ngoài (chỉ ảnh chụp báo). Cột để trống, dùng cột `Trich bai bao` thay thế. |
 | Tất cả `Tuoi thread (gio)` = 0 | voz đổi thuộc tính thời gian. Xem `parse_post_time()` — timestamp thật nằm ở `data-timestamp`, còn `data-time` chỉ là chuỗi giờ (`"9:02 AM"`). |
+| Cột `Trang thai` = `da xoa/chuyen (404)` | Mod voz xóa/chuyển thread trong khoảng giữa lúc script đọc page 1 và lúc vào chi tiết. Không phải lỗi script — thread bị loại khỏi bảng xếp hạng, vẫn giữ lại ở dòng cuối để bạn thấy. |
 | Chạy chậm | `--delay 1.0` là ngưỡng lịch sự thấp nhất nên dùng; đừng đặt 0. Hoặc `--max-pages 3`. |
 
 ## 7. Best practice đã áp dụng
@@ -125,8 +126,8 @@ bộ hẹn giờ chính xác đến giây. Nếu cần đúng 10:00, đặt cron
 - Có **fallback** khi voz đổi markup, và log cảnh báo khi phải dùng fallback.
 - **Fail loud**: parse ra 0 thread thì raise, không xuất file rỗng để bạn tưởng là "hôm nay không có gì".
 - Lỗi từng thread được bắt riêng, ghi vào cột `Loi`, không làm sập cả lần chạy.
-- 18 test với fixture copy từ markup thật; 2 test là **regression test** cho 2 lỗi
-  chỉ lộ ra khi đối chiếu HTML thô (xem §8).
+- 22 test với fixture copy từ markup thật; 4 test là **regression test** cho 4 lỗi
+  thật đã gặp (xem §8) — 2 lỗi parse HTML thô, 1 lỗi bash nuốt mã lỗi, 1 lỗi thread bị xóa.
 - Điểm số trong Excel là **công thức** → bạn tinh chỉnh trọng số ngay trong file, không cần sửa code.
 - Xuất kèm JSON để lần chạy sau so sánh được (thread nào tăng nhiệt).
 
@@ -137,10 +138,9 @@ bộ hẹn giờ chính xác đến giây. Nếu cần đúng 10:00, đặt cron
   *insight* ("dân mạng đang tranh luận về X theo 2 hướng…"), hoặc xin phép / dẫn nguồn nếu muốn trích.
 - Link bài báo trong cột `Link bai bao` mới là nguồn nên dẫn.
 
-## 8. Hai lỗi đã tìm ra khi đối chiếu HTML thật
+## 8. Những lỗi đã tìm ra (ghi lại để khỏi tái phạm)
 
-Ghi lại vì đây là loại lỗi rất dễ bỏ sót — cả hai đều **không xuất hiện** khi test trên DOM
-đã chạy JS, chỉ lộ ra khi parse HTML thô mà Python nhận được:
+### 8.1 — Lộ ra khi đối chiếu HTML thô (không xuất hiện trên DOM đã chạy JS)
 
 1. **`data-time` không phải timestamp.** voz render
    `<time datetime="2026-09-03T09:02:03+0700" data-timestamp="1788400923" data-time="9:02 AM">`.
@@ -150,6 +150,18 @@ Ghi lại vì đây là loại lỗi rất dễ bỏ sót — cả hai đều **
    Logic "bỏ blockquote để lấy lời của chính người post" (đúng cho comment) khi áp vào post #1
    sẽ ra **chuỗi rỗng** — mất sạch nội dung bài báo. Nên `post_text()` có cờ `keep_quotes`:
    bật cho post #1, tắt cho comment.
+
+### 8.2 — Lộ ra khi chạy thật trên GitHub Actions
+
+3. **Bash nuốt mã lỗi.** Workflow từng viết `if run_scraper; then exit 0; fi; code=$?`.
+   Bash trả về `0` cho một `if` không có branch nào chạy, nên `$?` sau `fi` **luôn là 0**:
+   một lần chạy thất bại sẽ hiện **màu xanh mà không có dữ liệu**, và nhánh retry 403
+   không bao giờ được kích hoạt. Phải lấy `$?` **ngay sau lệnh**.
+4. **Thread bị xóa giữa lúc quét.** Mod box Điểm báo xóa/chuyển thread thường xuyên,
+   nên chuyện script đọc thread ở page 1 rồi nhận 404 khi vào chi tiết là **bình thường**,
+   không phải lỗi. Trước đây nó vào cột `Loi` với hot=0 và nằm lẫn giữa bảng xếp hạng.
+   Nay có `ThreadGone` → `status = "gone"`, bị loại khỏi xếp hạng, xuống dòng cuối,
+   và không bị đếm chung với lỗi thật.
 
 ## 9. Về cách đếm "Ưng"
 
@@ -161,7 +173,7 @@ XenForo render dạng `<bdi>A</bdi>, <bdi>B</bdi>, <bdi>C</bdi> and 1,208 others
 
 ```
 scrape_voz.py                  script chính (1 file, ~830 dòng, có comment tiếng Việt)
-test_parser.py                 18 test, chạy được không cần mạng
+test_parser.py                 22 test, chạy được không cần mạng
 requirements.txt
 .github/workflows/daily.yml    cron 10:00 ICT
 output/                        file Excel + JSON

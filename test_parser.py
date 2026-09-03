@@ -9,8 +9,8 @@ from datetime import datetime, timezone
 from scrape_voz import (
     W_REPLY, W_UNG, GRAVITY, AGE_OFFSET_H,
     Post, Thread, extract_article_url, last_page_number, normalize_thread_url,
-    parse_post_time, parse_posts, parse_reactions, parse_thread_list, post_text,
-    soup_of, unwrap_proxy,
+    ThreadGone, crawl, parse_post_time, parse_posts, parse_reactions,
+    parse_thread_list, post_text, soup_of, unwrap_proxy,
 )
 
 # --------------------------------------------------------------------- fixtures
@@ -315,6 +315,75 @@ def test_op_only_quote_gives_empty_comment_text():
     art = soup_of(html).select_one("article")
     assert post_text(art) == ""
     assert "noi dung bai bao" in post_text(art, keep_quotes=True)
+
+
+# ------------------- thread bi xoa giua luc quet (gap that o run #1) --------
+class _StubFetcher:
+    """Fetcher gia: thread 1275581 con song, 1275609 da bi xoa (404)."""
+
+    def __init__(self):
+        self.calls = []
+
+    def get_html(self, url):
+        self.calls.append(url)
+        if url.endswith("/f/diem-bao.33/"):
+            return FORUM_HTML
+        if "1275609" in url:
+            raise ThreadGone("404 — thread da bi xoa hoac chuyen: " + url)
+        return THREAD_HTML
+
+    def close(self):
+        pass
+
+
+def _crawl_stub():
+    return crawl(_StubFetcher(), top_n=20, min_reactions=1, max_threads=0,
+                 max_pages=0, since_hours=0, dry_run=False)
+
+
+def test_deleted_thread_marked_gone_not_error():
+    """REGRESSION (run #1 tren GitHub Actions): mod xoa thread trong luc quet.
+
+    404 phai thanh status 'gone' — khong phai 'error' — vi day khong phai loi
+    cua script. Truoc day no vao cot Loi voi hot=0 va nam lan giua bang xep hang.
+    """
+    threads = _crawl_stub()
+    by_id = {t.thread_id: t for t in threads}
+    assert by_id["1275609"].status == "gone"
+    assert by_id["1275609"].hot_score == 0.0
+    assert "404" in by_id["1275609"].error
+    assert by_id["1275581"].status == "ok"
+    assert by_id["1275581"].hot_score > 0
+
+
+def test_gone_thread_sorts_last():
+    threads = _crawl_stub()
+    assert threads[0].status == "ok"
+    assert threads[-1].status == "gone", "thread da xoa phai xuong duoi cung"
+
+
+def test_gone_thread_does_not_abort_the_run():
+    """Mot thread 404 khong duoc lam chet ca lan chay."""
+    threads = _crawl_stub()
+    assert len(threads) == 2
+    assert any(t.status == "ok" for t in threads)
+
+
+def test_overview_sheet_has_status_column():
+    import os, tempfile
+    from openpyxl import load_workbook
+    from scrape_voz import build_workbook, TZ_VN
+
+    threads = _crawl_stub()
+    wb = build_workbook(threads, top_n=20, run_at=datetime.now(TZ_VN))
+    out = os.path.join(tempfile.mkdtemp(), "s.xlsx")
+    wb.save(out)
+    ov = load_workbook(out)["Tong quan"]
+    headers = [ov.cell(row=1, column=c).value for c in range(1, 18)]
+    assert "Trang thai" in headers
+    col = headers.index("Trang thai") + 1
+    states = {ov.cell(row=r, column=col).value for r in (2, 3)}
+    assert states == {"ok", "da xoa/chuyen (404)"}
 
 
 if __name__ == "__main__":

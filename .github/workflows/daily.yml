@@ -30,9 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -95,25 +95,33 @@ jobs:
               raise SystemExit
           d = json.load(open(files[-1], encoding="utf-8"))
           th = d["threads"]
+          # Thread bi mod xoa giua luc quet (status "gone") khong len bang xep hang.
+          ok = [t for t in th if t.get("status", "ok") == "ok"]
+          gone = [t for t in th if t.get("status") == "gone"]
+          bad = [t for t in th if t.get("status") == "error"]
           print(f"## Top chu de hot — {d['scraped_at'][:16].replace('T', ' ')}\n")
-          print(f"Quet {len(th)} thread. Nguon: {d['source']}\n")
+          print(f"Quet {len(ok)}/{len(th)} thread. Nguon: {d['source']}\n")
           print("| # | Hot | Reply | Ung | Chu de | Comment top 1 |")
           print("|--:|----:|------:|----:|---|---|")
-          for i, t in enumerate(th[:10], 1):
+          for i, t in enumerate(ok[:10], 1):
               c = (t["top_comments"] or [{}])[0]
               cm = (c.get("text") or "").replace("|", "\\|").replace("\n", " ")[:110]
               title = t["title"].replace("|", "\\|")[:70]
               link = f"[{title}]({t['article_url']})" if t.get("article_url") else title
               print(f"| {i} | {t['hot_score']:.0f} | {t['replies']} | "
                     f"{t['total_reactions']} | {link} | {c.get('reactions', 0)} Ung — {cm} |")
-          bad = [t for t in th if t.get("error")]
+          if gone:
+              print(f"\n> {len(gone)} thread bi xoa/chuyen trong luc quet "
+                    "(binh thuong voi box Diem bao): "
+                    + ", ".join(t["title"][:40] for t in gone[:5]))
           if bad:
-              print(f"\n{len(bad)} thread bi loi: " + ", ".join(t["title"][:40] for t in bad[:5]))
+              print(f"\n> **{len(bad)} thread LOI THAT** — xem log step *Quet voz.vn*: "
+                    + ", ".join(t["title"][:40] for t in bad[:5]))
           PY
 
       - name: Tai ket qua len artifact
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: voz-diem-bao-${{ github.run_id }}
           path: output/*
