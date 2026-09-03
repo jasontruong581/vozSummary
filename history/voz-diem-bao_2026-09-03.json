@@ -1,0 +1,185 @@
+{
+ "source": "https://voz.vn/f/diem-bao.33/",
+ "scraped_at": "2026-09-03T13:52:39.571035+07:00",
+ "weights": {
+  "W_REPLY": 1.0,
+  "W_UNG": 2.0,
+  "GRAVITY": 0.8,
+  "AGE_OFFSET_H": 6.0
+ },
+ "threads": [
+  {
+   "thread_id": "1275695",
+   "title": "Đường phố Hà Nội ken đặc xe cộ trong ngày đầu đi làm lại sau kỳ nghỉ lễ",
+   "url": "https://voz.vn/t/duong-pho-ha-noi-ken-dac-xe-co-trong-ngay-dau-di-lam-lai-sau-ky-nghi-le.1275695/",
+   "prefix": "",
+   "op_author": "i5-4210u",
+   "op_created_at": "2026-09-03T06:27:57+00:00",
+   "article_url": "https://vietnamnet.vn/duong-pho-ha-noi-ken-dac-xe-co-trong-ngay-dau-di-lam-lai-sau-ky-nghi-le-2551432.html?gidzl=r_UjOYVsNNlQwQjiA-1OVTJYgcepuWv_cUl_Q6Rh2dhBlgnYOxmETvpfgcvax5HvpkcgRMN9CSSWBF1UUm",
+   "article_source": "vietnamnet.vn",
+   "article_excerpt": "Trong ngày đầu làm việc sau kỳ nghỉ lễ Quốc khánh 2/9, giao thông ở Hà Nội gặp nhiều khó khăn khi nhiều tuyến đường lâm vào cảnh ùn tắc.\nSáng ngày 3/9, nhiều tuyến đường ở trung tâm Hà Nội ken đặc phương tiện.\n...\ncòn nhiều hình trong link báo. nói chung là phải cấm ô tô cá nhân trong nội đô thì mới đỡ tắc đc",
+   "pages_scanned": 2,
+   "replies": 24,
+   "total_reactions": 13,
+   "base_score": 50.0,
+   "hot_score": 11.306,
+   "top_comments": [
+    {
+     "post_id": "43559978",
+     "number": 8,
+     "author": "GTA666",
+     "url": "https://voz.vn/p/43559978/",
+     "created_at": "2026-09-03T06:35:30+00:00",
+     "reactions": 3,
+     "text": "Heineken sệt (hay còn gọi là KEN ĐẶC) là loại bia Heineken được ướp lạnh ở nhiệt độ sâu sao cho phần nước bên trong sền sệt dạng đá bào, khi mở nắp sẽ nổi bọt tuyết mát lạnh mà không bị đông cứng hoàn toàn."
+    },
+    {
+     "post_id": "43559928",
+     "number": 2,
+     "author": "manhlunls",
+     "url": "https://voz.vn/p/43559928/",
+     "created_at": "2026-09-03T06:31:58+00:00",
+     "reactions": 2,
+     "text": "HN và TPHCM nên cấm luôn ô tô cá nhân, kể cả xe xăng lẫn xe điện. Sau đó phát triển tàu điện ngầm, xe buýt, v.v..."
+    },
+    {
+     "post_id": "43560053",
+     "number": 12,
+     "author": "Bé Sam Cute",
+     "url": "https://voz.vn/p/43560053/",
+     "created_at": "2026-09-03T06:40:49+00:00",
+     "reactions": 2,
+     "text": "ken đặc\ndềnh nước\nong ve\nthu dung\ndi biến động\n...\nmời bổ sung"
+    },
+    {
+     "post_id": "43560196",
+     "number": 24,
+     "author": "123dapbecaibinh",
+     "url": "https://voz.vn/p/43560196/",
+     "created_at": "2026-09-03T06:50:24+00:00",
+     "reactions": 2,
+     "text": "Là đen c*c đó fen, ý của phóng tinh viên là đen như cái đầu c*c."
+    },
+    {
+     "post_id": "43559959",
+     "number": 5,
+     "author": "0903403999",
+     "url": "https://voz.vn/p/43559959/",
+     "created_at": "2026-09-03T06:34:04+00:00",
+     "reactions": 1,
+     "text": "ken đặc là cái gì z\nlần đầu nghe. wtf"
+    },
+    {
+     "post_id": "43559962",
+     "number": 6,
+     "author": "c13",
+     "url": "https://voz.vn/p/43559962/",
+     "created_at": "2026-09-03T06:34:09+00:00",
+     "reactions": 1,
+     "text": "Chọn lọc từ ngữ hay nhỉ.\nKen đặc chứ ko phải tắc.\nNgữ pháp Việt Nam đỉnh thật\nvia\ntheNEXTvoz\nfor iPhone"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1275692",
+   "title": "1.204 người chết, 4.216 người mất tích trong vụ sạt lở đất ở Nepal",
+   "url": "https://voz.vn/t/1-204-nguoi-chet-4-216-nguoi-mat-tich-trong-vu-sat-lo-dat-o-nepal.1275692/",
+   "prefix": "",
+   "op_author": "i5-4210u",
+   "op_created_at": "2026-09-03T06:19:00+00:00",
+   "article_url": "https://nhandan.vn/1204-nguoi-chet-4216-nguoi-mat-tich-trong-vu-sat-lo-dat-o-nepal-post986016.html?gidzl=7yPHUpbGu2eIs5TrDKRbB1pIKtqjHROWKTi6VtXCiYK3ZbLrVHksA5JPKtbwI-mc1jbJUcKVfePeCbRZAW",
+   "article_source": "nhandan.vn",
+   "article_excerpt": "Tân Hoa Xã trích báo cáo mới nhất của Cơ quan quản lý và giảm thiểu rủi ro thảm họa quốc gia Nepal, tính đến 18 giờ chiều giờ địa phương ngày 2/9, số người thiệt mạng do vụ lũ quét kinh hoàng ở Nepal đã tăng lên 1.204 người và vẫn còn 4.216 người mất tích.\nKhu vực Nuwakot, Nepal tan hoang sau trận lũ quét ngày 26/8. (Ảnh: Tân Hoa Xã)\nTheo thông báo của chính quyền, tổng cộng 301 người đã bị thương, trong khi 21.314 nhân viên an ninh đã được huy động cho các hoạt động tìm kiếm, cứu hộ và cứu trợ.\n...",
+   "pages_scanned": 1,
+   "replies": 12,
+   "total_reactions": 11,
+   "base_score": 34.0,
+   "hot_score": 7.548,
+   "top_comments": [
+    {
+     "post_id": "43559972",
+     "number": 4,
+     "author": "chaule97",
+     "url": "https://voz.vn/p/43559972/",
+     "created_at": "2026-09-03T06:34:55+00:00",
+     "reactions": 3,
+     "text": "Đọc X thấy bên TQ chặn web bên cơ quan Nepal tìm người thân mất tích"
+    },
+    {
+     "post_id": "43560017",
+     "number": 5,
+     "author": "saocon1",
+     "url": "https://voz.vn/p/43560017/",
+     "created_at": "2026-09-03T06:37:34+00:00",
+     "reactions": 2,
+     "text": "Mất tích thì 99% về miền cực lạc rồi"
+    },
+    {
+     "post_id": "43560044",
+     "number": 6,
+     "author": "Paranexus 3",
+     "url": "https://voz.vn/p/43560044/",
+     "created_at": "2026-09-03T06:40:12+00:00",
+     "reactions": 2,
+     "text": "Thằng Nepal lúc trước cx từ chối hỗ trợ tìm kiếm từ bên ngoài trong khi chết 1 đống du khách, nước thì nghèo. Bị ăn chửi sml mới đồng ý"
+    },
+    {
+     "post_id": "43560081",
+     "number": 7,
+     "author": "Nhiemvubatkhathi",
+     "url": "https://voz.vn/p/43560081/",
+     "created_at": "2026-09-03T06:42:28+00:00",
+     "reactions": 1,
+     "text": "6k người chết. Thật là kinh khủng. Mấy cái siêu đập mà vỡ thì không biết nó kinh khủng đến mức nào. Bảo sao cái cụ nhà ta bảo nhất thuỷ nhì hoả.\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "43560094",
+     "number": 8,
+     "author": "Craw Fish Never Lie",
+     "url": "https://voz.vn/p/43560094/",
+     "created_at": "2026-09-03T06:43:13+00:00",
+     "reactions": 1,
+     "text": "Chứ cho bên khác tham gia vào thì khác nào tự vả là bản thân công tác khắc phục thiệt hại thiên tai kém, và chưa kể quan trọng nhất là cho bên khác vào thì tụi nó lôi được xác lên thì làm sao fake số liệu \"ít đi\""
+    },
+    {
+     "post_id": "43560149",
+     "number": 10,
+     "author": "xechaybangcom",
+     "url": "https://voz.vn/p/43560149/",
+     "created_at": "2026-09-03T06:47:10+00:00",
+     "reactions": 1,
+     "text": "Số này đã bao gồm con số thiệt mạng của cả Nepal và Trung quốc chưa? Hay chỉ là số liệu của một quốc gia công bố?"
+    },
+    {
+     "post_id": "43560176",
+     "number": 11,
+     "author": "Craw Fish Never Lie",
+     "url": "https://voz.vn/p/43560176/",
+     "created_at": "2026-09-03T06:49:06+00:00",
+     "reactions": 1,
+     "text": "Vậy tụi Nepal mới dãy đành đạch ko chịu nhận quân hỗ trợ đó, giờ tứ phía ùa vào giúp (nhưng thực chất điều tra số liệu) xong sau đó lòi ra thiệt hại thật thì lòng dân ở đó sẽ phẫn nộ với khựa và xảy ra đủ thứ nữa chứ chả đùa."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1275584",
+   "title": "Cả xóm góp thực phẩm, bày 60 mâm cơm đón Tết Độc lập",
+   "url": "https://voz.vn/t/ca-xom-gop-thuc-pham-bay-60-mam-com-don-tet-doc-lap.1275584/",
+   "prefix": "",
+   "op_author": "",
+   "op_created_at": null,
+   "article_url": "",
+   "article_source": "",
+   "article_excerpt": "",
+   "pages_scanned": 0,
+   "replies": 0,
+   "total_reactions": 0,
+   "base_score": 0.0,
+   "hot_score": 0.0,
+   "top_comments": [],
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://voz.vn/t/ca-xom-gop-thuc-pham-bay-60-mam-com-don-tet-doc-lap.1275584/"
+  }
+ ]
+}
