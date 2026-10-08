@@ -1,0 +1,2705 @@
+{
+ "source": "https://voz.vn/f/diem-bao.33/",
+ "scraped_at": "2026-10-08T16:39:03.345387+07:00",
+ "weights": {
+  "W_REPLY": 1.0,
+  "W_UNG": 2.0,
+  "GRAVITY": 0.8,
+  "AGE_OFFSET_H": 6.0
+ },
+ "threads": [
+  {
+   "thread_id": "1286789",
+   "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng trên 15% trong quý IV, Hà Nội cần tăng 16,55%",
+   "url": "https://voz.vn/t/chinh-phu-yeu-cau-9-dia-phuong-tang-truong-tren-15-trong-quy-iv-ha-noi-can-tang-16-55.1286789/",
+   "prefix": "",
+   "op_author": "manoao",
+   "op_created_at": "2026-10-08T06:48:35+00:00",
+   "article_url": "https://tienphong.vn/chinh-phu-yeu-cau-9-dia-phuong-tang-truong-tren-15-trong-quy-iv-ha-noi-can-tang-1655-post1883255.tpo",
+   "article_source": "tienphong.vn",
+   "article_excerpt": "Để hoàn thành mục tiêu tăng trưởng năm 2026, Chính phủ yêu cầu 9 địa phương phải đạt mức tăng trưởng trên 15%. Trong đó, Lạng Sơn cần có mức cao nhất là 18,41%; Hà Nội cần tăng 16,55% và TPHCM tăng 13,23%.\nTại Nghị quyết phiên họp thường kỳ tháng 9 vừa được ban hành, Chính phủ đưa ra kịch bản tăng trưởng cụ thể trong quý IV cho từng địa phương.\nChính phủ nêu rõ, trong quý III, tăng trưởng kinh tế (GDP) ước tăng 9,95% so với cùng kỳ, tính chung 9 tháng tăng 9,01%.\nHà Nội cần tăng 16,55% và TP HCM tăng 13,23% trong quý cuối của năm.\nChính phủ, Thủ tướng Chính phủ đánh giá cao nỗ lực của các địa phương, nhất là các địa phương tăng trưởng vượt bậc trong quý III để đóng góp vào tăng trưởng chung của cả nước.\nĐể đảm bảo mục tiêu đề ra trong năm 2026 và quý IV, Chính phủ yêu cầu nhiều địa phương phải tăng GRDP hai chữ số, trong đó 9 địa phương phải tăng trên 15%.\nTrong đó, tỉnh Lạng Sơn cần tăng 18,41% - mức cao nhất của cả nước. Một số địa phương khác cũng phải tăng trên 15% như Vĩnh Long, Thanh Hóa, Cà Mau, Tuyên Quang.\nĐối với hai thành phố lớn, Hà Nội cần tăng 16,55%, trong khi đó, TPHCM cần mức tăng 13,23%.\nTương tự, Hải Phòng cần mức tăng đạt 15,39% trong quý cuối năm này, còn Bắc Ninh và Quảng Ninh phải có mức tăng khoảng 14%.\nMột số địa phương có kết quả 9 tháng thấp như Sơn La, Vĩnh Long phải có mức tăng từ 13,72-17,25% trong quý cuối cùng của năm.",
+   "status": "ok",
+   "pages_scanned": 6,
+   "replies": 102,
+   "total_reactions": 85,
+   "base_score": 272.0,
+   "hot_score": 47.462,
+   "top_comments": [
+    {
+     "post_id": "43951616",
+     "number": 2,
+     "author": "dungbeo09",
+     "url": "https://voz.vn/p/43951616/",
+     "created_at": "2026-10-08T06:49:01+00:00",
+     "reactions": 3,
+     "text": "Tăng trưởng bằng mệnh lệnh"
+    },
+    {
+     "post_id": "43951630",
+     "number": 4,
+     "author": "dogamer06",
+     "url": "https://voz.vn/p/43951630/",
+     "created_at": "2026-10-08T06:49:57+00:00",
+     "reactions": 3,
+     "text": "Chuẩn bị lại spam giải toả thôi\nNgười dân Ba Vì đúng khóc thét"
+    },
+    {
+     "post_id": "43951653",
+     "number": 7,
+     "author": "tranhung_hn3",
+     "url": "https://voz.vn/p/43951653/",
+     "created_at": "2026-10-08T06:51:37+00:00",
+     "reactions": 3,
+     "text": "Anh em Hanoi chuẩn bị được đào vỉa hè rồi\nƯu điểm là phải phóng bớt hàng tồn kho cho bọn sản xuất đá lát."
+    },
+    {
+     "post_id": "43951664",
+     "number": 8,
+     "author": "v_tam_huynh",
+     "url": "https://voz.vn/p/43951664/",
+     "created_at": "2026-10-08T06:52:38+00:00",
+     "reactions": 3,
+     "text": "yêu cầu là đc à."
+    },
+    {
+     "post_id": "43951671",
+     "number": 9,
+     "author": "MunieDaddy",
+     "url": "https://voz.vn/p/43951671/",
+     "created_at": "2026-10-08T06:53:12+00:00",
+     "reactions": 3,
+     "text": "Oke sếp, cuối năm là tăng trưởng trên 15% ngay ạ"
+    },
+    {
+     "post_id": "43951675",
+     "number": 10,
+     "author": "anh_tuan",
+     "url": "https://voz.vn/p/43951675/",
+     "created_at": "2026-10-08T06:53:21+00:00",
+     "reactions": 3,
+     "text": "Nếu tăng trưởng ở đây là GDP thì dễ mà. Tăng cường đầu tư công và giải ngân là ok thôi. Còn hậu quả thì chịu."
+    },
+    {
+     "post_id": "43951690",
+     "number": 11,
+     "author": "Kitada",
+     "url": "https://voz.vn/p/43951690/",
+     "created_at": "2026-10-08T06:54:06+00:00",
+     "reactions": 3,
+     "text": "HCM đã đào rồi, cái vỉa hè hôm qua còn đi ngon, qua 1 tối mà đã dỡ lên cả. Năm trước cũng thế luôn"
+    },
+    {
+     "post_id": "43951733",
+     "number": 12,
+     "author": "God of Moon",
+     "url": "https://voz.vn/p/43951733/",
+     "created_at": "2026-10-08T06:57:29+00:00",
+     "reactions": 3,
+     "text": "à, nếu yêu cầu mà không được thì ...\nmấy con số trên giấy thôi ấy mà, các anh đừng quan trọng hóa quá"
+    },
+    {
+     "post_id": "43951786",
+     "number": 14,
+     "author": "mylove4u32",
+     "url": "https://voz.vn/p/43951786/",
+     "created_at": "2026-10-08T07:00:48+00:00",
+     "reactions": 3,
+     "text": "Giống bán hàng , nay sếp yêu cầu nhân viên phải bán được gần này tiền , không cần biết lỗ hay lời không từ bất kì thủ đoạn nào"
+    },
+    {
+     "post_id": "43951809",
+     "number": 17,
+     "author": "Make Y.Maga Great Again",
+     "url": "https://voz.vn/p/43951809/",
+     "created_at": "2026-10-08T07:02:37+00:00",
+     "reactions": 3,
+     "text": "Điên cmnr\nConan đè tem thiên tày kĩ trị"
+    },
+    {
+     "post_id": "43951911",
+     "number": 25,
+     "author": "giayasics",
+     "url": "https://voz.vn/p/43951911/",
+     "created_at": "2026-10-08T07:09:09+00:00",
+     "reactions": 3,
+     "text": "có ai giải quyết cho cô lan chưa"
+    },
+    {
+     "post_id": "43951945",
+     "number": 30,
+     "author": "manoao",
+     "url": "https://voz.vn/p/43951945/",
+     "created_at": "2026-10-08T07:12:00+00:00",
+     "reactions": 3,
+     "text": "nếu thời xưa thì có bài đồng dao"
+    },
+    {
+     "post_id": "43952082",
+     "number": 38,
+     "author": "Anmission161",
+     "url": "https://voz.vn/p/43952082/",
+     "created_at": "2026-10-08T07:21:33+00:00",
+     "reactions": 3,
+     "text": "Tính bác bác 8 sẽ trở thành một đầu bếp giỏi nhất thế giới nêu không chọn làm conan nhỉ\ntài cook của bác và đám thuộc hạ đứng đầu zũ trụ cmnl"
+    },
+    {
+     "post_id": "43952126",
+     "number": 42,
+     "author": "manoao",
+     "url": "https://voz.vn/p/43952126/",
+     "created_at": "2026-10-08T07:25:07+00:00",
+     "reactions": 3,
+     "text": "các nhà quản lý giỏi đều nấu bếp giỏi fen nhỉ\n, tuy nhiên chỉ có học nghề bên nước ngoài mới....à mà thôi"
+    },
+    {
+     "post_id": "43952159",
+     "number": 44,
+     "author": "only4u_93",
+     "url": "https://voz.vn/p/43952159/",
+     "created_at": "2026-10-08T07:27:47+00:00",
+     "reactions": 3,
+     "text": "Hôm qua lúc chiều , đi xe tôi nghe trên Đài,\nTưởng thú kêu là giao nhiệm vụ cho từng địa phương, ông nào k làm được \" LẤY CƠ SỞ ĐỂ LUÂN CHUYỂN CÁN BỘ \"\nChết con tốt thí Chủ tịch thôi, chứ Bớ Thi thì vẫn ngồi đó, liên quan mje gì đâu."
+    },
+    {
+     "post_id": "43952203",
+     "number": 46,
+     "author": "manoao",
+     "url": "https://voz.vn/p/43952203/",
+     "created_at": "2026-10-08T07:31:05+00:00",
+     "reactions": 3,
+     "text": "ai cũng thâm niên công tác nhiều năm thì biết chứ nhưng biết và làm như nào để \"đúng\" thì ...."
+    },
+    {
+     "post_id": "43952289",
+     "number": 51,
+     "author": "Anmission161",
+     "url": "https://voz.vn/p/43952289/",
+     "created_at": "2026-10-08T07:37:28+00:00",
+     "reactions": 3,
+     "text": "Bữa có bác nào trên này nói thấy đúng vkl\n1 làm theo cook số liệu -> dính phốt đó -> sau đó phải chọn đúng phe .\n2. không = cút -> đưa người bên siêu bộ ( hoặc quê của 8 vào ) .\nđường nào cũng vậy 1 theo 2 chết"
+    },
+    {
+     "post_id": "43952318",
+     "number": 52,
+     "author": "giayasics",
+     "url": "https://voz.vn/p/43952318/",
+     "created_at": "2026-10-08T07:39:49+00:00",
+     "reactions": 2,
+     "text": "bẩm, sửa nhiù quá nó ko khớp ạ, phải tốn công chỉnh hết sổ sách tốn tiền lắm ạ"
+    },
+    {
+     "post_id": "43952487",
+     "number": 61,
+     "author": "ky080497",
+     "url": "https://voz.vn/p/43952487/",
+     "created_at": "2026-10-08T07:50:19+00:00",
+     "reactions": 2,
+     "text": "đang đào rồi đấy, vỉa hè đang bình thường cũng đào, trong khi đường toàn ổ gà ổ voi thì không thấy làm"
+    },
+    {
+     "post_id": "43951799",
+     "number": 15,
+     "author": "God of Moon",
+     "url": "https://voz.vn/p/43951799/",
+     "created_at": "2026-10-08T07:01:42+00:00",
+     "reactions": 1,
+     "text": "mình chơi kiểu, hnay bán lấy số báo cáo, xong mấy bữa khác làm return trả lại hàng được hông ? chỉ cần họp báo cáo có số đủ là được mà"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286605",
+   "title": "Nhận diện ‘ranh giới đỏ’ với đồng nghiệp khác giới nơi công sở",
+   "url": "https://voz.vn/t/nhan-dien-ranh-gioi-do-voi-dong-nghiep-khac-gioi-noi-cong-so.1286605/",
+   "prefix": "",
+   "op_author": "hoangdinhdao88",
+   "op_created_at": "2026-10-07T16:16:21+00:00",
+   "article_url": "https://giaoducthoidai.vn/nhan-dien-ranh-gioi-do-voi-dong-nghiep-khac-gioi-noi-cong-so-post794646.html#source=zone%2Fzone-timeline-7",
+   "article_source": "giaoducthoidai.vn",
+   "article_excerpt": "Hầu hết chúng ta không dễ nhận ra một số “ranh giới đỏ” trong quan hệ với đồng nghiệp khác giới, chỉ cần sơ ý là có thể vượt qua.\nThường xuyên ăn trưa riêng\n​\nĂn trưa cùng đồng nghiệp là điều bình thường ở công sở, nhưng nếu bạn thường xuyên chỉ ăn riêng với một đồng nghiệp khác giới, đặc biệt là ngoài giờ làm việc, thì điều này có thể không chỉ đơn thuần là chia sẻ bữa ăn.\nĂn trưa riêng đồng nghĩa với việc hai người tận hưởng thời gian và không gian riêng của nhau, điều này khiến người khác nghĩ rằng giữa các bạn tồn tại mối liên kết cảm xúc vượt ra ngoài công việc.\nTiếp xúc cơ thể quá mức\n​\nViệc tiếp xúc cơ thể một cách thích hợp là một cách để xây dựng tinh thần đồng đội. Nhưng nếu việc tiếp xúc này trở nên thường xuyên hoặc không phù hợp, ví dụ như khoác vai, nắm tay, ôm nhau quá mức về thời điểm và tần suất, có thể vượt qua ranh giới chuyên nghiệp trong công việc.\nNhững hành vi này dễ gây hiểu lầm và ảnh hưởng đến hình ảnh nghề nghiệp của nhau.\nNhắn tin thân mật không liên quan đến công việc\n​\nGiao tiếp liên quan đến công việc là cần thiết. Tuy nhiên, nếu hai người nhắn tin cho nhau ngoài giờ làm, đặc biệt là vào buổi tối, mà nội dung không liên quan đến công việc, nói về đời sống cá nhân hoặc chuyện tình cảm, thì rất có thể đã vượt qua giới hạn. Kiểu giao tiếp không liên quan đến công việc có thể bị người khác hiểu là mối quan hệ riêng tư mờ ám.\nĐối phương trở thành “nơi giải tỏa” áp lực\n​\nTrong công việc không thể tránh khỏi áp lực, có một đồng nghiệp để giải tỏa stress sẽ giúp giảm bớt áp lực đó. Nhưng nếu bạn nhận ra mình chỉ có hoặc chủ yếu dựa vào đồng nghiệp khác giới đó để giải tỏa stress, thì sự phụ thuộc cảm xúc của bạn có thể đã bắt đầu lệch khỏi mối quan hệ đồng nghiệp thuần túy.\nNhững hành động quan tâm thường xuyên\n​\nThỉnh thoảng giúp đồng nghiệp lấy cà phê hay bữa ăn nhanh là hành vi thân thiện phổ biến. Tuy nhiên, nếu những việc làm nhỏ này chỉ được thực hiện cho đồng nghiệp khác giới đó và dần trở thành thói quen, thì phần nào nó phản ánh sự quan tâm đặc biệt.\nKhi sự quan tâm mang tính đồng nghiệp nâng lên thành “quan tâm đặc biệt”, việc vượt qua ranh giới nơi làm việc là điều có thể xảy ra.\nSự đầu tư và lợi ích không cân xứng\n​\nTrong đội nhóm, việc giúp đỡ đồng nghiệp khác giới là hành vi hợp tác bình thường. Tuy nhiên, nếu bạn nhận ra mình liên tục bỏ công sức và tài nguyên cho đồng nghiệp khác giới này, vượt xa mức bạn giúp đỡ các đồng nghiệp khác, hành vi của bạn có thể đã đi quá phạm vi hợp tác chuyên nghiệp.",
+   "status": "ok",
+   "pages_scanned": 11,
+   "replies": 218,
+   "total_reactions": 174,
+   "base_score": 566.0,
+   "hot_score": 45.452,
+   "top_comments": [
+    {
+     "post_id": "43945903",
+     "number": 2,
+     "author": "Kahghizn",
+     "url": "https://voz.vn/p/43945903/",
+     "created_at": "2026-10-07T16:16:56+00:00",
+     "reactions": 3,
+     "text": "Nữ mà bận sơ mi trắng công sở mà tính cách nữ cường xíu thì kích thích phết"
+    },
+    {
+     "post_id": "43946090",
+     "number": 4,
+     "author": "tokushitsu",
+     "url": "https://voz.vn/p/43946090/",
+     "created_at": "2026-10-07T16:57:51+00:00",
+     "reactions": 3,
+     "text": "Chỉ cần 3 lần ở cái thứ 1, 2 lần liên tiếp ở cái thứ 2, và 1 lần ở cái thứ 3 thì lần sau có thể mạnh dạn nhắn. “Tối nay em rảnh ko “ được rồi."
+    },
+    {
+     "post_id": "43946132",
+     "number": 5,
+     "author": "vinhzemzem",
+     "url": "https://voz.vn/p/43946132/",
+     "created_at": "2026-10-07T17:11:23+00:00",
+     "reactions": 3,
+     "text": "Ăn riêng cùng nhau thì kiểu c gì cũng nãy sinh tình cảm. Nhớ cảm giác làm việc vp ngồi cạnh gái quá\n)"
+    },
+    {
+     "post_id": "43946140",
+     "number": 6,
+     "author": "Ngày ấy tôi quên",
+     "url": "https://voz.vn/p/43946140/",
+     "created_at": "2026-10-07T17:14:07+00:00",
+     "reactions": 3,
+     "text": "Con thầy, vợ bạn, gái cơ quan\nCó thím nào ăn phải 3 trái cấm bên trên chưa review phát"
+    },
+    {
+     "post_id": "43946154",
+     "number": 7,
+     "author": "LunaRtz",
+     "url": "https://voz.vn/p/43946154/",
+     "created_at": "2026-10-07T17:17:17+00:00",
+     "reactions": 3,
+     "text": "Thêm cái nữa là không bao giờ được nói quá nhiều về gia cảnh bản thân, sếp và đồng nghiệp sẽ dựa vào cái đó để đánh giá bạn"
+    },
+    {
+     "post_id": "43946357",
+     "number": 8,
+     "author": "nằmngang",
+     "url": "https://voz.vn/p/43946357/",
+     "created_at": "2026-10-07T19:51:24+00:00",
+     "reactions": 3,
+     "text": "Chỉ thỉnh thoảng vỗ mông khi vắng người hoy."
+    },
+    {
+     "post_id": "43946371",
+     "number": 10,
+     "author": "harrypotter1787",
+     "url": "https://voz.vn/p/43946371/",
+     "created_at": "2026-10-07T20:22:36+00:00",
+     "reactions": 3,
+     "text": "Cái gì mình ko muốn vợ/ chồng mình làm với người khác thì mình cũng đừng làm với người khác. Nó đơn giản vậy thôi. Ông nào thấy vợ bới cơm hộp đi ăn trưa riêng với 1 thằng đồng nghiệp hay thằng nào đưa đón, cho vợ mình đi nhờ thường xuyên hay tối vợ nhắn tin qua lại với đồng nghiệp nam là ổn thì hãy làm thế với gái cơ quan."
+    },
+    {
+     "post_id": "43946372",
+     "number": 11,
+     "author": "sherlockp4my",
+     "url": "https://voz.vn/p/43946372/",
+     "created_at": "2026-10-07T20:22:58+00:00",
+     "reactions": 3,
+     "text": "ăn cả 3 mới đỉnh mà trong cùng gia đình nữa mới peak\nvừa là con thầy + vợ bạn và lại là đồng nghiệp\ngặp thằng bạn thích cuckold nữa thì jackpot"
+    },
+    {
+     "post_id": "43946613",
+     "number": 14,
+     "author": "DepDinhCutDo",
+     "url": "https://voz.vn/p/43946613/",
+     "created_at": "2026-10-08T00:11:45+00:00",
+     "reactions": 3,
+     "text": "Ảnh hưởng hình ảnh bome.\nTôi chẳng bao giờ húp bọn loanh quanh đối tác/khách hàng/ đơn vị liên kết. Chứ đừng nói cùng cơ quan."
+    },
+    {
+     "post_id": "43946657",
+     "number": 15,
+     "author": "Sireto04",
+     "url": "https://voz.vn/p/43946657/",
+     "created_at": "2026-10-08T00:23:46+00:00",
+     "reactions": 3,
+     "text": "*Cơm thầy, vợ bạn, gái cơ quan\nKhông đạp đổ chén cơm của thầy\nKhông tăm tia vợ bạn\nBan đầu câu này có hai ý này thôi, ý thứ ba là sau này thời hiện đại người ta thêm thắt vào đó.\nChứ con thầy thì có gì đâu mà không được."
+    },
+    {
+     "post_id": "43946680",
+     "number": 16,
+     "author": "Tịnh Độ",
+     "url": "https://voz.vn/p/43946680/",
+     "created_at": "2026-10-08T00:30:01+00:00",
+     "reactions": 3,
+     "text": "Thằng cu đồng nghiệp cũ\n@farrell\nở công ty trêu con bé kt là hôm nay em ngon thế.\nTí về nó viết mail nhân sự, cc ban lãnh đạo.\nVà từ đó 2 đứa ko thấy mặt nhau nữa."
+    },
+    {
+     "post_id": "43946681",
+     "number": 17,
+     "author": "NghiVănChiêu",
+     "url": "https://voz.vn/p/43946681/",
+     "created_at": "2026-10-08T00:30:11+00:00",
+     "reactions": 3,
+     "text": "Có con sư muội lính cũ, hai đứa đều dạt ngành về giáo dục.\nCứ có dịp tập huấn chung là nó lại í ới hẹn cafe ăn trưa, ăn tối.\nCũng có ý đồ với nó lắm nhưng sợ mất hình tượng nên không dám tà lưa."
+    },
+    {
+     "post_id": "43946789",
+     "number": 18,
+     "author": "hoangdinhdao88",
+     "url": "https://voz.vn/p/43946789/",
+     "created_at": "2026-10-08T00:49:11+00:00",
+     "reactions": 3,
+     "text": "Chưa chồng hay ny thì tẹt bô đi thôi chứ fen"
+    },
+    {
+     "post_id": "43946987",
+     "number": 26,
+     "author": "vinata4",
+     "url": "https://voz.vn/p/43946987/",
+     "created_at": "2026-10-08T01:14:27+00:00",
+     "reactions": 3,
+     "text": "Cùng một hành vi trêu hoa ghẹo nguyệt + nhắn tin thả thính chốn công sở:\nNgon trai = lãng mạn, tâm lý, dễ thương, gallant\nĐần đụt trĩ hôi = quấy rối tình dục\nVozer cứ nhớ thế."
+    },
+    {
+     "post_id": "43947174",
+     "number": 28,
+     "author": "Đừng Xanh Như Lá",
+     "url": "https://voz.vn/p/43947174/",
+     "created_at": "2026-10-08T01:30:36+00:00",
+     "reactions": 3,
+     "text": "Khầy kém quá.\nNó đã bật đèn xanh thì khầy phải tạo điều kiện cho em nó.\nCon người hơn nhau ở cái tình cảm.\nSống khô khan như khầy gái nó khinh.\nPhải tôi là tôi thọi cho mấy nháy"
+    },
+    {
+     "post_id": "43947672",
+     "number": 35,
+     "author": "hoangdinhdao88",
+     "url": "https://voz.vn/p/43947672/",
+     "created_at": "2026-10-08T02:01:17+00:00",
+     "reactions": 3,
+     "text": "đcm, thằng đồng nghiệp cty vợ tui, kiểu mấy người thâm niên chơi với nhau nên vợ tui chơi cùng 1 đứa nữ nữa (độc thân, 3x vẫn chưa chồng, chill chill du lịch) với thằng đb này. Thằng này có vợ rồi mà mấy năm méo có con, trên mạng thì thấy ok tình cảm lắm. Mà hay nói chuyện riêng vs vợ tui, mấy chuyện tui xin việc sao vợ cũng kể nó. Cay vaileu nó còn kể vợ tui là đi chơi bên Thái thấy cái muôi hình con ku mà ngại vợ nên k mua. Cái đcm nhà nó chứ"
+    },
+    {
+     "post_id": "43947738",
+     "number": 40,
+     "author": "hieu2492",
+     "url": "https://voz.vn/p/43947738/",
+     "created_at": "2026-10-08T02:05:13+00:00",
+     "reactions": 3,
+     "text": "đùa ae ăn ở đâu chứ tuyệt đối né mấy đứa cùng cơ quan ra, khó chùi mép lắm"
+    },
+    {
+     "post_id": "43947829",
+     "number": 42,
+     "author": "Tịnh Độ",
+     "url": "https://voz.vn/p/43947829/",
+     "created_at": "2026-10-08T02:10:30+00:00",
+     "reactions": 3,
+     "text": "Chuẩn cmnr thím ơi, ăn thử 1 lần tởn đến già."
+    },
+    {
+     "post_id": "43948094",
+     "number": 45,
+     "author": "Con ngoan trò giỏi",
+     "url": "https://voz.vn/p/43948094/",
+     "created_at": "2026-10-08T02:25:37+00:00",
+     "reactions": 3,
+     "text": "Trên người nhỏ cũng có 2 cục mỡ thừa đấy, thím véo lại cho bình đẳng giới"
+    },
+    {
+     "post_id": "43948124",
+     "number": 48,
+     "author": "ConanThôn",
+     "url": "https://voz.vn/p/43948124/",
+     "created_at": "2026-10-08T02:27:05+00:00",
+     "reactions": 3,
+     "text": "Con thầy với gái cơ quan thì tôi thấy k vấn đề gì lắm\nRiêng món vợ bạn nó thuộc phạm trù khác nên khó đấy\nny bạn thì rồi chứ vợ bạn thì tuyệt đối không bao (giờ)\nGửi từ Xiaomi 23113RKC6C bằng\nVOZVNApp"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286761",
+   "title": "Nga thiếu phụ tùng và nhiên liệu, đề nghị Việt Nam cho thuê máy bay",
+   "url": "https://voz.vn/t/nga-thieu-phu-tung-va-nhien-lieu-de-nghi-viet-nam-cho-thue-may-bay.1286761/",
+   "prefix": "",
+   "op_author": "luongtieulong1979",
+   "op_created_at": "2026-10-08T05:26:31+00:00",
+   "article_url": "https://vietnamfinance.vn/nga-thieu-phu-tung-va-nhien-lieu-de-nghi-viet-nam-cho-thue-may-bay-d151720.html",
+   "article_source": "vietnamfinance.vn",
+   "article_excerpt": "Nga đã đề nghị Việt Nam cho thuê máy bay chở khách, kèm theo phi hành đoàn và dịch vụ bảo trì, do đội máy bay mà Nga tịch thu từ các công ty cho thuê phương Tây năm 2022 đang xuống cấp. Gần một phần năm số máy bay của các hãng hàng không lớn nhất Nga hiện phải ngừng hoạt động.​\nBộ trưởng Giao thông Vận tải Nga Andrei Nikitin cho biết Moscow đã đề xuất các hãng hàng không Việt Nam cung cấp máy bay cho các hãng hàng không Nga theo hình thức thuê ướt, bao gồm máy bay, phi hành đoàn, bảo trì và bảo hiểm.\nNga cũng đã tìm cách tiếp cận các quốc gia khác ở châu Á, châu Phi và Trung Đông, nhưng chưa đạt được kết quả.\nĐội bay thương mại của Nga đang chịu áp lực khi số máy bay phải ngừng hoạt động tăng cao, trong khi nguồn phụ tùng và nhiên liệu hàng không gặp hạn chế. (Ảnh minh họa)\nĐề nghị này cho thấy tình trạng của đội máy bay chở khách mà Nga tịch thu sau khi các công ty cho thuê phương Tây yêu cầu thu hồi vào năm 2022 đang trở nên nghiêm trọng.\nSau khi cuộc xung đột Nga - Ukraine nổ ra vào tháng 2/2022, Moscow đã thông qua một đạo luật cho phép các hãng hàng không đăng ký lại hơn 400 máy bay phương Tây thuê từ nước ngoài để tiếp tục khai thác tại thị trường nội địa, thay vì trả lại cho chủ sở hữu.\nCác công ty cho thuê máy bay đã yêu cầu các doanh nghiệp bảo hiểm bồi thường tổng cộng khoảng 8 tỷ USD (7,1 tỷ euro) cho số tài sản bị mất. Nhiều vụ việc liên quan vẫn đang được giải quyết.\nTrước khi Nga mở chiến dịch quân sự toàn diện tại Ukraine, khoảng 850 trong tổng số 900 máy bay thương mại của nước này là máy bay Boeing hoặc Airbus do Mỹ và châu Âu sản xuất. Khoảng 85% số máy bay này được thuê từ các công ty nước ngoài.\nTheo số liệu của ngành hàng không Nga, trong 673 máy bay do 11 hãng hàng không lớn nhất nước này vận hành, có 130 chiếc, tương đương gần 20%, đang không hoạt động. Tỷ lệ máy bay phải ngừng hoạt động thông thường chỉ khoảng 10%.\nCác hãng hàng không ngoài tập đoàn Aeroflot gặp tình trạng nghiêm trọng hơn. Có tới 93 trong số 322 máy bay của các hãng này, tương đương gần một phần ba đội bay, đang phải ngừng hoạt động.\nNguồn cung nhiên liệu cũng đang trở thành một vấn đề riêng. Theo hãng tin Verstka, các hạn chế tiếp nhiên liệu đã được áp dụng tại ít nhất 26 sân bay lớn của Nga.\nTại các sân bay ở St Petersburg, Kaliningrad, Yekaterinburg, Kazan, Ufa, Irkutsk và Vladivostok, nhiên liệu được phân bổ dựa trên lượng cần thiết cho từng chuyến bay.\nCác hạn chế nghiêm ngặt nhất được áp dụng tại miền Nam nước Nga. Các sân bay ở Sochi, Volgograd và Astrakhan đã áp đặt giới hạn nhiên liệu đối với tất cả các hãng hàng không. Các cuộc tấn công bằng máy bay không người lái của Ukraine nhằm vào các nhà máy lọc dầu của Nga đã làm giảm sản lượng nhiên liệu. Chính phủ Nga cũng hạn chế xuất khẩu nhiên liệu hàng không để ứng phó với tình trạng này.\nTheo truyền thông Nga, Bộ Giao thông Vận tải, Bộ Công nghiệp và tập đoàn quốc phòng nhà nước Rostec đang thảo luận về một khoản phí hành khách mới nhằm tài trợ cho việc mua sắm và vận hành máy bay sản xuất trong nước.",
+   "status": "ok",
+   "pages_scanned": 5,
+   "replies": 93,
+   "total_reactions": 93,
+   "base_score": 279.0,
+   "hot_score": 43.422,
+   "top_comments": [
+    {
+     "post_id": "43950768",
+     "number": 2,
+     "author": "bickfuong",
+     "url": "https://voz.vn/p/43950768/",
+     "created_at": "2026-10-08T05:27:41+00:00",
+     "reactions": 3,
+     "text": "ủa nghe tinno nói càng đánh càng mạnh mà"
+    },
+    {
+     "post_id": "43950817",
+     "number": 3,
+     "author": "Xoài chua",
+     "url": "https://voz.vn/p/43950817/",
+     "created_at": "2026-10-08T05:32:42+00:00",
+     "reactions": 3,
+     "text": "Mạt vận cho nước Nga"
+    },
+    {
+     "post_id": "43950833",
+     "number": 4,
+     "author": "Chi_chung_do_thoi",
+     "url": "https://voz.vn/p/43950833/",
+     "created_at": "2026-10-08T05:34:19+00:00",
+     "reactions": 3,
+     "text": "Thế có cho thuê không"
+    },
+    {
+     "post_id": "43950837",
+     "number": 5,
+     "author": "Ma Bư Mập",
+     "url": "https://voz.vn/p/43950837/",
+     "created_at": "2026-10-08T05:34:37+00:00",
+     "reactions": 3,
+     "text": "Cường quốc số 1 thế giới về vũ trụ và quân sự mà không chế được tàu bay à ?\nNghe nói phi hành gia mỹ và các nước trên tg đều phải nhờ tàu bay nga chở lên trời mà."
+    },
+    {
+     "post_id": "43950863",
+     "number": 6,
+     "author": "Mr.bonhech",
+     "url": "https://voz.vn/p/43950863/",
+     "created_at": "2026-10-08T05:38:45+00:00",
+     "reactions": 3,
+     "text": "Cho thuê, bán phụ kiện cho ngú lại ăn đấm vào mõm. Máy bay , phụ tùng thì đao lồng cũng mua, thuê của tây thôi, chứ có sản xuất đc đâu."
+    },
+    {
+     "post_id": "43950897",
+     "number": 11,
+     "author": "okamoto001",
+     "url": "https://voz.vn/p/43950897/",
+     "created_at": "2026-10-08T05:42:14+00:00",
+     "reactions": 3,
+     "text": "Cường quốc mà clg cũng thtiếu thế này? đề nghi thuê máy bay, có đề nghị hỗ trợ người ra đánh nhau với u cà nữa không? dân vN yêu nga, cuồng nga nhiều lắm ( tôi thì không), hô cái là lên đường ngay"
+    },
+    {
+     "post_id": "43950906",
+     "number": 12,
+     "author": "ngocquy16xd",
+     "url": "https://voz.vn/p/43950906/",
+     "created_at": "2026-10-08T05:43:19+00:00",
+     "reactions": 3,
+     "text": "ụ á cho thuê trong khi vừa có quả dịch hạch lạ ở ngú sợ vl"
+    },
+    {
+     "post_id": "43950919",
+     "number": 13,
+     "author": "orlagu",
+     "url": "https://voz.vn/p/43950919/",
+     "created_at": "2026-10-08T05:44:38+00:00",
+     "reactions": 3,
+     "text": "Thằng chuyên bắn nhầm máy bay dân dụng và quân sự (thậm chí của chính mình) mở mồm đòi thuê máy bay, mà lại còn thuê ướt, ối dồi ôi."
+    },
+    {
+     "post_id": "43950921",
+     "number": 14,
+     "author": "ĐẠI THIÊN ĐẾ",
+     "url": "https://voz.vn/p/43950921/",
+     "created_at": "2026-10-08T05:44:51+00:00",
+     "reactions": 3,
+     "text": "dịch cabin : tau đang ăn cớt, mày giúp tau ăn bớt đống này"
+    },
+    {
+     "post_id": "43950941",
+     "number": 15,
+     "author": "okamoto001",
+     "url": "https://voz.vn/p/43950941/",
+     "created_at": "2026-10-08T05:47:19+00:00",
+     "reactions": 3,
+     "text": "sợ cẹc, có sao thì bay giải cứu luôn, yên tâm nhé"
+    },
+    {
+     "post_id": "43950955",
+     "number": 17,
+     "author": "Hoa Ly",
+     "url": "https://voz.vn/p/43950955/",
+     "created_at": "2026-10-08T05:49:01+00:00",
+     "reactions": 3,
+     "text": "làm gì có chuyện dám chơi ngu vậy, muốn ăn cấm vận chung à\nnhưng trong lúc này mới rõ, tình anh em đã kết thúc trong quá khứ rồi"
+    },
+    {
+     "post_id": "43950978",
+     "number": 21,
+     "author": "Hoa Ly",
+     "url": "https://voz.vn/p/43950978/",
+     "created_at": "2026-10-08T05:53:06+00:00",
+     "reactions": 3,
+     "text": "nhìn vào thực lực của Nga thì chắc chắn oảng rồi, làm gì có đủ sức mà làm nữa, nhân tài hạt nhân giờ chắc đang ngồi nghiên cứu bom hạt nhân gắn vào tên lửa hết rồi"
+    },
+    {
+     "post_id": "43950981",
+     "number": 23,
+     "author": "danglinh3009",
+     "url": "https://voz.vn/p/43950981/",
+     "created_at": "2026-10-08T05:53:46+00:00",
+     "reactions": 3,
+     "text": "Giúp nó lúc khó khăn. Chứ Nga nó có khó khăn gì đâu. Chỉ cần rút quân khỏi Ukraine là có phụ tùng và nhiên liệu trở lại thôi. Zelenski vĩ đại."
+    },
+    {
+     "post_id": "43950985",
+     "number": 24,
+     "author": "BlueHills",
+     "url": "https://voz.vn/p/43950985/",
+     "created_at": "2026-10-08T05:54:20+00:00",
+     "reactions": 3,
+     "text": "Hồi xưa m chơi t 1 rúp = 1 đô, bây giờ t chơi 1 vnd = 1 đô m chơi lo ?"
+    },
+    {
+     "post_id": "43951097",
+     "number": 33,
+     "author": "Minkhs",
+     "url": "https://voz.vn/p/43951097/",
+     "created_at": "2026-10-08T06:07:14+00:00",
+     "reactions": 3,
+     "text": "Loz , cú chơi ẩu lên đìa đó của Nga cay thật.\nSau này thì theo khựa công nhận biển đông thuộc khựa, bán vk thì ép vn đủ kiểu, khiến VN phải mua của dai thó.\nTrong mắt ngú VN éo khác gì mọi phương nam mà nhiều thằng vẫn thờ nga hay thật"
+    },
+    {
+     "post_id": "43951833",
+     "number": 46,
+     "author": "amd2024",
+     "url": "https://voz.vn/p/43951833/",
+     "created_at": "2026-10-08T07:04:05+00:00",
+     "reactions": 3,
+     "text": "Xưa tre Vay LX/ Nga 11 tỷ Rúp; sau LX tan rã Ngã đòi 1 USD= 1 rúp như vậy VN nợ Nga 11 tỷ USD; VN đâu chịu do làm gi hai giá trị tiền tệ cùi bắp ngang nhau được.\nĐàm qua đàm lại, VN vay nên biết ý có người giúp lúc khóc khắn chấp nhận tiếng thơm Nga xoá 85% số nợ/ 15% còn lại trả chậm trả từ từ.\nĐó có vay có trả nhưng ko chơi quy đổi cào bằng được!\nNên giờ muốn mượn thì cứ quy ra 1 USD = 1 VND đi ha ha'\nP/S Trong TH nào đó biến thể đi đám cưới bằng vàng 10 năm trước với đi lại bây giờ bằng vàng ha ha!"
+    },
+    {
+     "post_id": "43951851",
+     "number": 47,
+     "author": "Vipday2",
+     "url": "https://voz.vn/p/43951851/",
+     "created_at": "2026-10-08T07:05:22+00:00",
+     "reactions": 3,
+     "text": "thời lô xiên cho vay bằng rúp rồi nga đòi nợ bằng đô với tỷ giá như trên, kỳ kèo mãi mới chốt số = 15% giá đòi, 85% còn lại truyền thông rằng nó xoá nợ cho mình"
+    },
+    {
+     "post_id": "43953106",
+     "number": 79,
+     "author": "0903403999",
+     "url": "https://voz.vn/p/43953106/",
+     "created_at": "2026-10-08T08:31:05+00:00",
+     "reactions": 3,
+     "text": "Không giúp Nga sau bị Tàu đấm thì Nga quan ngại thôi nhé"
+    },
+    {
+     "post_id": "43953337",
+     "number": 85,
+     "author": "Husqvarna701SM",
+     "url": "https://voz.vn/p/43953337/",
+     "created_at": "2026-10-08T08:45:05+00:00",
+     "reactions": 3,
+     "text": "chứ lần cuối thằng tàu nó cắm cái dàn khoan thì nga làm cái gì thế\n."
+    },
+    {
+     "post_id": "43950895",
+     "number": 10,
+     "author": "ngominhkien",
+     "url": "https://voz.vn/p/43950895/",
+     "created_at": "2026-10-08T05:42:02+00:00",
+     "reactions": 2,
+     "text": "@Dmitry Yazov\nMời đại ka cho ý kiến có nên cho bố mượn máy bay hay không"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286838",
+   "title": "Giá xăng tiếp tục tăng, xăng E10 lên hơn 28.250 đồng/lít",
+   "url": "https://voz.vn/t/gia-xang-tiep-tuc-tang-xang-e10-len-hon-28-250-dong-lit.1286838/",
+   "prefix": "",
+   "op_author": "Secretary",
+   "op_created_at": "2026-10-08T08:21:13+00:00",
+   "article_url": "https://dantri.com.vn/kinh-doanh/tai-chinh.htm",
+   "article_source": "dantri.com.vn",
+   "article_excerpt": "(Dân trí) - Từ 15h ngày 8/10, giá xăng dầu tăng giảm trái chiều. Trong đó, giá xăng tăng mạnh 1.070-1.140 đồng/lít.​\nChiều 8/10, liên Bộ Công Thương, Bộ\nTài chính\nquyết định điều chỉnh giá bán lẻ xăng dầu, áp dụng từ 15h cùng ngày.\nCơ quan điều hành quyết định tăng 1.140 đồng/lít với xăng E5 RON 92 và tăng 1.070 đồng/lít với xăng E10 RON 95. Sau điều chỉnh, giá bán lẻ với xăng E5 RON 92 là 27.700 đồng/lít và xăng E10 RON 95 là 28.250 đồng/lít.\nDầu diesel giảm 590 đồng/lít còn 29.120 đồng/lít, trong khi đó dầu mazut tăng 700 đồng/lít lên mức 21.090 đồng/kg. Ở kỳ điều hành này, cơ quan quản lý quyết định tiếp tục trích quỹ bình ổn với dầu diesel 200 đồng/lít.\nGiá xăng tiếp tục tăng, xăng E10 lên hơn 28.200 đồng/lít (https://dantri.com.vn/kinh-doanh/gia-xang-tiep-tuc-tang-xang-e10-len-hon-28200-donglit-20261008141001165.htm)",
+   "status": "ok",
+   "pages_scanned": 4,
+   "replies": 75,
+   "total_reactions": 54,
+   "base_score": 183.0,
+   "hot_score": 37.301,
+   "top_comments": [
+    {
+     "post_id": "43952975",
+     "number": 3,
+     "author": "ghostlab",
+     "url": "https://voz.vn/p/43952975/",
+     "created_at": "2026-10-08T08:22:01+00:00",
+     "reactions": 3,
+     "text": "Cứ đà này chắc sắp phải tính đến chuyện đạp xe đi làm cho lành rồi"
+    },
+    {
+     "post_id": "43953037",
+     "number": 10,
+     "author": "Thầy Sáu Kim",
+     "url": "https://voz.vn/p/43953037/",
+     "created_at": "2026-10-08T08:25:40+00:00",
+     "reactions": 3,
+     "text": "Sáng nay tranh thủ đầy bình rồi!!!"
+    },
+    {
+     "post_id": "43953050",
+     "number": 12,
+     "author": "SillyBi92",
+     "url": "https://voz.vn/p/43953050/",
+     "created_at": "2026-10-08T08:26:42+00:00",
+     "reactions": 3,
+     "text": "Quá đã xăng thì cứ lên, đường thì ngập, đi đâu cũng dính kẹt xe nặng. Tha hồ mà đốt xăng"
+    },
+    {
+     "post_id": "43953081",
+     "number": 18,
+     "author": "God of Moon",
+     "url": "https://voz.vn/p/43953081/",
+     "created_at": "2026-10-08T08:29:23+00:00",
+     "reactions": 3,
+     "text": "hao hơn xăng RON95 khoảng 15 20%, trong khi giờ giá cũng tương đương, t éo biết là bảo vên mt cái cc gì luông"
+    },
+    {
+     "post_id": "43953190",
+     "number": 35,
+     "author": "Ong Ve͏",
+     "url": "https://voz.vn/p/43953190/",
+     "created_at": "2026-10-08T08:36:06+00:00",
+     "reactions": 3,
+     "text": "Em xin thề em không có nói gì vo ve cả hết!\nCác anh matcha phải tin em"
+    },
+    {
+     "post_id": "43953024",
+     "number": 7,
+     "author": "ΜΟΝΚΕΥ",
+     "url": "https://voz.vn/p/43953024/",
+     "created_at": "2026-10-08T08:24:45+00:00",
+     "reactions": 2,
+     "text": "Vãi, mới đổ lúc đi ăn trưa xong."
+    },
+    {
+     "post_id": "43953078",
+     "number": 17,
+     "author": "BanhXe0_",
+     "url": "https://voz.vn/p/43953078/",
+     "created_at": "2026-10-08T08:28:49+00:00",
+     "reactions": 2,
+     "text": "Nghe đồn là hết hạn giảm thuế , giờ cbi đánh thuế lại"
+    },
+    {
+     "post_id": "43953110",
+     "number": 22,
+     "author": "rongcon3006",
+     "url": "https://voz.vn/p/43953110/",
+     "created_at": "2026-10-08T08:31:21+00:00",
+     "reactions": 2,
+     "text": "Theo dõi giá thế giới thì thấy rõ thôi"
+    },
+    {
+     "post_id": "43953111",
+     "number": 23,
+     "author": "vubeoelly",
+     "url": "https://voz.vn/p/43953111/",
+     "created_at": "2026-10-08T08:31:23+00:00",
+     "reactions": 2,
+     "text": "bát phở ngày mai ít đi 1 miếng gầu rồi\nđ!t mẹ thật biết ơn"
+    },
+    {
+     "post_id": "43953130",
+     "number": 25,
+     "author": "benam123",
+     "url": "https://voz.vn/p/43953130/",
+     "created_at": "2026-10-08T08:32:21+00:00",
+     "reactions": 2,
+     "text": "Tôi nhớ thời đổ 30 lít xăng chỉ 600 ngàn. Giờ phải 900 ngàn mới đủ 30 lít. Coinmeno"
+    },
+    {
+     "post_id": "43953132",
+     "number": 27,
+     "author": "God of Moon",
+     "url": "https://voz.vn/p/43953132/",
+     "created_at": "2026-10-08T08:32:43+00:00",
+     "reactions": 2,
+     "text": "tối qua mới làm quả full bình xe máy, cũng chả save bao nhiêu đâu, nhưng cảm giác kiểu không bị đánh úp"
+    },
+    {
+     "post_id": "43953157",
+     "number": 31,
+     "author": "cmd08",
+     "url": "https://voz.vn/p/43953157/",
+     "created_at": "2026-10-08T08:34:10+00:00",
+     "reactions": 2,
+     "text": "sirius đổ đầy bình 90k, đìu mé còn accent cùi 1 tr hơn mới đầy bình."
+    },
+    {
+     "post_id": "43953229",
+     "number": 41,
+     "author": "John117",
+     "url": "https://voz.vn/p/43953229/",
+     "created_at": "2026-10-08T08:38:39+00:00",
+     "reactions": 2,
+     "text": "Trước đi cả tuần, giờ chạy đc 4 ngày đã hết cụ bình xăng, tiết kiệm của chúng mày đấy, lũ khốn nạn!"
+    },
+    {
+     "post_id": "43953310",
+     "number": 47,
+     "author": "f10m5",
+     "url": "https://voz.vn/p/43953310/",
+     "created_at": "2026-10-08T08:43:24+00:00",
+     "reactions": 2,
+     "text": "Thực ra giá dầu thô hiện tại chưa phải mức đỉnh từ hồi đấm nhau. Giá xăng thành phẩm đợt này cao do cả nguyên nhân khan hiếm nguồn cung lọc dầu nữa, 2 thằng nga và tq siết bớt xuất khẩu thành phẩm"
+    },
+    {
+     "post_id": "43953338",
+     "number": 49,
+     "author": "cmd08",
+     "url": "https://voz.vn/p/43953338/",
+     "created_at": "2026-10-08T08:45:14+00:00",
+     "reactions": 2,
+     "text": "xe thời sanh viên của mình á thím, 2 lẻ mấy nên chưa có fi. Lần đầu tiên đổ xăng full bình mà hơn 90k. Xe đời này uống xăng cũng ác nữa, giờ mình để kỷ niệm chứ ít đi."
+    },
+    {
+     "post_id": "43953029",
+     "number": 8,
+     "author": "Shades (GreatSwords)",
+     "url": "https://voz.vn/p/43953029/",
+     "created_at": "2026-10-08T08:25:10+00:00",
+     "reactions": 1,
+     "text": "vãi kẹc thiệt. vậy là tiết kiệm+ bảo vệ môi trường dữ chưa"
+    },
+    {
+     "post_id": "43953057",
+     "number": 13,
+     "author": "Grommash Hellscream",
+     "url": "https://voz.vn/p/43953057/",
+     "created_at": "2026-10-08T08:27:17+00:00",
+     "reactions": 1,
+     "text": "không đủ etha để pha"
+    },
+    {
+     "post_id": "43953066",
+     "number": 14,
+     "author": "Secretary",
+     "url": "https://voz.vn/p/43953066/",
+     "created_at": "2026-10-08T08:27:53+00:00",
+     "reactions": 1,
+     "text": "Chủ yếu nhập xăng dầu thành phẩm bên Sing nên theo giá Sing bạn ơi!"
+    },
+    {
+     "post_id": "43953084",
+     "number": 19,
+     "author": "i5-4210u",
+     "url": "https://voz.vn/p/43953084/",
+     "created_at": "2026-10-08T08:29:37+00:00",
+     "reactions": 1,
+     "text": "lúc 13h tính đổ mà lại lười lười..."
+    },
+    {
+     "post_id": "43953101",
+     "number": 20,
+     "author": "noname1378",
+     "url": "https://voz.vn/p/43953101/",
+     "created_at": "2026-10-08T08:30:46+00:00",
+     "reactions": 1,
+     "text": "đã ngừng éo đâu, thằng tàu giờ trả giá cao hơn 15-30$/ thùng còn không có mà mua kia kìa"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286751",
+   "title": "Hầm xe khu dân cư cao cấp ở TP.HCM ngập ngang cổ, sáng nay vẫn bơm nước cứu xe",
+   "url": "https://voz.vn/t/ham-xe-khu-dan-cu-cao-cap-o-tp-hcm-ngap-ngang-co-sang-nay-van-bom-nuoc-cuu-xe.1286751/",
+   "prefix": "",
+   "op_author": "bia Pierre",
+   "op_created_at": "2026-10-08T04:52:36+00:00",
+   "article_url": "https://thanhnien.vn/ham-xe-khu-dan-cu-cao-cap-o-tphcm-ngap-ngang-co-sang-nay-van-bom-nuoc-cuu-xe-185261008100436172.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Sau trận mưa lớn tối 7.10, hầm xe tại khu dân cư Cityland Park Hills (TP.HCM) ngập sâu. Sáng nay, hàng chục xe máy vẫn chìm trong nước, nhiều người phải bơm nước để đưa xe ra ngoài.\nKhoảng hơn 6 căn nhà ở Cityland Park Hills (đường Phan Văn Trị, phường Gò Vấp) đều bị nước tràn vào, gây ngập nước trong trận mưa lớn vào tối qua 7.10. Sáng nay, nhiều người tất bật dọn dẹp lại đồ đạc và nhanh chóng bơm nước từ hầm ra ngoài, cứu hàng chục xe máy mắc kẹt do ngập nước.\nnguồn\nHầm xe khu dân cư cao cấp ở TP.HCM ngập ngang cổ, sáng nay vẫn bơm nước cứu xe (https://thanhnien.vn/ham-xe-khu-dan-cu-cao-cap-o-tphcm-ngap-ngang-co-sang-nay-van-bom-nuoc-cuu-xe-185261008100436172.htm)\nkhu biệt thự cao cấp mấy chục tỉ 1 căn vẫn ăn hành",
+   "status": "ok",
+   "pages_scanned": 5,
+   "replies": 83,
+   "total_reactions": 83,
+   "base_score": 249.0,
+   "hot_score": 37.156,
+   "top_comments": [
+    {
+     "post_id": "43950445",
+     "number": 2,
+     "author": "Reconnect",
+     "url": "https://voz.vn/p/43950445/",
+     "created_at": "2026-10-08T04:54:17+00:00",
+     "reactions": 3,
+     "text": "khu này trước khi có khu nhà giàu thì không bao giờ ngập. từ hồi nó xây xong thì bao nhiêu nước tràn ra đường Phan Văn Trị trước đó. thêm đoạn Quang Trung gần đó cũng ngập 1/4 luôn. đặc biệt là dù la khu mới xây mà cái đường bên trong bé như cái lỗ mũi."
+    },
+    {
+     "post_id": "43950452",
+     "number": 3,
+     "author": "aladanh",
+     "url": "https://voz.vn/p/43950452/",
+     "created_at": "2026-10-08T04:54:29+00:00",
+     "reactions": 3,
+     "text": "xứ ngập này làm hầm chi cho tốn kém, cứ làm hầm nổi là đẹp"
+    },
+    {
+     "post_id": "43950481",
+     "number": 5,
+     "author": "Tsar Bomba",
+     "url": "https://voz.vn/p/43950481/",
+     "created_at": "2026-10-08T04:56:51+00:00",
+     "reactions": 3,
+     "text": "Phú nhuận, chấp tất các thể loại mưa"
+    },
+    {
+     "post_id": "43950486",
+     "number": 6,
+     "author": "noichungkhongquantamlam",
+     "url": "https://voz.vn/p/43950486/",
+     "created_at": "2026-10-08T04:57:03+00:00",
+     "reactions": 3,
+     "text": "Bởi vậy ae phải nển thằng nhật lùn nha, cái xứ gì mà núi lửa, động đất mà nó vẫn giàu, còn ở đâu vẫn ra rả rừng vàng biển bạc mưa thuận gió hoà mà mưa mới 1-2 trận to là ngập te tua, đường thì ổ gà ổ voi, chạy xe máy éo biết sụp hố rồi chết lúc nào"
+    },
+    {
+     "post_id": "43950513",
+     "number": 7,
+     "author": "DeutschlandGreatAgain",
+     "url": "https://voz.vn/p/43950513/",
+     "created_at": "2026-10-08T04:59:19+00:00",
+     "reactions": 3,
+     "text": "Bớ mod, có phản động\nMới dềnh nước có tí, sáng nay hút ra là xong rồi"
+    },
+    {
+     "post_id": "43950518",
+     "number": 8,
+     "author": "anhthosan",
+     "url": "https://voz.vn/p/43950518/",
+     "created_at": "2026-10-08T04:59:27+00:00",
+     "reactions": 3,
+     "text": "Để tôi lên fb kiếm lại cái thằng cò đất khuyên mọi người mua BĐS ở Gò Vấp không bao giờ ngập lụt, gửi bài này cho nó."
+    },
+    {
+     "post_id": "43950523",
+     "number": 9,
+     "author": "noichungkhongquantamlam",
+     "url": "https://voz.vn/p/43950523/",
+     "created_at": "2026-10-08T05:00:05+00:00",
+     "reactions": 3,
+     "text": "Nhắc hút mới nhớ, không biết cái máy bơm bên cầu ba son chạy sạch nước dềnh chưa"
+    },
+    {
+     "post_id": "43950526",
+     "number": 10,
+     "author": "ghostlab",
+     "url": "https://voz.vn/p/43950526/",
+     "created_at": "2026-10-08T05:00:14+00:00",
+     "reactions": 3,
+     "text": "làm cái hầm sâu hoắm rồi đến lúc mưa to nước cứ thế dồn xuống, xe nào gánh nổi"
+    },
+    {
+     "post_id": "43950546",
+     "number": 14,
+     "author": "DeutschlandGreatAgain",
+     "url": "https://voz.vn/p/43950546/",
+     "created_at": "2026-10-08T05:02:42+00:00",
+     "reactions": 3,
+     "text": "Ai cũng lên đó thì lại xây nhiều, thì vẫn ngập cục bộ hết"
+    },
+    {
+     "post_id": "43950549",
+     "number": 15,
+     "author": "Effoc",
+     "url": "https://voz.vn/p/43950549/",
+     "created_at": "2026-10-08T05:02:57+00:00",
+     "reactions": 3,
+     "text": "Nước ta vừa trải qua 2 cuộc đại chiến thế giới, 4 cuộc chiến tranh lớn, thế lực phổng đạn hải ngoại điên cuồng chống phá, mới bình thường hóa quan hệ với Hoa Kỳ hơn 30 năm nay, được thế này là tốt lắm rồi. Chỉ có thứ ong ve thất bại mới chê bai"
+    },
+    {
+     "post_id": "43950639",
+     "number": 17,
+     "author": "TuDragon76",
+     "url": "https://voz.vn/p/43950639/",
+     "created_at": "2026-10-08T05:14:27+00:00",
+     "reactions": 3,
+     "text": "Con nữ đồng nghiệp trong cty cứ cứ bô bô mồm \" Gò Vấp không bao giờ ngập vì nó là gò\", tui chỉ biết cười thầm muốn ẻ ra quần"
+    },
+    {
+     "post_id": "43950672",
+     "number": 18,
+     "author": "IOU Account",
+     "url": "https://voz.vn/p/43950672/",
+     "created_at": "2026-10-08T05:18:04+00:00",
+     "reactions": 3,
+     "text": "Sao trước không làm cái kèo, đứa nào thua thì bị chịch"
+    },
+    {
+     "post_id": "43950675",
+     "number": 19,
+     "author": "buitruong1689",
+     "url": "https://voz.vn/p/43950675/",
+     "created_at": "2026-10-08T05:18:38+00:00",
+     "reactions": 3,
+     "text": "Không phải tự nhiên bọn phổng đạn, 3 we có câu political joke \"Nếu giao cho những người Cơm Sườn quản lý sa mạc Sahara, thì trong vài năm chúng ta sẽ thiếu cát\""
+    },
+    {
+     "post_id": "43950826",
+     "number": 20,
+     "author": "^_^Cool^_^",
+     "url": "https://voz.vn/p/43950826/",
+     "created_at": "2026-10-08T05:33:33+00:00",
+     "reactions": 3,
+     "text": "Tranh vậy.\nIn ra lồng khung kính, bao nghệ."
+    },
+    {
+     "post_id": "43950873",
+     "number": 21,
+     "author": "ZonZun_1",
+     "url": "https://voz.vn/p/43950873/",
+     "created_at": "2026-10-08T05:39:44+00:00",
+     "reactions": 3,
+     "text": "Tuần trước mới ở Nhật đúng đợt mưa lịch sử hơn 1 tháng liên tục, mưa đúng kiểu mưa rào mưa giông, central tokyo mấy khu như Shinjuku, Minato hay Shibuya không chỗ nào nó ngập"
+    },
+    {
+     "post_id": "43950953",
+     "number": 24,
+     "author": "AyaBrea",
+     "url": "https://voz.vn/p/43950953/",
+     "created_at": "2026-10-08T05:48:48+00:00",
+     "reactions": 3,
+     "text": "Công viên nước"
+    },
+    {
+     "post_id": "43951047",
+     "number": 27,
+     "author": "rhk678",
+     "url": "https://voz.vn/p/43951047/",
+     "created_at": "2026-10-08T06:01:56+00:00",
+     "reactions": 3,
+     "text": "Ko sao nhé, xe tôi ab cũng bị vụ ngập quận 10 cách đây gần 10 năm, chìm nghỉm luôn, nằm 2 ngày mới hút hết nước ra mang đi sửa dc, chi thay mỗi cái đèn thôi, còn lại ko bị gì, vẫn chạy ngon đến giờ"
+    },
+    {
+     "post_id": "43950535",
+     "number": 12,
+     "author": "LunaRtz",
+     "url": "https://voz.vn/p/43950535/",
+     "created_at": "2026-10-08T05:01:11+00:00",
+     "reactions": 2,
+     "text": "Cha sinh mẹ đẻ mấy chục năm mới thấy khu này ngập, xây cho kín rồi không tính đến thoát nước. Giờ cả cái gò vấp đi đâu cũng thấy ngập cục bộ, giờ chắc rủ nhau qua mạn Hóc môn khúc tô ký hay lên hẳn củ chi mới hết ngập quá"
+    },
+    {
+     "post_id": "43951023",
+     "number": 26,
+     "author": "diepvienmia1",
+     "url": "https://voz.vn/p/43951023/",
+     "created_at": "2026-10-08T05:59:13+00:00",
+     "reactions": 2,
+     "text": "xe số, ko phun xăng điện tử thì hầu như ko hư nhiều. như mấy con ab đời mới, màn hình điện tử thì sửa hơi bị chát. sửa rồi thì nguy cơ chạm chập cao vì dây điện jack cắm vô nước hết mịa rồi. sơ sơ tầm trên 5 củ."
+    },
+    {
+     "post_id": "43951279",
+     "number": 34,
+     "author": "vincentle",
+     "url": "https://voz.vn/p/43951279/",
+     "created_at": "2026-10-08T06:23:18+00:00",
+     "reactions": 2,
+     "text": "Xi ti lên bặc hiu nhà toàn 25 26 tỷ xe vô nước là vứt chứ lo lắng gì đâu mà"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286503",
+   "title": "Mỹ khuyến cáo công dân rời khỏi Nga ngay lập tức",
+   "url": "https://voz.vn/t/my-khuyen-cao-cong-dan-roi-khoi-nga-ngay-lap-tuc.1286503/",
+   "prefix": "",
+   "op_author": "vozfor",
+   "op_created_at": "2026-10-07T11:14:59+00:00",
+   "article_url": "https://tuoitre.vn/my-khuyen-cao-cong-dan-roi-khoi-nga-ngay-lap-tuc-100261007170322923.htm",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "Ngày 6-10, trang web Đại sứ quán Mỹ tại Matxcơva phát cảnh báo y tế, trong đó nhắc lại khuyến cáo công dân Mỹ rời khỏi Nga ngay lập tức giữa thông tin về dịch hạch.\nNgười đi bộ trên một con phố ở thị trấn Shelekhov, vùng Irkutsk, Nga ngày 6-10-2026 - Ảnh: REUTERS\nMỹ phát cảnh báo y tế\n​\nCảnh báo y tế đăng trên trang web Đại sứ quán Mỹ tại Nga ngày 6-10 và được truyền thông quốc tế chia sẻ hôm nay (7-10).\nĐại sứ quán Mỹ tại Nga cho biết họ đã nắm được các thông tin trên truyền thông về trường hợp nghi mắc dịch hạch thể phổi tại tỉnh Irkutsk, vùng Siberia cùng các biện pháp cách ly được triển khai và việc đóng cửa một số bệnh viện tại Irkutsk.\n\"Chúng tôi tiếp tục theo dõi sát tình hình. Chính phủ Mỹ đang gặp hạn chế về năng lực hỗ trợ công dân Mỹ tại Nga, đặc biệt là bên ngoài thủ đô Matxcơva. Nhân viên chính phủ Mỹ có thể phải đối mặt với các hạn chế bổ sung với việc đi lại vì mục đích cá nhân và công vụ đến một số khu vực do lo ngại về y tế và an ninh\" - Đại sứ quán Mỹ lưu ý.\nĐại sứ quán Mỹ cũng nói công dân Mỹ trong khu vực nên tuân thủ hướng dẫn của cơ quan y tế địa phương, tránh đến các cơ sở bị ảnh hưởng và nhanh chóng tìm kiếm chăm sóc y tế nếu bị sốt hoặc có triệu chứng về bệnh hô hấp.\n\"Nếu từng đến khu vực đang xảy ra dịch, hãy theo dõi sức khỏe trong 14 ngày sau chuyến đi. Hãy chuẩn bị phương án rời khỏi khu vực trong trường hợp khẩn cấp mà không phụ thuộc vào sự hỗ trợ của Chính phủ Mỹ\" - cảnh báo y tế nêu.\nĐại sứ quán Mỹ nhấn mạnh: \"Khuyến cáo đi lại cấp độ 4 (Không đi lại) của Bộ Ngoại giao Mỹ đối với Nga vẫn có hiệu lực và nêu rõ công dân Mỹ đang ở Nga nên rời khỏi ngay lập tức.\nCông dân Mỹ có kế hoạch đến Nga một lần nữa được khuyến cáo mạnh mẽ không nên đến nước này do nguy cơ bị bắt giữ trái pháp luật và những quan ngại về an ninh\".\nCần lưu ý đây không phải là lần đầu Mỹ áp dụng khuyến cáo đi lại ở mức này. Khuyến cáo đi lại cấp độ 4 của Bộ Ngoại giao Mỹ đối với Nga đã được áp dụng từ tháng 1-2022, ngay trước khi Nga phát động chiến dịch quân sự đặc biệt tại Ukraine.\nMỹ nhắc lại khuyến cáo trên vào thời điểm Washington ngày càng tỏ ra lo ngại sau cái chết của một nhân viên Viện Nghiên cứu dịch hạch tại Nga.",
+   "status": "ok",
+   "pages_scanned": 6,
+   "replies": 105,
+   "total_reactions": 156,
+   "base_score": 417.0,
+   "hot_score": 28.648,
+   "top_comments": [
+    {
+     "post_id": "43943794",
+     "number": 2,
+     "author": "vuducsaobien",
+     "url": "https://voz.vn/p/43943794/",
+     "created_at": "2026-10-07T11:23:59+00:00",
+     "reactions": 3,
+     "text": "Đợi em bay sang Đức\nlàm việc xong hãy Phong tỏa bác 100 ơi."
+    },
+    {
+     "post_id": "43943817",
+     "number": 3,
+     "author": "thangquy_nho",
+     "url": "https://voz.vn/p/43943817/",
+     "created_at": "2026-10-07T11:27:34+00:00",
+     "reactions": 3,
+     "text": "Tổ chức Y tế Thế giới bắt đầu can thiệp giám sát dịch hạch ở Nga.\nXác định có thể lây lan qua không khí.\nhttps://twitter.com/x/status/2107701156919353373\nBệnh dịch hạch (do vi khuẩn Yersinia pestis) cần được điều trị ngay lập tức khi nghi ngờ, không cần chờ kết quả nuôi cấy. Thuốc kháng sinh hiệu quả bắt đầu có tác dụng khoảng 24 giờ sau khi khởi phát, và tỷ lệ tử vong có thể giảm đáng kể so với mức cao ở những trường hợp không được điều trị. Dịch hạch thể phổi và thể nhiễm trùng huyết tiến triển cực kỳ nhanh, và sự chậm trễ là nguy hiểm nhất.\nTheo hướng dẫn hiện hành, aminoglycoside và fluoroquinolone mang lại hiệu quả diệt khuẩn sớm tốt nhất và bằng chứng mạnh mẽ nhất, hơn là chờ đến khi tình trạng cải thiện mới dùng thuốc kháng sinh đường uống.\nCác lựa chọn điều trị hàng đầu:\nStreptomycin: Theo truyền thống, thuốc này có bằng chứng hiệu quả lâu dài nhất chống lại tất cả các loại dịch hạch (đặc biệt là dịch hạch thể phổi), và từ lâu đã được liệt kê là phương pháp điều trị hàng đầu trong các phác đồ điều trị của Trung Quốc. Người lớn thường được tiêm bắp khoảng 1 g mỗi 12 giờ (trẻ em khoảng 15 mg/kg mỗi 12 giờ, với liều duy nhất không quá 1 g). Thuốc này có độc tính đáng kể đối với tai và thận, và rất khó tìm mua ở nhiều khu vực.\nGentamicin: Hiệu quả của thuốc tương đương với streptomycin. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) liệt kê thuốc này cùng với fluoroquinolone là thuốc điều trị đầu tay thường được sử dụng, và nguồn cung ổn định hơn. Người lớn thường được dùng 5 mg/kg mỗi ngày một lần, tiêm tĩnh mạch hoặc tiêm bắp. Đối với các ổ áp xe khó xâm nhập hoặc hạch bạch huyết sưng to, có thể xem xét liệu pháp phối hợp hoặc rạch và dẫn lưu.\nFluoroquinolone (ciprofloxacin, levofloxacin, moxifloxacin): Các thuốc này đã được nâng cấp lên điều trị đầu tay trong hướng dẫn của CDC năm 2021. Chúng có tác dụng diệt khuẩn và có thể được dùng đường tĩnh mạch hoặc đường uống. Đường tĩnh mạch thường được ưu tiên cho các trường hợp nhiễm trùng phổi hoặc nhiễm trùng huyết nặng. Ví dụ cho người lớn: Ciprofloxacin 400 mg tiêm tĩnh mạch mỗi 8-12 giờ, hoặc levofloxacin 750 mg mỗi ngày một lần.\nChúng có thể được sử dụng như các lựa chọn thay thế, nhưng kém tin cậy hơn so với các nhóm thuốc đã đề cập ở trên đối với các trường hợp giai đoạn đầu cực kỳ nặng.\nDoxycycline: Được FDA chấp thuận, tương đương với gentamicin trong các thử nghiệm lâm sàng ngẫu nhiên có đối chứng, nhưng nó là thuốc kìm khuẩn. Thuốc này phù hợp hơn cho các trường hợp tương đối nhẹ hoặc khi không thể dùng liều lớn qua đường tĩnh mạch; trong trường hợp dịch hạch phổi nặng, nó thường được sử dụng như một liệu pháp thay thế hoặc phối hợp, và không nên chỉ dựa vào nó trong giai đoạn nguy kịch ban đầu.\nKhi màng não bị ảnh hưởng, theo truyền thống, các thuốc có thể đi vào dịch não tủy (như chloramphenicol) được thêm vào, nhưng điều này đòi hỏi quyết định của chuyên gia.\nNhững điểm chính cần lưu ý khi sử dụng thực tế\nĐối với các trường hợp nặng (dịch hạch phổi, dịch hạch nhiễm trùng huyết), thường sử dụng phối hợp hai loại thuốc ban đầu, chẳng hạn như aminoglycoside + fluoroquinolone, sau đó giảm xuống liệu pháp đơn thuốc sau khi tình trạng được cải thiện. Liệu trình điều trị thường là 10-14 ngày, hoặc khoảng 2 ngày sau khi hết sốt. Thuốc kháng sinh nhóm β-lactam (penicillin, cephalosporin) không đáng tin cậy trong điều trị dịch hạch và không nên được sử dụng.\nĐây là bệnh truyền nhiễm cần phải khai báo theo quy định pháp luật và là tình trạng khẩn cấp; việc cách ly là bắt buộc, và thuốc phải được bác sĩ chuyên khoa bệnh truyền nhiễm kê đơn dựa trên cân nặng, chức năng thận, tình trạng mang thai và loại bệnh. Tự ý dùng thuốc là không được phép. Điều trị dự phòng sau phơi nhiễm thường sử dụng doxycycline hoặc ciprofloxacin; đây là biện pháp phòng ngừa, không phải là phương pháp điều trị đầu tiên cho các trường hợp nặng.\nhttps://twitter.com/x/status/2107536539760963863"
+    },
+    {
+     "post_id": "43943821",
+     "number": 4,
+     "author": "thangquy_nho",
+     "url": "https://voz.vn/p/43943821/",
+     "created_at": "2026-10-07T11:27:49+00:00",
+     "reactions": 3,
+     "text": "Hãy nhanh chóng dự trữ kính bảo hộ, găng tay tẩm cồn và khẩu trang. Đến hiệu thuốc mua doxycycline, ciprofloxacin, thuốc hạ sốt, đường, gạo, gia vị, trứng và một số đồ hộp nữa. Có khả năng sẽ có các đợt phong tỏa trong tương lai, đặc biệt là đối với những người ở vùng Đông Bắc Trung Quốc. Hãy đi mua những thứ này ngay bây giờ!"
+    },
+    {
+     "post_id": "43943836",
+     "number": 5,
+     "author": "tunhienbiban124",
+     "url": "https://voz.vn/p/43943836/",
+     "created_at": "2026-10-07T11:30:05+00:00",
+     "reactions": 3,
+     "text": "vụ này giống SARS thôi .\nđộc tính cực mạnh ,\nVật chủ thường chết cực nhanh .\nthời gian lây lan ít , khả năng lây lan yếu .\nVới y học hiện đại thì gần như không có khả năng bùng phát thành dịch lớn ."
+    },
+    {
+     "post_id": "43943843",
+     "number": 6,
+     "author": "John117",
+     "url": "https://voz.vn/p/43943843/",
+     "created_at": "2026-10-07T11:30:48+00:00",
+     "reactions": 3,
+     "text": "SCP-049 đã xem"
+    },
+    {
+     "post_id": "43943859",
+     "number": 9,
+     "author": "tntltct2",
+     "url": "https://voz.vn/p/43943859/",
+     "created_at": "2026-10-07T11:34:01+00:00",
+     "reactions": 3,
+     "text": "Nhanh trí đưa ngay người dân ra chiến trường để lây cho U cà"
+    },
+    {
+     "post_id": "43943866",
+     "number": 11,
+     "author": "BlueHills",
+     "url": "https://voz.vn/p/43943866/",
+     "created_at": "2026-10-07T11:34:50+00:00",
+     "reactions": 3,
+     "text": "Mấy thằng quan chức Nga hết gáy vụ Mỹ nghiên cứu vksh ở Ukr từ đầu tháng r, chắc có điềm"
+    },
+    {
+     "post_id": "43943867",
+     "number": 12,
+     "author": "ghostlab",
+     "url": "https://voz.vn/p/43943867/",
+     "created_at": "2026-10-07T11:34:56+00:00",
+     "reactions": 3,
+     "text": "Cứ cách dăm bữa nửa tháng lại thấy cảnh báo khẩn cấp, đọc đến quen cả mặt chữ..."
+    },
+    {
+     "post_id": "43943886",
+     "number": 13,
+     "author": "LONG100875",
+     "url": "https://voz.vn/p/43943886/",
+     "created_at": "2026-10-07T11:37:02+00:00",
+     "reactions": 3,
+     "text": "Chuyển sang chơi vũ khí sinh học rồi à anh em?"
+    },
+    {
+     "post_id": "43943903",
+     "number": 14,
+     "author": "Thầy Phán",
+     "url": "https://voz.vn/p/43943903/",
+     "created_at": "2026-10-07T11:39:33+00:00",
+     "reactions": 3,
+     "text": "hết china virus giờ đến russia virus, lũ ký sinh trùng"
+    },
+    {
+     "post_id": "43943933",
+     "number": 17,
+     "author": "xmplVVV",
+     "url": "https://voz.vn/p/43943933/",
+     "created_at": "2026-10-07T11:45:58+00:00",
+     "reactions": 3,
+     "text": "đừng để nó tryhard bên sv ấn dùm"
+    },
+    {
+     "post_id": "43944007",
+     "number": 18,
+     "author": "Xoài chua",
+     "url": "https://voz.vn/p/43944007/",
+     "created_at": "2026-10-07T11:57:42+00:00",
+     "reactions": 3,
+     "text": "Con này khó lây lắm\nMỹ làm to chuyện hướng dư luận ra ngoài trong khi bầu cử qh tới gần thôi"
+    },
+    {
+     "post_id": "43944065",
+     "number": 20,
+     "author": "xmplVVV",
+     "url": "https://voz.vn/p/43944065/",
+     "created_at": "2026-10-07T12:05:56+00:00",
+     "reactions": 3,
+     "text": "bọn ấn kháng thể cao lắm bác, đợt covid tiến hóa là do mấy anh ấn tắm sông hằng ở dơ quá tr đó"
+    },
+    {
+     "post_id": "43944215",
+     "number": 22,
+     "author": "SomeOne.10.2013",
+     "url": "https://voz.vn/p/43944215/",
+     "created_at": "2026-10-07T12:27:54+00:00",
+     "reactions": 3,
+     "text": "Cấm mọi thằng đi từ ngú hoặc qua ngú vào đông lào đi cán bụ. Tầm này kinh tế đang khó khăn, thêm cái dịch nữa là xuống hố nhanh hơn đấy."
+    },
+    {
+     "post_id": "43944233",
+     "number": 23,
+     "author": "duoitoasenvang9x",
+     "url": "https://voz.vn/p/43944233/",
+     "created_at": "2026-10-07T12:31:17+00:00",
+     "reactions": 3,
+     "text": "Qua đó thấy tự train lên trình tăng độc lực thì có"
+    },
+    {
+     "post_id": "43944511",
+     "number": 25,
+     "author": "StoneCold166",
+     "url": "https://voz.vn/p/43944511/",
+     "created_at": "2026-10-07T13:09:16+00:00",
+     "reactions": 3,
+     "text": "Vấn đề ở đây chính là nó dc nuôi cấy trong phòng thí nghiệm nên khả năng là đặc tính của nó sẽ k giống với vi khuẩn dịch hạch thông thường. Vũ Hán Corona Virus cũng là 1 chủng virus corona đó, rồi nó lây lan và tự đột biến như thế nào thì ai cũng biết."
+    },
+    {
+     "post_id": "43944544",
+     "number": 26,
+     "author": "bhp123",
+     "url": "https://voz.vn/p/43944544/",
+     "created_at": "2026-10-07T13:14:00+00:00",
+     "reactions": 3,
+     "text": "Nếu nó được nuôi cấy theo hướng đột biến dễ lây lan thì sao fen.\nSARS-CoV-1 (SARS), SARS-CoV-2 (Covid), SARS-CoV-..."
+    },
+    {
+     "post_id": "43944568",
+     "number": 27,
+     "author": "Tàn Dương Cô Lữ",
+     "url": "https://voz.vn/p/43944568/",
+     "created_at": "2026-10-07T13:16:48+00:00",
+     "reactions": 3,
+     "text": "bọn nga là lũ ác ôn\nNhắm không thắng được Ukraine nên muốn kéo thế giới chết chung đây mà"
+    },
+    {
+     "post_id": "43944611",
+     "number": 29,
+     "author": "life_goon",
+     "url": "https://voz.vn/p/43944611/",
+     "created_at": "2026-10-07T13:20:55+00:00",
+     "reactions": 3,
+     "text": "Vùng Siberia của Nga quá khổng lồ rộng lớn, lớn hơn cả toàn bộ Đại lục Hoa Kỳ, Ấn Độ và Đông Nam Á lục địa cộng lại, nhưng dân số cực kỳ ít bằng 1/3 Việt Nam.\nVới kích thước lãnh thổ quá khủng bố nhưng dân số lại mỏng dính thế thì dịch bệnh khó mà lây lan rộng dc, ở Siberia có thể di chuyển hàng trăm, thậm chí cả nghìn km mà không thấy một bóng người nào cả, thế thì lây nhiễm kiểu gì?"
+    },
+    {
+     "post_id": "43944613",
+     "number": 30,
+     "author": "Huỳnh Cẩm Vy",
+     "url": "https://voz.vn/p/43944613/",
+     "created_at": "2026-10-07T13:21:07+00:00",
+     "reactions": 3,
+     "text": "Vy mỗ ngay từ hôm qua đã bảo khọm già đi vét ít kháng sinh đủ dùng cho cả nhà rồi\nChỉ cần xuất hiện tin tức khựa đóng biên, phong tỏa cách ly thì đảm bảo giá thuốc sẽ trên trời, thậm chí có tiền cũng ko mua được. Vì mấy thuốc này bình thường nó vẫn đòi đơn thuốc, giờ mắt nhắm mắt mở nó bán thôi"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286309",
+   "title": "Hộ chiếu Malaysia có quyền lực như thế nào?",
+   "url": "https://voz.vn/t/ho-chieu-malaysia-co-quyen-luc-nhu-the-nao.1286309/",
+   "prefix": "",
+   "op_author": "vinata4",
+   "op_created_at": "2026-10-07T02:15:43+00:00",
+   "article_url": "https://vntravel.org.vn/ho-chieu-malaysia-xep-thu-2-the-gioi-va-nhung-dieu-khong-tuong-o-quoc-gia-nay-a9924.html",
+   "article_source": "vntravel.org.vn",
+   "article_excerpt": "Ngày 28/9/2026 vừa qua, Malay Mail đưa tin hộ chiếu Malaysia vươn lên vị trí thứ 2 trong Passport Index Global Ranking 2026, tăng một bậc so với năm trước và đồng hạng với Singapore. Theo Cục Nhập cư Malaysia, công dân nước này có thể tiếp cận 175 điểm đến, gồm 129 nơi miễn thị thực và 46 nơi cấp visa khi nhập cảnh.\nNguồn:\nHộ chiếu Malaysia có quyền lực như thế nào? (https://vntravel.org.vn/ho-chieu-malaysia-xep-thu-2-the-gioi-va-nhung-dieu-khong-tuong-o-quoc-gia-nay-a9924.html)\nCơ quan chủ quản: TẠP CHÍ VIETNAM TRAVEL\n(Giấy phép số 256/GP-BTTTT cấp ngày 26/7/2023)\nChịu trách nhiệm nội dung:\nTổng Biên tập: ThS. Nguyễn Việt Lộc\nTrụ sở: Số 14 ngách 15/105 Thụy Khuê, phường Tây Hồ, Hà Nội\nVPĐD tại TP.HCM: Số 90 đường Võ Thị Sáu, phường Tân Định\nGiấy phép MXH số 02/GP-BTTTT do Bộ TT&TT cấp ngày 04/01/2024\nEmail:\n[email protected]\n- Liên hệ quảng cáo: 0904.798.099",
+   "status": "ok",
+   "pages_scanned": 6,
+   "replies": 104,
+   "total_reactions": 194,
+   "base_score": 492.0,
+   "hot_score": 27.131,
+   "top_comments": [
+    {
+     "post_id": "43936676",
+     "number": 2,
+     "author": "ojisan",
+     "url": "https://voz.vn/p/43936676/",
+     "created_at": "2026-10-07T02:22:13+00:00",
+     "reactions": 3,
+     "text": "Mấy thằng đáy giếng suốt ngày bô bô rank hộ chiếu ko có ý nghĩa chỉ có 2 loại:\n1. Ngu ngục, chưa tiếp xúc với thế giới bên ngoài, chưa ở vị trí cao trong xã hội để nhìn thấy cơ hội từ cuốn hộ chiếu.\n2. Ác, biết nhưng vì 3 củ mà phải sủa."
+    },
+    {
+     "post_id": "43936771",
+     "number": 3,
+     "author": "Spinach",
+     "url": "https://voz.vn/p/43936771/",
+     "created_at": "2026-10-07T02:26:42+00:00",
+     "reactions": 3,
+     "text": "Thôi, xưa thì xkll qua Malay làm culi, giờ ko thèm qua Malay nữa mà chỉ đi Hàn Nhật làm culi thì cũng coi như tiến bộ hơn rồi. : )))"
+    },
+    {
+     "post_id": "43936830",
+     "number": 4,
+     "author": "sangbuif",
+     "url": "https://voz.vn/p/43936830/",
+     "created_at": "2026-10-07T02:29:59+00:00",
+     "reactions": 3,
+     "text": "lại nhớ đến mấy thằng vịt dạy ông tây nói tiếng việt, cứ \"malaysia vãi lon\", clip chắc còn trên youtube"
+    },
+    {
+     "post_id": "43936847",
+     "number": 5,
+     "author": "BillyShjt",
+     "url": "https://voz.vn/p/43936847/",
+     "created_at": "2026-10-07T02:30:25+00:00",
+     "reactions": 3,
+     "text": "Culi giờ cũng khôn hơn xưa rồi, chỗ nào có tiền thì nó đâm đầu vào thôi.\nMalay lương có tầm 1/2 hàn nhật. qua hàn nhật chả sướng hơn.\nMà không biết malay có cộng đồng đông lào nhập tịch k nhĩ? nghe nói phải bỏ qt.\nTôi thấy thà nhập tịch hàn nhật bỏ tịt đông lào cũng ok, nhập tịch nước 80% hồi giáo mà nó bắt bỏ qt vn thấy k đáng lắm."
+    },
+    {
+     "post_id": "43936860",
+     "number": 6,
+     "author": "newmoonZ",
+     "url": "https://voz.vn/p/43936860/",
+     "created_at": "2026-10-07T02:31:08+00:00",
+     "reactions": 3,
+     "text": "Rank hộ chiếu quan trọng gì, nghe các bạn độc vn tàu nhanh chia sẻ này"
+    },
+    {
+     "post_id": "43936941",
+     "number": 7,
+     "author": "Honekawa Suneo",
+     "url": "https://voz.vn/p/43936941/",
+     "created_at": "2026-10-07T02:34:26+00:00",
+     "reactions": 3,
+     "text": "kiếp sau nguyện làm người malay"
+    },
+    {
+     "post_id": "43939611",
+     "number": 8,
+     "author": "Gà Sa Mạc",
+     "url": "https://voz.vn/p/43939611/",
+     "created_at": "2026-10-07T05:16:41+00:00",
+     "reactions": 3,
+     "text": "Tôi là IT lương nghìn đô, đi du lịch Sing 2 lần, Seoul 2 lần, Tokyo 1 lần.\nTôi không có nhu cầu đi du lịch vòng quanh thế giới, cũng chưa 1 lần muốn định cư Mỹ, Canada.\nPhiền anh cho tôi biết tác dụng của hộ chiếu quyền lực.\nNếu giờ cho tôi chọn 1 nước định cư ngay lập tức, tôi chọn theo thứ tự: Nhật -> Sing\nSing gần VN. Nhật mua/nhặt \"tài liệu học tập\" về bán cho sướng chứ đi Mỹ làm gì."
+    },
+    {
+     "post_id": "43939623",
+     "number": 9,
+     "author": "HugoBoss.94",
+     "url": "https://voz.vn/p/43939623/",
+     "created_at": "2026-10-07T05:18:41+00:00",
+     "reactions": 3,
+     "text": "Văn bò à ?"
+    },
+    {
+     "post_id": "43939690",
+     "number": 10,
+     "author": "monokuro",
+     "url": "https://voz.vn/p/43939690/",
+     "created_at": "2026-10-07T05:25:36+00:00",
+     "reactions": 3,
+     "text": "Sáng đọc 1 bài trên FB, thế giới phẳng, làm công ty đa quốc gia là bình thường, 2 đứa cùng ứng tuyển 1 job, VN vs Malay, cuối cùng đứa Malay ăn vì cái hộ chiếu, dễ đi công tác nhanh khi cần, mấy đứa bảo hộ chiếu đéo quan trọng là ngu, một thằng white trash ăn trợ cấp ở Mỹ nó vẫn cầm quyển hộ chiếu đó đi khắp nơi được, ở VN đi phỏng vấn visa nó đòi chứng minh đủ thứ để chứng minh mình không phải trash"
+    },
+    {
+     "post_id": "43939691",
+     "number": 11,
+     "author": "Thanh Niên Thô Kệch",
+     "url": "https://voz.vn/p/43939691/",
+     "created_at": "2026-10-07T05:25:47+00:00",
+     "reactions": 3,
+     "text": "Bodo quanh năm trong chuồng. Tháp nhu cầu ko qua nổi tầng đáy thì hộ chiếu có top 1 cũng ko có giá trị vs nó"
+    },
+    {
+     "post_id": "43939752",
+     "number": 12,
+     "author": "life_goon",
+     "url": "https://voz.vn/p/43939752/",
+     "created_at": "2026-10-07T05:31:22+00:00",
+     "reactions": 3,
+     "text": "Ngoài culi ra thì hồi xưa gái Việt cũng là “thương hiệu tầm quốc tế” ở Malay đấy, giờ không biết cái “thương hiệu” này còn không?"
+    },
+    {
+     "post_id": "43939797",
+     "number": 13,
+     "author": "batmannnnnn",
+     "url": "https://voz.vn/p/43939797/",
+     "created_at": "2026-10-07T05:36:26+00:00",
+     "reactions": 3,
+     "text": "Mày có thấy đăng cái ảnh đéo chút liên quan gì đến còm ko? Nó giúp gì cho luận điểm của mày? Óc toàn trung tình thế này bảo sao làm bò đỏ."
+    },
+    {
+     "post_id": "43939825",
+     "number": 14,
+     "author": "Gà Sa Mạc",
+     "url": "https://voz.vn/p/43939825/",
+     "created_at": "2026-10-07T05:39:46+00:00",
+     "reactions": 3,
+     "text": "Ảnh gây sự chú ý + minh họa cho \"tài liệu học tập\" đấy.\nKhông trả lời được câu hỏi chính thì không cần quote tao đâu."
+    },
+    {
+     "post_id": "43939835",
+     "number": 15,
+     "author": "Siêu Nhân Thích Đục",
+     "url": "https://voz.vn/p/43939835/",
+     "created_at": "2026-10-07T05:40:35+00:00",
+     "reactions": 3,
+     "text": "Thì có nói định cư mỹ canada đâu\nMà fen muốn trả lời thì phải chọn fen là ai trong 2 loại này đã ùi tính tiếp"
+    },
+    {
+     "post_id": "43939838",
+     "number": 16,
+     "author": "solana123",
+     "url": "https://voz.vn/p/43939838/",
+     "created_at": "2026-10-07T05:40:46+00:00",
+     "reactions": 3,
+     "text": "Để hộ chiếu vươn lên top giữa thì việc đầu tiên là triệt sản hoặc chôn sống hết đám bò đỏ đi"
+    },
+    {
+     "post_id": "43939843",
+     "number": 17,
+     "author": "Gà Sa Mạc",
+     "url": "https://voz.vn/p/43939843/",
+     "created_at": "2026-10-07T05:41:27+00:00",
+     "reactions": 3,
+     "text": "Tôi không có trong 2 loại đó nên cần thắc mắc đấy. Anh thấy mô tả của tôi có nằm trong 2 loại đó không? Ủa mà nhu cầu của anh là gì mà cần hộ chiếu xịn? Du lịch vòng quanh thế giới à?"
+    },
+    {
+     "post_id": "43939968",
+     "number": 18,
+     "author": "newmoonZ",
+     "url": "https://voz.vn/p/43939968/",
+     "created_at": "2026-10-07T05:57:41+00:00",
+     "reactions": 3,
+     "text": "Thế anh đi Hàn vs Nhật có phải xin Visa trước cả tháng ko? A có nộp cho bọn nó HĐLD, sao kê, vé máy bay, lịch trình di chuyển ko (nếu a đi tự túc), và anh có cảm thấy mất thời gian ko ?\nKhi anh muốn ngắm thiên nhiên ở New zealand (Trong khi đường bay thẳng quá đắt) và anh cần quá cảnh ở Úc, nhưng với cái passport bông lúa anh phải lọ mọ xin Úc thêm cái Visa Transit 771 dù anh chỉ ghé 2 tiếng. Mấy thằng đồng nghiệp của anh, chả cần các quốc gia S class đâu, mà bọn hàng xóm như: Thái, Phi, Indo...chúng nó thuận lợi lên máy bay còn anh bị chặn lại hỏi bắt show 2 cái Visa ra và bị nhìn như thể a muốn trốn ở lại vậy.\nHộ chiếu chính là quốc tịch, anh ko cần hộ chiếu mạnh để đi khắp thế giới, nhưng a cũng cần quyền bảo hộ công dân ở nước ngoài chứ nhỉ ? Hay anh muốn được \"bảo hộ\" bằng các chuyến bay giải cứu về nước như hồi covid ?\nKhi anh có quốc tịch, gia đình anh cũng có khả năng đi theo anh, con anh được hưởng nền giáo dục của bọn giãy chết, nó ko dc nuôi dưỡng sự hận thù từ hồi mẫu giáo, hay bắt nó cosplay thành bộ đội cụ hộ bắn bỏ mẹ mấy thằng mỹ ngụy, nó cũng ko dc dạy phải thành tâm kính yêu ai cả.\nCuộc đời anh xoay quanh 4 chữ \"thời gian\" và \"tiền bạc\". Như anh IT lương nghìn đô sống ở VN anh sướng như vua đúng ko ? Nhưng giá trị lớn nhất của nó là optionality, anh có thể cả đời ko dùng tới bảo hiểm cháy nhà nhưng ko vì thế mà bảo hiểm nó thành useless. Giá trị thực sự của nó nằm ở số lựa chọn có sẵn khi anh cần, ko phải số lựa chọn mà anh đã sử dụng."
+    },
+    {
+     "post_id": "43940003",
+     "number": 19,
+     "author": "batmannnnnn",
+     "url": "https://voz.vn/p/43940003/",
+     "created_at": "2026-10-07T06:01:43+00:00",
+     "reactions": 3,
+     "text": "Ủa mày đéo cần thì kệ nhà mày chứ, đâu có nghĩa là người khác ko cần. Từ câu chuyện quyền lực của hộ chiếu áp dụng cho cả triệu người thì mày lại lái sang trải nghiệm, cảm xúc cá nhân đéo chút liên quan. Logic kiểu gì thế?\nThế giờ tao k có nhu cầu ngủ với vợ,mẹ mày, phiền mày thuyết phục tao, chứng minh tác dụng của việc đó được k?"
+    },
+    {
+     "post_id": "43940013",
+     "number": 20,
+     "author": "Lilianna Gracefallen",
+     "url": "https://voz.vn/p/43940013/",
+     "created_at": "2026-10-07T06:02:56+00:00",
+     "reactions": 3,
+     "text": "Tuổi gì bằng hộ chiếu Việt Nam, tui nói đúng ko các bodo"
+    },
+    {
+     "post_id": "43940039",
+     "number": 21,
+     "author": "Quan58654",
+     "url": "https://voz.vn/p/43940039/",
+     "created_at": "2026-10-07T06:05:23+00:00",
+     "reactions": 3,
+     "text": "Mã hồi giáo mà thấy dân nó văn minh lịch sự phết, tiếp xúc với dân Mã chưa gặp trường hợp nào khôn lỏi, kỳ thị hay xấu tính"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286844",
+   "title": "[Mỹ] Nữ tử tù bị tiêm thuốc mà không chết nói gì sau khi tỉnh lại?",
+   "url": "https://voz.vn/t/my-nu-tu-tu-bi-tiem-thuoc-ma-khong-chet-noi-gi-sau-khi-tinh-lai.1286844/",
+   "prefix": "",
+   "op_author": "Tommy Oliver",
+   "op_created_at": "2026-10-08T08:30:25+00:00",
+   "article_url": "https://tuoitre.vn/nu-tu-tu-bi-tiem-thuoc-ma-khong-chet-noi-gi-sau-khi-tinh-lai-100261008064354923.htm?utm_source=coccoc&utm_medium=ccnews",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "Nữ tử tù Christa Pike tỏ ra 'giận dữ và bối rối' sau khi tỉnh dậy tại bệnh viện. Bà đã nói chuyện và hỏi về gia đình của nạn nhân đã bị bà sát hại 30 năm trước.\nNữ tử tù Christa Pike trong phiên tòa ở Nashville vào năm 2012 - Ảnh: REUTERS\nCác luật sư của nữ tử tù Mỹ Christa Pike cho biết bà đã tỉnh lại trong trạng thái \"giận dữ và bối rối\" tại bệnh viện, sau khi trải qua vụ hành quyết bất thành tại bang Tennessee vào tuần trước.",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 45,
+   "total_reactions": 26,
+   "base_score": 97.0,
+   "hot_score": 20.083,
+   "top_comments": [
+    {
+     "post_id": "43953133",
+     "number": 2,
+     "author": "thrash.metal.2",
+     "url": "https://voz.vn/p/43953133/",
+     "created_at": "2026-10-08T08:32:45+00:00",
+     "reactions": 3,
+     "text": "- Tao chưa chết à ?\n- Đ* má"
+    },
+    {
+     "post_id": "43953153",
+     "number": 3,
+     "author": "Tommy Oliver",
+     "url": "https://voz.vn/p/43953153/",
+     "created_at": "2026-10-08T08:33:59+00:00",
+     "reactions": 3,
+     "text": "Cái thứ bòm bòm rõ phổ biến mà không nghĩ đến"
+    },
+    {
+     "post_id": "43953315",
+     "number": 5,
+     "author": "nminhcuong",
+     "url": "https://voz.vn/p/43953315/",
+     "created_at": "2026-10-08T08:43:51+00:00",
+     "reactions": 3,
+     "text": "Quả này chắc ** móa thật"
+    },
+    {
+     "post_id": "43953686",
+     "number": 27,
+     "author": "vananhhau03",
+     "url": "https://voz.vn/p/43953686/",
+     "created_at": "2026-10-08T09:08:17+00:00",
+     "reactions": 3,
+     "text": "Tử tò: Đây là đâu ? Thiên đàng hay địa ngục ?\nBác sỹ: Không, đây vẫn là phòng tiêm\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "43953400",
+     "number": 12,
+     "author": "John117",
+     "url": "https://voz.vn/p/43953400/",
+     "created_at": "2026-10-08T08:49:32+00:00",
+     "reactions": 2,
+     "text": "Kỷ nguyên AI rồi, cho robot bòm là đỡ bị ảnh hưởng"
+    },
+    {
+     "post_id": "43953424",
+     "number": 14,
+     "author": "Tommy Oliver",
+     "url": "https://voz.vn/p/43953424/",
+     "created_at": "2026-10-08T08:51:03+00:00",
+     "reactions": 2,
+     "text": "Mình làm 1 hệ thống tự động đi, trói vào 1 vị trí được chỉ định rồi hẹn giờ, đến đúng giờ ngọ 3 khắc là xả nguyên băng"
+    },
+    {
+     "post_id": "43953748",
+     "number": 28,
+     "author": "honeyfox",
+     "url": "https://voz.vn/p/43953748/",
+     "created_at": "2026-10-08T09:12:26+00:00",
+     "reactions": 2,
+     "text": "Poison resist: 100%\nLightning resist?"
+    },
+    {
+     "post_id": "43953370",
+     "number": 7,
+     "author": "fusioncat1401",
+     "url": "https://voz.vn/p/43953370/",
+     "created_at": "2026-10-08T08:47:32+00:00",
+     "reactions": 1,
+     "text": "Cái thứ nhanh nhất và nhân đạo nhất thì bảo đó là man rợ và vô nhân tính, nói chung là ảnh hưởng tới người thi hành hơn người bị án"
+    },
+    {
+     "post_id": "43953456",
+     "number": 17,
+     "author": "handsomejack",
+     "url": "https://voz.vn/p/43953456/",
+     "created_at": "2026-10-08T08:53:44+00:00",
+     "reactions": 1,
+     "text": "Nhưng có khi sống thêm dc 4-5 năm nữa Vì phải chờ phán quyết mới.\nVụ án kéo dài hơn 30 năm mới t* hình, vl thật"
+    },
+    {
+     "post_id": "43953541",
+     "number": 22,
+     "author": "fusioncat1401",
+     "url": "https://voz.vn/p/43953541/",
+     "created_at": "2026-10-08T08:59:11+00:00",
+     "reactions": 1,
+     "text": "Vấn đề là nó răn đe anh ạ, chứ êm ái giải quyết được mẹ gì\nthử nghe dính án là bị bòm, bị treo, bị rán điện, bị behead xem phần lớn lại ngoan ngay."
+    },
+    {
+     "post_id": "43953570",
+     "number": 23,
+     "author": "Yugo",
+     "url": "https://voz.vn/p/43953570/",
+     "created_at": "2026-10-08T09:01:37+00:00",
+     "reactions": 1,
+     "text": "Rẻ thì tiền đâu lobby? Tư bản thì mọi bài toán đều dắt về kinh tế cả. Bên nào đầu tư thuốc, bỏ tiền lobby nhiều thì luật bắt tiêm thuốc thôi\n."
+    },
+    {
+     "post_id": "43953609",
+     "number": 24,
+     "author": "fusioncat1401",
+     "url": "https://voz.vn/p/43953609/",
+     "created_at": "2026-10-08T09:04:04+00:00",
+     "reactions": 1,
+     "text": "Chuẩn, quay qua quay lại cũng bài toán kinh tế dưới cái mác nhân đạo và ban phát hoà bình thôi"
+    },
+    {
+     "post_id": "43953788",
+     "number": 29,
+     "author": "equin0x",
+     "url": "https://voz.vn/p/43953788/",
+     "created_at": "2026-10-08T09:15:30+00:00",
+     "reactions": 1,
+     "text": "I demand trial\nby combat!!"
+    },
+    {
+     "post_id": "43953835",
+     "number": 31,
+     "author": "colomb",
+     "url": "https://voz.vn/p/43953835/",
+     "created_at": "2026-10-08T09:19:49+00:00",
+     "reactions": 1,
+     "text": "anh lùn mã tử có 2 quả thách đấu thoát chết kì diệu vãi loằn"
+    },
+    {
+     "post_id": "43953944",
+     "number": 41,
+     "author": "Come To An End",
+     "url": "https://voz.vn/p/43953944/",
+     "created_at": "2026-10-08T09:28:18+00:00",
+     "reactions": 1,
+     "text": "Mấy thằng ăn hại tiêm trượt chứ còn gì nữa"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286846",
+   "title": "Người đàn ông bị điện giật tử vong trong khu nhà trọ ngập nước ở TPHCM",
+   "url": "https://voz.vn/t/nguoi-dan-ong-bi-dien-giat-tu-vong-trong-khu-nha-tro-ngap-nuoc-o-tphcm.1286846/",
+   "prefix": "",
+   "op_author": "BrownGecko",
+   "op_created_at": "2026-10-08T08:31:25+00:00",
+   "article_url": "https://dantri.com.vn/suc-khoe/nguoi-dan-ong-bi-dien-giat-tu-vong-trong-khu-nha-tro-ngap-nuoc-o-tphcm-20261008125138800.htm",
+   "article_source": "dantri.com.vn",
+   "article_excerpt": "(Dân trí) - Mưa lớn khiến nước tràn vào khu nhà trọ ở phường Thủ Đức (TPHCM) lúc rạng sáng. Trong lúc rút dây điện, người đàn ông 35 tuổi bị điện giật, được hàng xóm đưa đến bệnh viện cấp cứu nhưng không qua khỏi.​\nNgày 8/10, cơ quan chức năng đang điều tra nguyên nhân người đàn ông bị điện giật tử vong tại phường Thủ Đức, TPHCM. Nạn nhân được xác định là anh N.T.G. (35 tuổi, ngụ TPHCM).\nCăn phòng trọ nơi xảy ra vụ việc (Ảnh: Hoàng Hướng).\nTrước đó, tối 7/10, mưa lớn khiến đường số 11, phường Thủ Đức, ngập sâu. Khoảng 3h ngày 8/10, nước tràn vào khu trọ trong hẻm 84, đường số 11.\nThời điểm này, anh G. tranh thủ rút dây điện thì bị điện giật. Phát hiện sự việc, vợ nạn nhân hô hoán. Hàng xóm nhanh chóng ngắt cầu dao, đưa anh G. ra ngoài và chuyển đến bệnh viện cấp cứu. Tuy nhiên, nạn nhân không qua khỏi.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 34,
+   "total_reactions": 27,
+   "base_score": 88.0,
+   "hot_score": 18.256,
+   "top_comments": [
+    {
+     "post_id": "43953114",
+     "number": 2,
+     "author": "BrownGecko",
+     "url": "https://voz.vn/p/43953114/",
+     "created_at": "2026-10-08T08:31:39+00:00",
+     "reactions": 3,
+     "text": "Khổ vãi"
+    },
+    {
+     "post_id": "43953204",
+     "number": 9,
+     "author": "AyaBrea",
+     "url": "https://voz.vn/p/43953204/",
+     "created_at": "2026-10-08T08:36:56+00:00",
+     "reactions": 3,
+     "text": "RIP a, nhìn phòng trọ là thấy khổ rồi.\nKiếp sau xin đừng..."
+    },
+    {
+     "post_id": "43953207",
+     "number": 10,
+     "author": "SillyBi92",
+     "url": "https://voz.vn/p/43953207/",
+     "created_at": "2026-10-08T08:37:03+00:00",
+     "reactions": 3,
+     "text": "Theo gia đình, anh G. cùng vợ con sinh sống tại khu vực này hơn 10 năm. Hàng ngày, anh chạy xe ôm, còn vợ bán hàng online.\nĐã nghèo còn mắc cái eo"
+    },
+    {
+     "post_id": "43953525",
+     "number": 21,
+     "author": "abcdefghifxx",
+     "url": "https://voz.vn/p/43953525/",
+     "created_at": "2026-10-08T08:58:05+00:00",
+     "reactions": 3,
+     "text": "Đã từng, may mắn không sao"
+    },
+    {
+     "post_id": "43953249",
+     "number": 13,
+     "author": "Lilianna Gracefallen",
+     "url": "https://voz.vn/p/43953249/",
+     "created_at": "2026-10-08T08:39:37+00:00",
+     "reactions": 2,
+     "text": "Mới dềnh nước thui fen"
+    },
+    {
+     "post_id": "43953135",
+     "number": 3,
+     "author": "Anmission161",
+     "url": "https://voz.vn/p/43953135/",
+     "created_at": "2026-10-08T08:32:52+00:00",
+     "reactions": 1,
+     "text": "chả biết nói gì"
+    },
+    {
+     "post_id": "43953174",
+     "number": 6,
+     "author": "okamoto001",
+     "url": "https://voz.vn/p/43953174/",
+     "created_at": "2026-10-08T08:35:12+00:00",
+     "reactions": 1,
+     "text": "Kiện ông trời thôi, mưa lằm mưa lốn"
+    },
+    {
+     "post_id": "43953226",
+     "number": 12,
+     "author": "Effoc",
+     "url": "https://voz.vn/p/43953226/",
+     "created_at": "2026-10-08T08:38:34+00:00",
+     "reactions": 1,
+     "text": "Chỗ đường 11, phường Trường Thọ cũ này có bao giờ ngập đâu ta, sao năm nay nát quá vậy, Tội anh bạn trẻ"
+    },
+    {
+     "post_id": "43953531",
+     "number": 22,
+     "author": "bone",
+     "url": "https://voz.vn/p/43953531/",
+     "created_at": "2026-10-08T08:58:22+00:00",
+     "reactions": 1,
+     "text": "Nghèo thì ở nước quái nào chả có.\nĐồng cảm thì được nhưng đừng lái, trư rất ghét."
+    },
+    {
+     "post_id": "43953573",
+     "number": 27,
+     "author": "Sunraku",
+     "url": "https://voz.vn/p/43953573/",
+     "created_at": "2026-10-08T09:01:42+00:00",
+     "reactions": 1,
+     "text": "Thằng VTV còn kêu người ta ra lội nước để trở về tuổi thơ\nMay chưa có trường hợp nào tương tự"
+    },
+    {
+     "post_id": "43953601",
+     "number": 30,
+     "author": "Ksatriya",
+     "url": "https://voz.vn/p/43953601/",
+     "created_at": "2026-10-08T09:03:17+00:00",
+     "reactions": 1,
+     "text": "quá đau đớn cho 1 kiếp dân đen ở cái tuổi bị chê già\ncày 8 tiếng lội nước về nhà , về tới nhà thì bị điện giật chết trong trọ"
+    },
+    {
+     "post_id": "43953643",
+     "number": 31,
+     "author": "Svenska1407",
+     "url": "https://voz.vn/p/43953643/",
+     "created_at": "2026-10-08T09:05:19+00:00",
+     "reactions": 1,
+     "text": "Lộn đường số 11 ở phía bên trái hả fen, chứ cái đường số 11 kế chùa Bửu Hương trong bài, đi vô sân bóng VNV này khi nào mà chả ngập"
+    },
+    {
+     "post_id": "43953655",
+     "number": 32,
+     "author": "giayasics",
+     "url": "https://voz.vn/p/43953655/",
+     "created_at": "2026-10-08T09:06:16+00:00",
+     "reactions": 1,
+     "text": "phong thuỷ thay đổi thì chiụ thoi"
+    },
+    {
+     "post_id": "43954060",
+     "number": 34,
+     "author": "WibuSimpWifi2D",
+     "url": "https://voz.vn/p/43954060/",
+     "created_at": "2026-10-08T09:38:07+00:00",
+     "reactions": 1,
+     "text": "Cú bạn đã nóng, log nick vào voz, trư còn k mau cúi xuống dập đầu không kẻo -7,5 củ"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286828",
+   "title": "AI viết code, lập trình viên sẽ làm gì?",
+   "url": "https://voz.vn/t/ai-viet-code-lap-trinh-vien-se-lam-gi.1286828/",
+   "prefix": "",
+   "op_author": "BrownGecko",
+   "op_created_at": "2026-10-08T08:03:46+00:00",
+   "article_url": "https://vietnamnet.vn/ai-viet-code-lap-trinh-vien-se-lam-gi-2561645.html",
+   "article_source": "vietnamnet.vn",
+   "article_excerpt": "Kỹ sư phần mềm từng là một trong những nghề hấp dẫn nhất với người trẻ có nền tảng công nghệ. Song, AI đang thay đổi chính những nhiệm vụ từng giúp một lập trình viên bắt đầu sự nghiệp.\nTrong nhiều năm, hình ảnh phổ biến của lập trình viên là một người ngồi trước màn hình, viết hàng trăm hoặc hàng nghìn dòng code để biến yêu cầu thành một sản phẩm phần mềm.\nHình ảnh đó đang thay đổi. Theo\nThe Guardian,\nGoogle cho biết khoảng 75% mã của hãng hiện được\nAI\nviết. Một số lập trình viên được phỏng vấn thậm chí nói rằng công việc của họ ngày càng giống quản lý các tác nhân AI viết code hơn là tự viết từng dòng.\nCNN\ncũng ghi nhận phần mềm là một trong những ngành bị AI tác động nhanh nhất. Một số nhà phát triển hiện sử dụng AI agent để tạo code rồi tập trung vào kiểm tra và quản lý đầu ra.\nNhững công việc từng được giao cho lập trình viên mới vào nghề (junior) đang là nhóm chịu sức ép đáng chú ý.\nSinh viên mới ra trường thường bắt đầu bằng những nhiệm vụ như viết module đơn giản, sửa lỗi, tạo bài kiểm tra, viết tài liệu hoặc chuyển đổi code. Đây cũng chính là những việc mà AI hiện có thể hỗ trợ rất mạnh.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 31,
+   "total_reactions": 19,
+   "base_score": 69.0,
+   "hot_score": 13.605,
+   "top_comments": [
+    {
+     "post_id": "43952682",
+     "number": 2,
+     "author": "BrownGecko",
+     "url": "https://voz.vn/p/43952682/",
+     "created_at": "2026-10-08T08:03:59+00:00",
+     "reactions": 3,
+     "text": "Thằng em IT ngày nào giờ cặp nách 2 con nhỏ, lo cho song thân phụ mẫu 2 bên, đang trả góp căn hộ, trả góp ô tô và mới bị sa thải"
+    },
+    {
+     "post_id": "43952808",
+     "number": 8,
+     "author": "flame1602",
+     "url": "https://voz.vn/p/43952808/",
+     "created_at": "2026-10-08T08:10:35+00:00",
+     "reactions": 3,
+     "text": "Với tần suất thay đổi, update liên tục như này thì chắc chỉ có nắm logic thôi chứ junior đọc code chắc không biết nó viết cái gì ấy nhỉ."
+    },
+    {
+     "post_id": "43953917",
+     "number": 27,
+     "author": "chianh1109",
+     "url": "https://voz.vn/p/43953917/",
+     "created_at": "2026-10-08T09:25:58+00:00",
+     "reactions": 3,
+     "text": "Ngành IT Việt Nam hiện nay ở đầu của sự suy thoái. Có thể nói IT từng là vua của các nghề, giờ thành con ghẻ của thị trường. Vừa mất việc, vừa hết quyền. Vừa chẳng kiếm đâu ra $ lại bị xã hội ngoảnh mặt. Thằng em mình học bách khoa cơ khí, sinh năm 96. Tự mày mò học code rồi đi làm remote cho công ty Mỹ được 2 năm, tưởng ngon ăn thì đợt rồi AI nó càn quét, công ty cắt giảm nhân sự thẳng tay. Tối tối ôm laptop rải CV 3-4 tiếng mà chẳng thấy hồi âm. Lương tháng 3k6 ngày xưa giờ là dĩ vãng. Đến mấy project bên ngoài làm thêm từng gánh thu nhập cũng bặt vô âm tín, vì khách họ dùng AI tự sinh code cho nhanh mà lại miễn phí, không còn ai vứt 9, 10k tiền tươi thóc thật ra nữa. Thất nghiệp gần cả năm nay, tiền tiết kiệm cạn dần, nhà xe mua trả góp ngày trước giờ mỗi tháng tới hạn trả lãi ngân hàng là cuống kê lên. Nghĩ mà cay đắng..."
+    },
+    {
+     "post_id": "43952747",
+     "number": 6,
+     "author": "Husqvarna701SM",
+     "url": "https://voz.vn/p/43952747/",
+     "created_at": "2026-10-08T08:07:24+00:00",
+     "reactions": 1,
+     "text": "chạy grab"
+    },
+    {
+     "post_id": "43952870",
+     "number": 9,
+     "author": "kienthuc",
+     "url": "https://voz.vn/p/43952870/",
+     "created_at": "2026-10-08T08:14:24+00:00",
+     "reactions": 1,
+     "text": "AI nó giải mấy bài toán thiên niên kỷ đc thì ngày nó phá hết encryption ko còn xa đâu. Toàn bộ nền văn minh số đứng trước nguy cơ sụp đổ.\nSSL, email, cloud drive, accounts, digital signature, banking, communities, data integrity... Everything."
+    },
+    {
+     "post_id": "43953086",
+     "number": 13,
+     "author": "Boss Lacotes",
+     "url": "https://voz.vn/p/43953086/",
+     "created_at": "2026-10-08T08:29:57+00:00",
+     "reactions": 1,
+     "text": "vẫn cần IT thôi , tuy không viết code trực tiếp nhiều, nhưng số lượng nhân lực cần thiết sẽ giảm bớt, thay vào đó là AI , khối lượng công việc không hề giảm đi , hoặc các anh nào thấy rãnh thì xác định tới lúc nó sẽ đá đít các anh vì vị trí hiện tại của các anh không có nhiều tác dụng"
+    },
+    {
+     "post_id": "43953121",
+     "number": 14,
+     "author": "Boss Lacotes",
+     "url": "https://voz.vn/p/43953121/",
+     "created_at": "2026-10-08T08:32:04+00:00",
+     "reactions": 1,
+     "text": "đọc được hết, nhưng vấn đề là thời gian để ng đọc quá chậm so với AI sinh mã , nên nếu ngồi đọc như xưa thì nguyên pipe sẽ chậm lại, nên giờ nó vứt luôn cho AI đọc, à mà github hôm qua lại lỗi 500 toàn thế giới"
+    },
+    {
+     "post_id": "43953129",
+     "number": 15,
+     "author": "nobody_X007",
+     "url": "https://voz.vn/p/43953129/",
+     "created_at": "2026-10-08T08:32:19+00:00",
+     "reactions": 1,
+     "text": "an tâm đi. rút phích điện là xong"
+    },
+    {
+     "post_id": "43953200",
+     "number": 20,
+     "author": "Craw Fish Never Lie",
+     "url": "https://voz.vn/p/43953200/",
+     "created_at": "2026-10-08T08:36:46+00:00",
+     "reactions": 1,
+     "text": "Thì lúc này sẽ rơi vào thời điểm phần mềm bão hòa, tụi phần cứng sẽ được all in đột phá, sắp tới sẽ hay đây, biết đâu 5-10 năm nữa ra những chiếc điện thoại có cấu trúc được xem là \"phi vật lý\" ở thời điểm hiện tại\n, ví dụ như quả điện thoại biến hình"
+    },
+    {
+     "post_id": "43953629",
+     "number": 23,
+     "author": "Timtimtim",
+     "url": "https://voz.vn/p/43953629/",
+     "created_at": "2026-10-08T09:04:45+00:00",
+     "reactions": 1,
+     "text": "Chính ra dân non-IT mà biết prompt thì để google gem hay claude nó viết code cho cũng hiệu quả.."
+    },
+    {
+     "post_id": "43953728",
+     "number": 24,
+     "author": "philongrb",
+     "url": "https://voz.vn/p/43953728/",
+     "created_at": "2026-10-08T09:11:23+00:00",
+     "reactions": 1,
+     "text": "Có phải ngày nào cũng có kèo thơm thế đâu.\nGiả sử ngày 1 kèo thì 30 ngày mới được 24tr. Thua xa lương kĩ sư IT mà còn phải chạy nhong nhong ngoài đường.\nVần điện nước các thứ"
+    },
+    {
+     "post_id": "43954027",
+     "number": 30,
+     "author": "ToBe_or_NotToBe",
+     "url": "https://voz.vn/p/43954027/",
+     "created_at": "2026-10-08T09:35:56+00:00",
+     "reactions": 1,
+     "text": "tôi chưa tháy thằng nào làm dev có AI vô nhàn hơn cả, thấy làm như trâu như ngựa thì nhiều\ntới tôi méo phải dân dev mà còn bao nhiêu đây commit lên github kể từ khi dính cái vibe code"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286836",
+   "title": "(Mỹ) Tổng thống Trump từ chối điều tra Hillary Clinton, Joe Biden, Barrack Hussein Obama",
+   "url": "https://voz.vn/t/my-tong-thong-trump-tu-choi-dieu-tra-hillary-clinton-joe-biden-barrack-hussein-obama.1286836/",
+   "prefix": "",
+   "op_author": "64446644",
+   "op_created_at": "2026-10-08T08:17:07+00:00",
+   "article_url": "https://www.usatoday.com/story/news/politics/2026/10/07/trump-not-investigating-biden-obama-clinton/92139586007/",
+   "article_source": "usatoday.com",
+   "article_excerpt": "Tổng thống Donald Trump cho biết những người tiền nhiệm thuộc đảng Dân chủ của ông tại Nhà Trắng – Joe Biden và Barack Obama – đã \"làm những điều rất tồi tệ\", nhưng ông chọn cách không điều tra họ vì sự tôn trọng đối với chức vụ Tổng thống.\n\"Bạn không thể đối xử thiếu tôn trọng với chức vụ Tổng thống,\" ông Trump nói với các phóng viên tại Phòng Bầu dục. \"Tôi đã có cơ hội – và vẫn còn cơ hội – để nhắm vào Joe Biden, Hillary Clinton hay Barack Hussein Obama. Rất nhiều người đã bảo tôi hãy 'xử lý' họ. Nhưng tôi đã nói: 'Không, không thể làm thế với chức vụ Tổng thống được'.\"\nhttps://www.usatoday.com/story/news/politics/2026/10/07/trump-not-investigating-biden-obama-clinton/92139586007/\nCòn đâu khẩu hiệu tát cạn đầm lầy",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 27,
+   "total_reactions": 19,
+   "base_score": 65.0,
+   "hot_score": 13.126,
+   "top_comments": [
+    {
+     "post_id": "43952931",
+     "number": 2,
+     "author": "colomb",
+     "url": "https://voz.vn/p/43952931/",
+     "created_at": "2026-10-08T08:18:39+00:00",
+     "reactions": 3,
+     "text": "Bác tôi quả thực là hài hước"
+    },
+    {
+     "post_id": "43952936",
+     "number": 3,
+     "author": "chimtokolochetdoi",
+     "url": "https://voz.vn/p/43952936/",
+     "created_at": "2026-10-08T08:18:54+00:00",
+     "reactions": 3,
+     "text": "nói chung mở đường để hạ cánh làm người tử tế thôi, tôi lạ gì bác tôi\ngiờ mà điều tra sợ éo có gì nhưng tổng sau nó cũng có thể mở điều tra tiếp, bác tôi tính cả rồi"
+    },
+    {
+     "post_id": "43953165",
+     "number": 9,
+     "author": "noname1378",
+     "url": "https://voz.vn/p/43953165/",
+     "created_at": "2026-10-08T08:34:41+00:00",
+     "reactions": 2,
+     "text": "bác không sợ vỡ bình, bác sợ thằng sau lên cũng ném vỡ mặt bác"
+    },
+    {
+     "post_id": "43952956",
+     "number": 4,
+     "author": "sonyericssonw715",
+     "url": "https://voz.vn/p/43952956/",
+     "created_at": "2026-10-08T08:20:40+00:00",
+     "reactions": 1,
+     "text": "tưởng bác tôi dám ném chuột không sợ vỡ bình?"
+    },
+    {
+     "post_id": "43952957",
+     "number": 5,
+     "author": "Agent Orange",
+     "url": "https://voz.vn/p/43952957/",
+     "created_at": "2026-10-08T08:20:49+00:00",
+     "reactions": 1,
+     "text": "Chúm tro nhiệm kỳ tham nhũng nhất lịch sử mẽo thì làm gì dám điều tra ai."
+    },
+    {
+     "post_id": "43953030",
+     "number": 8,
+     "author": "colomb",
+     "url": "https://voz.vn/p/43953030/",
+     "created_at": "2026-10-08T08:25:19+00:00",
+     "reactions": 1,
+     "text": "Có lẽ chúng ta nên đổi biểu tượng của nước mỹ thành con gà trống thiến"
+    },
+    {
+     "post_id": "43953591",
+     "number": 20,
+     "author": "colomb",
+     "url": "https://voz.vn/p/43953591/",
+     "created_at": "2026-10-08T09:02:52+00:00",
+     "reactions": 1,
+     "text": "ngon phết"
+    },
+    {
+     "post_id": "43953638",
+     "number": 22,
+     "author": "unif",
+     "url": "https://voz.vn/p/43953638/",
+     "created_at": "2026-10-08T09:05:09+00:00",
+     "reactions": 1,
+     "text": "Bác tôi đúng là bậc thánh nhân"
+    },
+    {
+     "post_id": "43953907",
+     "number": 25,
+     "author": "mouse123479",
+     "url": "https://voz.vn/p/43953907/",
+     "created_at": "2026-10-08T09:24:54+00:00",
+     "reactions": 1,
+     "text": "Anh gọi tên tôi vụ gì vậy a?"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286721",
+   "title": "Đường ngập từ chiều qua tới sáng nay ở TP.HCM: Nhiều người vượt 'biển nước' đi làm",
+   "url": "https://voz.vn/t/duong-ngap-tu-chieu-qua-toi-sang-nay-o-tp-hcm-nhieu-nguoi-vuot-bien-nuoc-di-lam.1286721/",
+   "prefix": "",
+   "op_author": "BrownGecko",
+   "op_created_at": "2026-10-08T03:45:08+00:00",
+   "article_url": "https://thanhnien.vn/duong-ngap-tu-chieu-qua-toi-sang-nay-o-tphcm-nhieu-nguoi-vuot-bien-nuoc-di-lam-185261008090041922.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Sáng nay 8.10 thời tiết TP.HCM không mưa, tuy nhiên đường Nguyễn Văn Khối vẫn còn mênh mông nước sau khi ngập nặng từ chiều tối qua. Sáng sớm, nhiều người phải vượt qua đường ngập để đi làm.\nGhi nhận của\nThanh Niên\nsáng nay trên đường Nguyễn Văn Khối (phường Thông Tây Hội) vẫn ngập nước; người dân vất vả đi làm, học sinh chật vật đến lớp.\nDù sáng nay 8.10 thời tiết TP.HCM không mưa, nhưng đường Nguyễn Văn Khối vẫn còn là \"biển nước\" sau trận mưa lớn chiều tối 7.10,\nđường ngập\ntừ chiều qua tới sáng nay chưa rút\nNhiều người vượt qua \"biển nước\" để đi làm\nNgười dân xắn quần lội nước sáng sớm\nPhụ huynh cũng vất vả đưa con em đến lớp\nMưa ngập cũng gây trở ngại cho shipper, tài xế công nghệ. Nhiều người bất ngờ vì mưa từ chiều tối qua mà sáng đường vẫn còn ngập rất sâu",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 43,
+   "total_reactions": 26,
+   "base_score": 95.0,
+   "hot_score": 13.097,
+   "top_comments": [
+    {
+     "post_id": "43949418",
+     "number": 2,
+     "author": "BrownGecko",
+     "url": "https://voz.vn/p/43949418/",
+     "created_at": "2026-10-08T03:45:20+00:00",
+     "reactions": 3,
+     "text": "Đường hơi dềnh nhưng trên môi ai cũng nở một nụ cười"
+    },
+    {
+     "post_id": "43949442",
+     "number": 4,
+     "author": "Honekawa Suneo",
+     "url": "https://voz.vn/p/43949442/",
+     "created_at": "2026-10-08T03:46:40+00:00",
+     "reactions": 3,
+     "text": "có AI ko mà sao ai cũng cười tươi rói vậy"
+    },
+    {
+     "post_id": "43949494",
+     "number": 6,
+     "author": "minhhoangbeo",
+     "url": "https://voz.vn/p/43949494/",
+     "created_at": "2026-10-08T03:50:10+00:00",
+     "reactions": 3,
+     "text": "món đó là đặc sản thổ đu, đừng đem vào trong này"
+    },
+    {
+     "post_id": "43949526",
+     "number": 7,
+     "author": "Changli Ai",
+     "url": "https://voz.vn/p/43949526/",
+     "created_at": "2026-10-08T03:51:47+00:00",
+     "reactions": 3,
+     "text": "Trông hạnh phúc quá"
+    },
+    {
+     "post_id": "43950305",
+     "number": 22,
+     "author": "Con ngoan trò giỏi",
+     "url": "https://voz.vn/p/43950305/",
+     "created_at": "2026-10-08T04:43:53+00:00",
+     "reactions": 3,
+     "text": "Tôi chống xong rồi nhé, anh còn vo ve gì nữa không?"
+    },
+    {
+     "post_id": "43953563",
+     "number": 43,
+     "author": "-N.T.K-",
+     "url": "https://voz.vn/p/43953563/",
+     "created_at": "2026-10-08T09:00:53+00:00",
+     "reactions": 2,
+     "text": "tôi nghĩ AI chứ trưa tôi đi đoạn này thấy người dân mặt ai đi cũng lo lắng, bực bội hay khó chịu chứ đéo ai điên khùng chạy qua chỗ ngập mà cười vui như thế này"
+    },
+    {
+     "post_id": "43949470",
+     "number": 5,
+     "author": "NguoiToLaiHomNay",
+     "url": "https://voz.vn/p/43949470/",
+     "created_at": "2026-10-08T03:47:59+00:00",
+     "reactions": 1,
+     "text": "2 cái hình đầu giống AI vậy lều"
+    },
+    {
+     "post_id": "43949567",
+     "number": 9,
+     "author": "manoao",
+     "url": "https://voz.vn/p/43949567/",
+     "created_at": "2026-10-08T03:54:33+00:00",
+     "reactions": 1,
+     "text": "cưng xỉu"
+    },
+    {
+     "post_id": "43950226",
+     "number": 18,
+     "author": "askri79",
+     "url": "https://voz.vn/p/43950226/",
+     "created_at": "2026-10-08T04:36:34+00:00",
+     "reactions": 1,
+     "text": "Con xe nghị lực thế."
+    },
+    {
+     "post_id": "43950227",
+     "number": 19,
+     "author": "Anmission161",
+     "url": "https://voz.vn/p/43950227/",
+     "created_at": "2026-10-08T04:36:35+00:00",
+     "reactions": 1,
+     "text": "với dùng AI nữa\nclm nó ngập mà nó bảo dùng AI để chống"
+    },
+    {
+     "post_id": "43950264",
+     "number": 20,
+     "author": "benam123",
+     "url": "https://voz.vn/p/43950264/",
+     "created_at": "2026-10-08T04:40:02+00:00",
+     "reactions": 1,
+     "text": "Đã 2 tuần tôi không mang giày Tây đi làm rồi. Ngày lol nào cũng mưa, mà mưa như tát nước mặc áo mưa cũng như không"
+    },
+    {
+     "post_id": "43950748",
+     "number": 23,
+     "author": "vincentle",
+     "url": "https://voz.vn/p/43950748/",
+     "created_at": "2026-10-08T05:25:42+00:00",
+     "reactions": 1,
+     "text": "Ai cũng vui vẻ thích thú cả, mọi người cứ yên tâm, từ nay trở về sau năm nào cũng được lội như này cả thôi, năm nào cũng được vui vẻ như này cả nhất các anh chị luôn"
+    },
+    {
+     "post_id": "43951381",
+     "number": 36,
+     "author": "Thuanduong234",
+     "url": "https://voz.vn/p/43951381/",
+     "created_at": "2026-10-08T06:30:45+00:00",
+     "reactions": 1,
+     "text": "Q7 hồi mấy năm trước nổi tiếng ngập mà năm nay lại đỡ. Năm nay Gò Vấp, Thủ Đức, Phan Huy Ích Tân Bình, khu mấy đường D + Điện Biên Phủ Bình Thạnh ngập ác."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286856",
+   "title": "(Dịch) Vì sao căn cứ không quân mới của Trung Quốc ở Lào có thể khiến Việt Nam lo ngại?",
+   "url": "https://voz.vn/t/dich-vi-sao-can-cu-khong-quan-moi-cua-trung-quoc-o-lao-co-the-khien-viet-nam-lo-ngai.1286856/",
+   "prefix": "",
+   "op_author": "Lộc Tục",
+   "op_created_at": "2026-10-08T09:04:57+00:00",
+   "article_url": "https://www.scmp.com/topics/laos?module=inline&pgtype=article",
+   "article_source": "scmp.com",
+   "article_excerpt": "Hà Nội có khả năng coi cơ sở Ban Keun là nỗ lực của Bắc Kinh nhằm 'xâm phạm khu vực ảnh hưởng' của mình tại Viêng Chăn, các nhà phân tích cho biết\nMột trung tâm huấn luyện không quân mới mở được Trung Quốc hậu thuẫn tại\nLào\ncó thể làm Việt Nam bất an, đồng thời hướng tới hiện đại hóa quân đội Viêng Chăn và cân bằng quan hệ quốc phòng giữa Bắc Kinh, Moscow và Hà Nội, theo các quan sát viên.\nBộ Quốc phòng Trung Quốc cho biết vào thứ Ba tuần trước rằng cơ sở hỗ trợ và huấn luyện chung tại Sân bay Ban Keun ở thủ đô Lào sẽ tăng cường chuyên môn cho các phi công không quân địa phương và \"không nhằm vào bất kỳ bên thứ ba nào\".\n\"Việc thành lập và vận hành hai cơ quan thể hiện sự tôn trọng lẫn nhau và tham vấn bình đẳng giữa Trung Quốc và Lào, phù hợp với luật pháp trong nước của cả hai nước, cũng như luật pháp quốc tế và các thực tiễn chung,\" bộ cho biết trong một tuyên bố.\nNghị viện bổ sung rằng căn cứ này, được mô tả rộng rãi là căn cứ quốc phòng nước ngoài thứ ba của Trung Quốc, \"góp phần tăng cường hợp tác quân sự thực tiễn, cũng như thúc đẩy hòa bình và ổn định khu vực\".\nHai cơ sở quân sự khác của Trung Quốc nằm ở Djibouti ở Đông Phi và\nCăn cứ Hải quân Ream\nở Campuchia.\nCác hoạt động vận hành đã bắt đầu tại Ban Keun, với hình ảnh vệ tinh chụp ngày 30 tháng 9 bởi Vantor cho thấy các nhà phân tích an ninh tin rằng có tám máy bay tấn công hạng nhẹ K-8 và hơn hai chục phương tiện hỗ trợ trên một đường băng vẫn đang được xây dựng.\nMột hình ảnh vệ tinh cho thấy những gì các nhà phân tích an ninh tin là máy bay tấn công hạng nhẹ K-8 và các phương tiện hỗ trợ tại cơ sở huấn luyện chung mới Trung Quốc-Lào ở Ban Keun. Ảnh: Vantor qua Reuters\nAbdul Rahman Yaacob, nghiên cứu viên tại Viện An ninh và Quốc phòng Rabdan ở Các Tiểu vương quốc Ả Rập Thống nhất, cho biết cơ sở này cho thấy Lào đang tìm cách cân bằng quan hệ quốc phòng giữa Trung Quốc, Nga và\nViệt Nam\n.\n\"Khi Việt Nam tiếp tục duy trì quan hệ đối tác quốc phòng chặt chẽ với Nga, Lào có thể nhìn vào Trung Quốc như một đối trọng,\" ông Rahman nói.\nHiện đại hóa lực lượng không quân và việc sử dụng Trung Quốc như một nhà cung cấp và đối tác tiềm năng cũng là ưu tiên hàng đầu của Viêng Chăn, nhưng động thái này còn có một khía cạnh khác: \"một cuộc cạnh tranh ảnh hưởng giữa Việt Nam và Trung Quốc tại Lào\", ông nói.\nVới lịch sử lâu dài của Việt Nam trong việc thực thi ảnh hưởng chính trị, quân sự và chiến lược tại Lào, Rahman cho biết Hà Nội có thể xem diễn biến mới nhất là \"Trung Quốc đang xâm lấn vào khu vực ảnh hưởng của mình\".\nÔng bổ sung rằng Bắc Kinh cũng có thể giám sát các hoạt động quân sự ở miền Nam Việt Nam bằng cách phát triển các cơ sở hải quân và phòng không của Campuchia.\n\"\nViệt Nam có thể bị bao vây bởi Trung Quốc từ phía bắc và các chế độ thân Trung Quốc ở Lào từ phía tây và Campuchia từ phía nam\n,\" Rahman nói.\n'Đối tác được chọn'​\nNgoài việc giám sát Việt Nam, cơ sở của Lào còn báo hiệu sự cạnh tranh ngày càng sâu sắc của Trung Quốc với Hoa Kỳ về ảnh hưởng tại Đông Nam Á đại lục, ông nói.\nHà Nội và Bắc Kinh duy trì mối quan hệ căng thẳng âm thầm, được thúc đẩy bởi chiến lược phức tạp cân bằng giữa sự phụ thuộc kinh tế sâu sắc và tranh chấp lãnh thổ biển ở\nBiển Đông\n.\nRahman lưu ý rằng\nTrung Quốc có khả năng giám sát các hoạt động trên không sâu vào Myanmar,\nThái Lan\nvà Việt Nam nếu quyết định lắp đặt hệ thống radar tầm xa YLC-8B dài 700km (434 dặm).\nNhà phân tích an ninh Olli Pekka Suorsa cho biết, từ góc nhìn của Viêng Chăn, Bắc Kinh dường như là đối tác lý tưởng để giúp phát triển lực lượng không quân nhỏ bé, hạn chế năng lực của đất nước, vốn đã gửi phi công sang Trung Quốc để huấn luyện.\n\"Cơ sở này có ý nghĩa rất lớn đối với [Không quân Lào] và lộ trình phát triển tương lai của họ,\" ông Suorsa nói.\nTrợ lý giáo sư an ninh tại Học viện Rabdan ở Abu Dhabi cho biết \"Trung Quốc đã trở thành đối tác được chọn\" cho việc hiện đại hóa không quân Lào, với các máy bay SAIC LE500 và Hongdu K-8 cũng do Trung Quốc sản xuất.\nÔng bổ sung rằng các huấn luyện viên bay Trung Quốc sẽ được gửi đến cơ sở mới trong tương lai, cho phép các phi công địa phương hoàn thành chương trình đào tạo bay quân sự hoàn toàn tại Lào.\nViêng Chăn cũng có thể tìm cách mua các máy bay chiến đấu Trung Quốc với giá rẻ, bao gồm JF-17 và FTC-2000, ông Suorsa cho biết.\nMô tả các báo cáo rằng sân bay sẽ bị máy bay chiến đấu Trung Quốc chiếm đóng là không khả thi, Suorsa cho biết cơ sở này có cơ sở hạ tầng và đường băng hạn chế để hỗ trợ một lực lượng lớn không quân Trung Quốc.\nVới một đường băng duy nhất dài 2.000 mét, Suorsa cho biết đây tương đối ngắn so với các hoạt động quân sự vì các căn cứ không quân Trung Quốc dưới quyền Bộ Tư lệnh Mặt trận phía Nam thường có đường băng khoảng 2.500 mét.\nNgoài ra, Trung Quốc đã có mạng lưới căn cứ không quân quan trọng gần Lào và Việt Nam trên các tỉnh Vân Nam và Quảng Tây, cũng như trên đảo Hải Nam, dưới quyền Bộ Tư lệnh Mặt trận Nam, ông lưu ý.\n\"Đối với các hoạt động ở Đông Nam Á đại lục, Không quân PLA có mạng lưới căn cứ rộng lớn giúp họ có phạm vi hoạt động đáng kể,\" ông Suorsa nói, đồng thời cho biết đội bay tiếp nhiên liệu trên không ngày càng tăng của Trung Quốc có thể mở rộng phạm vi hoạt động của máy bay chiến thuật và chiến lược mà không cần căn cứ tại Lào.\n\"Tổng thể, nỗi lo Trung Quốc sử dụng cơ sở mới làm căn cứ tiền phương có lẽ bị thổi phồng quá mức,\" ông nói, đồng thời cho biết viện trợ quân sự và dân sự của Trung Quốc cho Lào đã rất rộng rãi trong hai thập kỷ qua, bao gồm cả lĩnh vực hàng không của Vương quốc.\nSimon Creak, phó giáo sư lịch sử tại Đại học Công nghệ Nanyang ở Singapore và là nhà sử học hiện đại Đông Nam Á, cho biết lợi ích về đào tạo, thiết bị và cơ sở hạ tầng đối với Lào là rõ ràng.\n\"Một cơ sở chung như thế này mang lại điều mà Lào không thể tự mình phát triển,\" Creak nói.\nMặc dù Lào có các thỏa thuận tương tự với Trung Quốc trong các lĩnh vực phát triển và hạ tầng khác, đây là lần đầu tiên nước này sử dụng mô hình này để tăng cường năng lực quân sự, ông nói.\n“It is unprecedented in this sense.”\nCác binh sĩ Trung Quốc tham dự lễ khai trương cuộc tập trận \"Khiên Hữu nghị\" năm 2023 tại Lào. Ảnh: Tân Hoa\nLào và Trung Quốc có quan hệ quốc phòng lâu dài, bao gồm tổ chức các cuộc tập trận \"Khiên Hữu nghị\" và cung cấp thiết bị quân sự hiện đại, hỗ trợ bảo trì và huấn luyện cho Viêng Chăn.\nKeith Barney, phó giáo sư tại Đại học Quốc gia Úc và chuyên gia quốc gia về Lào, cho biết có một mối liên hệ rộng hơn giữa cơ sở hàng không Ban Keun và tuyến đường sắt Lào-Trung Quốc trị giá 6 tỷ USD, cả hai đều được xây dựng với sự hỗ trợ của Trung Quốc.\nTrong cuộc tập trận năm 2024 gần Viêng Chăn, tuyến đường sắt này đã được sử dụng để vận chuyển nhân sự và thiết bị quân sự. Các phương tiện được dỡ hàng tại một trạm cách Ban Keun khoảng 25km.\nĐường băng đang xây dựng của Ban Keun có thể được kéo dài từ 2.000 mét lên 3.000 mét (9.842 feet), cho phép các máy bay tầm xa hơn hoạt động từ đó, ông Barney cho biết.\n\"Cơ sở hạ tầng có thể phục vụ cả mục đích dân sự và quân sự, và cơ sở hạ tầng có thể trở nên chiến lược,\" ông nói, đồng thời cho biết cơ sở này có thể sẽ mở rộng thêm các chức năng hậu cần hoặc vận hành theo thời gian.\nÔng Barney cho biết nhu cầu hỗ trợ tài chính của Trung Quốc có thể hạn chế không gian hoạt động của nước này trong các cuộc đàm phán với Bắc Kinh, bao gồm cả hợp tác quân sự và tiếp cận cơ sở hạ tầng.\n\"Tôi không cho rằng điều này có nghĩa là Trung Quốc đã áp đặt các điều khoản cụ thể lên Lào trong trường hợp Ban Keun, nhưng mối quan hệ nợ rộng hơn có liên quan đến việc hiểu bối cảnh mà các thỏa thuận như vậy được ký kết.\"\nLào đang đối mặt với khủng hoảng nợ nghiêm trọng với nợ công và nợ nước ngoài vượt quá 118% tổng sản phẩm quốc nội, đang vật lộn để thực hiện các nghĩa vụ tài chính và trả nợ.\nNhững tổn thất tài chính lớn trong ngành năng lượng nhà nước và việc vay quá mức cơ sở hạ tầng từ các ngân hàng Trung Quốc đã góp phần lớn vào tình hình này.\nhttps://www.scmp.com/week-asia/politics/article/3370136/why-chinas-new-air-force-base-laos-could-rattle-vietnam?module=AI_Recommended_for_you_In-house&pgtype=homepage",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 30,
+   "total_reactions": 14,
+   "base_score": 58.0,
+   "hot_score": 12.863,
+   "top_comments": [
+    {
+     "post_id": "43953677",
+     "number": 2,
+     "author": "Tô Tặc",
+     "url": "https://voz.vn/p/43953677/",
+     "created_at": "2026-10-08T09:07:29+00:00",
+     "reactions": 3,
+     "text": "Anh em +sản 16 chữ vàng với nhau tại sao phải lo ngại?!\nMỹ và đám 3 we đáng lo hơn"
+    },
+    {
+     "post_id": "43953816",
+     "number": 16,
+     "author": "bad",
+     "url": "https://voz.vn/p/43953816/",
+     "created_at": "2026-10-08T09:18:15+00:00",
+     "reactions": 2,
+     "text": "Lạ nhỉ. Sao tàu cẩu phải e ngại phòng ngừa với nước bé tẹo thế nhỉ.\nCó lẽ nào sợ..."
+    },
+    {
+     "post_id": "43953823",
+     "number": 17,
+     "author": "ChanTieuNhan",
+     "url": "https://voz.vn/p/43953823/",
+     "created_at": "2026-10-08T09:18:39+00:00",
+     "reactions": 2,
+     "text": "Tao chả thấy lo ngại chút nào, tao tin vào Đ và NN\nHọ muốn làm cái đb gì thì cứ làm\nThằng bào lo ngại thì chuẩn bị 30tr nhé"
+    },
+    {
+     "post_id": "43953708",
+     "number": 4,
+     "author": "Envy de Roth",
+     "url": "https://voz.vn/p/43953708/",
+     "created_at": "2026-10-08T09:10:16+00:00",
+     "reactions": 1,
+     "text": "đối thủ mới sợ chứ không phải đối thủ thì không phải sợ."
+    },
+    {
+     "post_id": "43953771",
+     "number": 10,
+     "author": "NightStaker",
+     "url": "https://voz.vn/p/43953771/",
+     "created_at": "2026-10-08T09:13:47+00:00",
+     "reactions": 1,
+     "text": "Báo Hồng Kông bơm dầu vào lửa à? Tàu cẩu và Việt Nam là anh em thân thiết. Có phải kẻ thù nhau đâu mà lo ngại?\nLo ngại chỉ dành cho những nước ghét tàu cẩu, căm thù tàu cẩu thôi."
+    },
+    {
+     "post_id": "43953803",
+     "number": 13,
+     "author": "hades_05",
+     "url": "https://voz.vn/p/43953803/",
+     "created_at": "2026-10-08T09:17:10+00:00",
+     "reactions": 1,
+     "text": "Cmx lên ngôi chắc có deal bán mấy cái đảo hay bán thằng lào real thôi anh. Khựa nó quây đảo đ dám mở mồm, khác gì chó phải pháo đâu"
+    },
+    {
+     "post_id": "43953805",
+     "number": 14,
+     "author": "basaf_13",
+     "url": "https://voz.vn/p/43953805/",
+     "created_at": "2026-10-08T09:17:16+00:00",
+     "reactions": 1,
+     "text": "Éo cho tàu cẩu làm mà cho Đức - Hàn Quốc làm nên nó đag cay á."
+    },
+    {
+     "post_id": "43953863",
+     "number": 20,
+     "author": "amikacin500mg",
+     "url": "https://voz.vn/p/43953863/",
+     "created_at": "2026-10-08T09:21:29+00:00",
+     "reactions": 1,
+     "text": "Ho he gì\nĐã 4 không rồi mà anh, đâu có được liên minh nước này đánh nước kia hay chỉ trích nó đâu"
+    },
+    {
+     "post_id": "43953978",
+     "number": 29,
+     "author": "cainwh40k",
+     "url": "https://voz.vn/p/43953978/",
+     "created_at": "2026-10-08T09:30:50+00:00",
+     "reactions": 1,
+     "text": "Khứa battlecry hiểu biết gì về quân sự đâu, làm nội dung meme cho vui thôi. làm nội dung WH40K trên youtube cũng thế lan man lặp lại trong clip suốt.\nMấy nay làm chủ đề hanibal, thấy còm về vụ tướng bị moi gan thì lấy luôn ý tưởng làm nội dung mà\nCòn mấy page đỏ hơn như Comcom thì bố bảo dám ho he"
+    },
+    {
+     "post_id": "43954007",
+     "number": 30,
+     "author": "hades_05",
+     "url": "https://voz.vn/p/43954007/",
+     "created_at": "2026-10-08T09:34:07+00:00",
+     "reactions": 1,
+     "text": "Nhìn cái cách vhn sang lúc tang lú, xong cách nó đoạt quyền sấm sét mà mấy anh bộ đội im ru là biết. Giờ ngoài biển đảo khựa nó quậy gì cũng im hết. Thời củ lá ít ra còn đưa tin. Thôi, os lỗi mà sống được hơn 80 năm cũng được rồi. Giờ chấm dứt sớm bớt đau khổ. Tôi chán cách chúng nó điều hành lắm rồi, sắp tới tụi nó đè điện ra chia phần với nhau nữa là chính thức xuống hố"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286717",
+   "title": "Clip tranh cãi chuyện phá dỡ nhà ở Hà Nội: Công an đưa ra thông tin bất ngờ",
+   "url": "https://voz.vn/t/clip-tranh-cai-chuyen-pha-do-nha-o-ha-noi-cong-an-dua-ra-thong-tin-bat-ngo.1286717/",
+   "prefix": "",
+   "op_author": "Điểm Báo͏",
+   "op_created_at": "2026-10-08T03:39:20+00:00",
+   "article_url": "https://vietnamnet.vn/clip-tranh-cai-chuyen-pha-do-nha-o-ha-noi-cong-an-dua-ra-thong-tin-bat-ngo-2562774.html",
+   "article_source": "vietnamnet.vn",
+   "article_excerpt": "Thứ Năm, 08/10/2026 - 10:22\nClip tranh cãi chuyện phá dỡ nhà ở Hà Nội: Công an đưa ra thông tin bất ngờ​\nTiến Dũng\n....\nCũng theo vị lãnh đạo này, sự việc xảy ra từ trước và khi đó, lực lượng công an đã có mặt tại hiện trường để xử lý. Sau đó, hai bên đã thống nhất phương án giải quyết và không còn mâu thuẫn.\nTuy nhiên, đến ngày 7/10, đoạn video về vụ việc bất ngờ được đăng tải trên mạng xã hội, gây chú ý và khiến dư luận hoang mang.\nLãnh đạo Công an phường Tương Mai cho biết cơ quan công an sẽ xác minh và mời người đăng tải đoạn video lên mạng xã hội để làm rõ hành vi liên quan.",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 40,
+   "total_reactions": 24,
+   "base_score": 88.0,
+   "hot_score": 12.036,
+   "top_comments": [
+    {
+     "post_id": "43949313",
+     "number": 2,
+     "author": "ghostlab",
+     "url": "https://voz.vn/p/43949313/",
+     "created_at": "2026-10-08T03:39:38+00:00",
+     "reactions": 3,
+     "text": "chuyện xong xuôi hết rồi giờ mới bới clip lên câu view, rảnh thật"
+    },
+    {
+     "post_id": "43949400",
+     "number": 8,
+     "author": "Location F33",
+     "url": "https://voz.vn/p/43949400/",
+     "created_at": "2026-10-08T03:44:26+00:00",
+     "reactions": 3,
+     "text": "Thằng cha này thuê đội đến phá dỡ nhà để xây lại, trong quá trình đàm phán giá thì không tham gia (ông bà bô tham gia) hoặc khi ký kết hợp đồng thì thấy đắt quá nên không ký, nhưng lập lờ con đen nghĩ làm xong rồi ép giá bên kia cũng phải nhận, chứ không có chủ nhà phất cờ thì bố thằng nào phá được --> kết quả như video"
+    },
+    {
+     "post_id": "43949402",
+     "number": 9,
+     "author": "Cơ Phượng Châu",
+     "url": "https://voz.vn/p/43949402/",
+     "created_at": "2026-10-08T03:44:34+00:00",
+     "reactions": 3,
+     "text": "Tóm tắt"
+    },
+    {
+     "post_id": "43949452",
+     "number": 11,
+     "author": "arielxthefool",
+     "url": "https://voz.vn/p/43949452/",
+     "created_at": "2026-10-08T03:47:15+00:00",
+     "reactions": 3,
+     "text": "nếu có thỏa thuận giá cả trước khi đập thì thằng này bẩn tính, còn đập xong mới tính tiền thì cũng chưa biết rõ ràng. GIống như mấy thằng hút bể phốt, cứ nói tính theo khối, hút xong báo chủ nhà 9 10 củ như ăn cướp rồi lại xảy ra tranh chấp"
+    },
+    {
+     "post_id": "43949859",
+     "number": 14,
+     "author": "Kurt...Cobain",
+     "url": "https://voz.vn/p/43949859/",
+     "created_at": "2026-10-08T04:12:47+00:00",
+     "reactions": 3,
+     "text": "Thì ra giải quyết xong xuôi rồi bà kia về up clip cũ lên phốt\nĐúng là bên nào cũng khốn nạn như nhau"
+    },
+    {
+     "post_id": "43949424",
+     "number": 10,
+     "author": "Genieofthelamp",
+     "url": "https://voz.vn/p/43949424/",
+     "created_at": "2026-10-08T03:45:38+00:00",
+     "reactions": 2,
+     "text": "Bên thi công nhờ cán bộ đứng ra hòa giải để thỏa thuận nhận được tiền rồi, sau đó lại úp clip lên mxh, chuyến này bên thi công ăn hành với cán bộ"
+    },
+    {
+     "post_id": "43951197",
+     "number": 17,
+     "author": "ynamthien9xx",
+     "url": "https://voz.vn/p/43951197/",
+     "created_at": "2026-10-08T06:16:13+00:00",
+     "reactions": 2,
+     "text": "kể ra 1 nước dân trí cao cho ae vozer thẩm xem có vụ nào tương tự ko nào."
+    },
+    {
+     "post_id": "43949485",
+     "number": 12,
+     "author": "Orion_np",
+     "url": "https://voz.vn/p/43949485/",
+     "created_at": "2026-10-08T03:49:11+00:00",
+     "reactions": 1,
+     "text": "Cơ bản thì ko có luật cấm. Nó thể hiện mức độ dân trí của cá nhân đăng lên và mức dân trí của xã hội nhìn vào bình phẩm!"
+    },
+    {
+     "post_id": "43953888",
+     "number": 36,
+     "author": "livetolove23",
+     "url": "https://voz.vn/p/43953888/",
+     "created_at": "2026-10-08T09:23:02+00:00",
+     "reactions": 1,
+     "text": "Nhà tôi bể nhựa tự hoại có 1500l mà đc nhiều năm phết đấy"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286839",
+   "title": "Đề xuất bổ sung chính sách cho lực lượng Công an xã theo Nghị định 73",
+   "url": "https://voz.vn/t/de-xuat-bo-sung-chinh-sach-cho-luc-luong-cong-an-xa-theo-nghi-dinh-73.1286839/",
+   "prefix": "",
+   "op_author": "Lá Cây",
+   "op_created_at": "2026-10-08T08:21:46+00:00",
+   "article_url": "https://laodong.vn/thoi-su/de-xuat-bo-sung-chinh-sach-cho-luc-luong-cong-an-xa-theo-nghi-dinh-73-1779236.ldo",
+   "article_source": "laodong.vn",
+   "article_excerpt": "Việc bổ sung này theo cử tri nhằm bảo đảm quyền lợi chính đáng cho các đối tượng liên quan và thống nhất trong quá trình tổ chức thực hiện tại địa phương.\nVề nội dung này, Bộ Công an cho biết, khi Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở năm 2023 có hiệu lực thi hành từ ngày 1.7.2024, Pháp lệnh Công an xã số 06/2008/PV-UBTVQH12 ngày 21.11.2008 và Nghị định số 73/2009/NĐ-CP ngày 7.9.2009 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh Công an xã cũng hết hiệu lực thi hành.\nTrước đây, việc đảm bảo kinh phí và cơ sở vật chất phục vụ hoạt động của lực lượng Công an xã bán chuyên trách được quy định tại Điều 8, Nghị định số 73/NĐ-CP, quy định chi tiết thi hành một số điều của Pháp lệnh Công an xã, trong đó quy định nhiệm vụ chi trả tiền lương, phụ cấp và đóng, nộp bảo hiểm xã hội, bảo hiểm y tế... thuộc trách nhiệm của địa phương.\nNgoài ra, tại Điều 2, Nghị định số 34/NĐ-CP của Chính phủ sửa đổi, bổ sung một số quy định về cán bộ, công chức cấp xã và người hoạt động không chuyên trách ở cấp xã, thôn, tổ dân phố và tại Điều 12, Thông tư số 13/2019/TT-BNV của Bộ Nội vụ hướng dẫn một số quy định về cán bộ, công chức cấp xã và người hoạt động không chuyên trách ở cấp xã, thôn, tổ dân phố thì việc tăng phụ cấp cho Công an viên khu phố và tổ an ninh tự quản do UBND cấp tỉnh trình HĐND cùng cấp xem xét, quyết định.\nBên cạnh đó, tại Khoản 2, Điều 12, Nghị định số 42/2021/NĐ-CP của Chính phủ quy định việc xây dựng Công an xã, thị trấn chính quy (được sửa đổi, bổ sung một số điều bởi Nghị định số 184/2025/NĐ-CP quy định rõ về thẩm quyền quyết định về chế độ, chính sách đối với Công an xã bán chuyên trách, như sau:\nUBND cấp tỉnh trình HĐND cùng cấp quyết định về số lượng, mức phụ cấp đối với Công an xã bán chuyên trách khi tiếp tục được tham gia bảo đảm an ninh, trật tự ở cơ sở từ ngân sách nhà nước.\nĐồng thời, quyết định chi hỗ trợ thôi việc đối với Công an xã bán chuyên trách kết thúc nhiệm vụ mà không bố trí sắp xếp được công tác khác hoặc không tiếp tục tham gia bảo đảm an ninh, trật tự ở cơ sở theo các quy định hiện hành, phù hợp với khả năng ngân sách của địa phương.\nTrong trường hợp địa phương không bố trí được ngân sách thì trung ương sẽ bổ sung kinh phí cho địa phương theo Luật Ngân sách nhà nước.\nBộ Công an cho rằng, từ những nội dung trên đề nghị cử tri kiến nghị với HĐND, UBND tỉnh Hà Tĩnh để được giải quyết theo quy định.\nhttps://laodong.vn/thoi-su/de-xuat-...uong-cong-an-xa-theo-nghi-dinh-73-1779236.ldo",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 27,
+   "total_reactions": 14,
+   "base_score": 55.0,
+   "hot_score": 11.226,
+   "top_comments": [
+    {
+     "post_id": "43953015",
+     "number": 2,
+     "author": "Bé Sam Cute",
+     "url": "https://voz.vn/p/43953015/",
+     "created_at": "2026-10-08T08:24:19+00:00",
+     "reactions": 3,
+     "text": "toidongtinh"
+    },
+    {
+     "post_id": "43953095",
+     "number": 3,
+     "author": "Anmission161",
+     "url": "https://voz.vn/p/43953095/",
+     "created_at": "2026-10-08T08:30:22+00:00",
+     "reactions": 3,
+     "text": "anh nào vào đua xe đi chứ tôi quen quá rồi"
+    },
+    {
+     "post_id": "43953657",
+     "number": 12,
+     "author": "manucianvy97",
+     "url": "https://voz.vn/p/43953657/",
+     "created_at": "2026-10-08T09:06:25+00:00",
+     "reactions": 3,
+     "text": "Đ' quan tâm, mấy thằng nặn bằng c*t xứ NameK đ' đáng nhận thêm 1 đồng nào"
+    },
+    {
+     "post_id": "43953548",
+     "number": 9,
+     "author": "maymanbenho",
+     "url": "https://voz.vn/p/43953548/",
+     "created_at": "2026-10-08T08:59:36+00:00",
+     "reactions": 1,
+     "text": "Giai cấp lãnh đạo người lao động thì mãi đéo có gì tăng"
+    },
+    {
+     "post_id": "43953725",
+     "number": 16,
+     "author": "giayasics",
+     "url": "https://voz.vn/p/43953725/",
+     "created_at": "2026-10-08T09:11:08+00:00",
+     "reactions": 1,
+     "text": "bữa cơm các bé ở trường thì phường/xã sao ko lo mà lo cho ai ko dzay\n@agree11"
+    },
+    {
+     "post_id": "43953727",
+     "number": 17,
+     "author": "Raybanglass",
+     "url": "https://voz.vn/p/43953727/",
+     "created_at": "2026-10-08T09:11:22+00:00",
+     "reactions": 1,
+     "text": "mới đi xin cái tờ lý lịch tư pháp phí 200k\nđóng phí mà lòng đau như cắt đcm"
+    },
+    {
+     "post_id": "43953751",
+     "number": 18,
+     "author": "agree11",
+     "url": "https://voz.vn/p/43953751/",
+     "created_at": "2026-10-08T09:12:36+00:00",
+     "reactions": 1,
+     "text": "Thì lo cho các anh Conan để vụt dùi cui vào mồm các bé than đồ ăn ít còn gì"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1282494",
+   "title": "Người Việt lại kéo nhau đi Trung Quốc ngắm lá vàng, lá đỏ",
+   "url": "https://voz.vn/t/nguoi-viet-lai-keo-nhau-di-trung-quoc-ngam-la-vang-la-do.1282494/",
+   "prefix": "",
+   "op_author": "ChatGPT AI",
+   "op_created_at": "2026-09-25T01:53:45+00:00",
+   "article_url": "https://lifestyle.zingnews.vn/nguoi-viet-lai-keo-nhau-di-trung-quoc-ngam-la-vang-la-do-post1684996.html",
+   "article_source": "lifestyle.zingnews.vn",
+   "article_excerpt": "Mùa du lịch thu - đông bắt đầu với sự khởi động của những tour ngắm lá vàng, đỏ ở khu vực Đông Bắc Á.\nTại công ty lữ hành, tính đến cuối tháng 9, lượng khách đăng ký tour mùa thu quốc tế tăng 15-30% so với cùng kỳ năm trước nhờ mùa lá đến sớm vài ngày. Ba thị trường Trung Quốc, Hàn Quốc và Nhật Bản chiếm 65-70% trên tổng lượng khách mua tour thu.\nTheo dự báo tán lá từ Cơ quan khí tượng Nhật Bản (JMA), lá phong đỏ năm nay chuyển màu đầu tiên tại Sapporo, kế là Aomori (13/11), Hiroshima (28/11) và Tokyo (29/11). Càng về phía nam lá đổi màu càng muộn, các thành phố như Fukuoka, Kagoshima sẽ kéo dài mùa lá đỏ đến giữa tháng 12, cùng với lá ngân hạnh đổi vàng ở Sendai, Osaka, Kagoshima...\n​\nHàng cây ngân hạnh ở thành phố Gyeongju (Hàn Quốc) khi vào thu. Ảnh: Nguyễn Thanh Tuấn.\nCòn tại Hàn Quốc, lá phong đỏ \"phủ sóng\" sớm hơn Nhật Bản một tháng. Cụ thể, công viên Seoraksan và Odaesan (tỉnh Gangwon-do) là một trong những nơi đầu tiên phủ sắc đỏ ngày 28/9 và đạt đỉnh ngày 18/10. Sau đó lần lượt đến Seoul, đảo Nami, Busan.\nDù vậy, các công ty lữ hành vẫn chứng kiến khách Việt đổ dồn sự quan tâm đến các dòng tour ngắm sắc vàng lá ngân hạnh tại Trung Quốc. Năm nay, tour chuyên biệt cũng \"lên ngôi\".\nTour Trung Quốc thắng thế​\nTheo số liệu từ phòng kinh doanh Công ty lữ hành BestPrice, tính đến ngày 21/9, đơn vị ghi nhận tỷ lệ lấp chỗ các tour mùa thu Đông Bắc Á đạt 40-50% kế hoạch, tăng 20-30% so với cùng kỳ năm trước. Một số lịch khởi hành đúng thời điểm lá đổi màu, đặc biệt vào cuối tháng 10 và tháng 11 đã đạt 60-70%.\nTrong đó, thị trường Trung Quốc với các tuyến Bắc Kinh - Thượng Hải - Hàng Châu - Ô Trấn, Cửu Trại Câu, Trương Gia Giới - Phượng Hoàng Cổ Trấn hay Vân Nam có sức mua tốt nhất.\nTương tự, bà Trần Thị Bảo Thu, Giám đốc Tiếp thị và Truyền thông Vietluxtour, thông tin khách mua tour Trung Quốc chiếm 35% trên tổng lượng khách đi Đông Bắc Á. Các tuyến ngắm lá vàng Cửu Trại Câu, Lệ Giang tăng trưởng ấn tượng, cạnh tranh với lá phong đỏ tại Nhật Bản hay Hàn Quốc.\nTính chung, lượng khách đặt tour mùa thu - đông tăng 10-15% so với cùng kỳ năm trước. Sức mua có xu hướng tăng trong tháng 10, 11 khi vào cao điểm. Giá tour khoảng 15-25 triệu đồng đối với châu Á và 45-70 triệu đồng với một số hành trình châu Âu, Nhật Bản.\n​\nKhách Việt ngắm lá vàng tại công viên Trung Sơn (Bắc Kinh, Trung Quốc). Ảnh: Win Đi.\nNói với Tri Thức - Znews về tình hình tour mùa thu, ông Hoàng Nghĩa Đạt, Giám đốc điều hành Công ty MayTrip, cho biết Trung Quốc tiếp tục là thị trường chủ lực năm nay. Trong khi đó, tour\nNhật Bản\nbán chậm do biến động giá vé máy bay, phí visa khiến mức giá tăng 10-15%. Từ đó, nhiều du khách chuyển sang tour Trung Quốc. Các tuyến Tokyo - Fuji - Kyoto - Osaka, Asahikawa - Sapporo - Noboribetsu - Otaru chưa lấp kín.\nTuy nhiên, tín hiệu đáng mừng là phân khúc khách đoàn doanh nghiệp và các gia đình có thu nhập cao mua tour mùa thu tăng 12-20%.\nVề sức hút của tour Trung Quốc, ông Đạt chỉ ra 4 lý do kéo khách đến thị trường này, bao gồm khoảng giá rộng, sản phẩm đa dạng từ phổ thông đến cao cấp, nhiều đường bay và khả năng liên tục làm mới điểm đến.\nKhông chỉ riêng Nhật Bản, Hàn Quốc, Trung Quốc, một số thị trường xa hơn như Nga, Hà Lan, Thụy Sĩ, Na Uy... cũng có sắc vàng, đỏ của mùa thu, phù hợp du lịch cuối năm cho các nhóm bạn bè, cặp đôi và gia đình có khả năng chi trả cao.\nTại công ty du lịch Golden Smile Travel, bên cạnh tour Trung Quốc, đơn vị cũng ghi nhận sự quan tâm khả quan đối với tour mùa thu Nga, kết nối Moscow - Saint Petersburg với giá 73,9 triệu đồng.\nTìm điểm đến mới​\nÔng Nguyễn Trần Hoàng Phương, Chủ tịch HĐQT Golden Smile Travel, nhìn nhận với tour mùa thu quốc tế, khách Việt dần xa rời những nơi quen thuộc, ngày càng quan tâm đến tuyến điểm mới và cách tổ chức tour. Giá cả và số lượng điểm tham quan không còn là yếu tố quyết định xuống tiền.\nNăm nay, đơn vị xây dựng những tour thu - đông có đặc trưng rõ về cảnh quan, tập trung vào văn hóa, lịch sử và thiên nhiên.\nCác cung đường mới như Vũ Hán - Lạc Dương - Khai Phong - Tây An, Đạo Thành Á Đinh, Nam Kinh - Bắc Kinh... được khai thác cho nhóm tour Trung Quốc đang bán chạy. Ở nhóm tour mùa đông, Cáp Nhĩ Tân rút ngắn thời gian di chuyển và kết hợp một đêm lưu trú tại làng tuyết.\n\"Để thích ứng với sự thay đổi hành vi của du khách, đơn vị đặt mục tiêu phải tìm được giá trị riêng của từng hành hành, thiết kể đủ khác biệt, chiều theo nhu cầu, mùa trong bối cảnh các doanh nghiệp cũng đang tích cực đổi mới tour\", ông Phương bày tỏ.\n​\nKhách Việt chụp hình cùng lá ngân hạnh ở Kyoto (Nhật Bản) năm 2025. Ảnh: Nguyễn Minh Vương.\nPhía ông Bùi Thanh Tú, Giám đốc Marketing BestPrice, nhận thấy điều khách Việt đặt sự quan tâm năm nay là vị trí khách sạn, đường bay thẳng, thời gian tự do và những trải nghiệm sâu.\nNhu cầu cũng phân hóa rõ hơn. Người đi lần đầu vẫn ưu tiên các tuyến kinh điển, trong khi nhóm từng đến Nhật Bản, Hàn Quốc hoặc Trung Quốc muốn khám phá tuyến mới, ít đông và cảnh quan khác biệt. Đáng chú ý, đơn vị cũng tăng cường các tour \"no-shopping\" do du khách không còn thích mua sắm nhiều.\nTour Trung Quốc hiện theo tuyến Bắc Kinh - Thượng Hải - Hàng Châu - Ô Trấn, Cửu Trại Câu, Trương Gia Giới - Phượng Hoàng Cổ Trấn và các tuyến Vân Nam.\nTour Nhật Bản đi theo cung đường vàng Tokyo - Phú Sĩ - Kyoto - Osaka, Hokkaido mùa thu sớm, Shizuoka - Phú Sĩ - Tokyo. Kết hợp trải nghiệm tắm onsen, tàu Shinkansen, mặc kimono và ẩm thực địa phương.\nTour Hàn Quốc có tuyến Seoul - Nami - Everland, Busan - Gyeongju - Ulsan - Seoul, Busan - Jeju. Kết hợp tàu ven biển Haeundae, hái táo, lê và trải nghiệm văn hóa.\nBên cạnh tour truyền thống còn có những dòng sản phẩm chuyên biệt như tour bay thẳng, tour nhóm nhỏ và hành trình có thời gian tự do. Các tour Nhật Bản có tuyến thiết kế riêng. Các tour Hàn Quốc mở rộng sang điểm đến ngoài trung tâm.",
+   "status": "ok",
+   "pages_scanned": 14,
+   "replies": 261,
+   "total_reactions": 211,
+   "base_score": 683.0,
+   "hot_score": 6.669,
+   "top_comments": [
+    {
+     "post_id": "43808477",
+     "number": 2,
+     "author": "condor0000",
+     "url": "https://voz.vn/p/43808477/",
+     "created_at": "2026-09-25T02:02:14+00:00",
+     "reactions": 3,
+     "text": "Ngắm cảnh đẹp thì Tàu nó to bự nhiều cảnh đẹp hơn bọn Nhật Hàn, với lại bọn nó cũng bảo tồn cảnh quan vs di tích khá tốt nên không thua kém gì so với di tích của Nhật, trước có đi mấy cái trấn cổ của Tàu vào mùa tuyết rơi đẹp phết"
+    },
+    {
+     "post_id": "43808563",
+     "number": 3,
+     "author": "mido8x",
+     "url": "https://voz.vn/p/43808563/",
+     "created_at": "2026-09-25T02:07:24+00:00",
+     "reactions": 3,
+     "text": "Đi Tàu là dễ nhất rồi, Visa xin là có, giờ đây ko cần chứng minh tài chính hay công việc nữa! Nhưng mùa du lịch thì nên tránh quốc khánh Tàu và mấy chổ đông người : ))"
+    },
+    {
+     "post_id": "43808585",
+     "number": 4,
+     "author": "Honekawa Suneo",
+     "url": "https://voz.vn/p/43808585/",
+     "created_at": "2026-09-25T02:08:47+00:00",
+     "reactions": 3,
+     "text": "súc vật lều báo đặt cái tít cứ như việc đi du lịch nước ngoài là một việc gì đó rất tiêu cực và đáng lên án\nnhưng hễ trong nước có chỗ nào sạch sẽ, đẹp đẽ một tí là lại lên bài châu âu giữa lòng thủ đô, tiểu bali, con hẻm hàn quốc,... phèn ỉa chảy"
+    },
+    {
+     "post_id": "43808592",
+     "number": 5,
+     "author": "choregnickchuavay",
+     "url": "https://voz.vn/p/43808592/",
+     "created_at": "2026-09-25T02:09:04+00:00",
+     "reactions": 3,
+     "text": "nghe nói thu hà nội đẹp nhất thế giới mà sao lại kéo nhau qua tàu?"
+    },
+    {
+     "post_id": "43808601",
+     "number": 6,
+     "author": "Cơn Mê Bất Tận",
+     "url": "https://voz.vn/p/43808601/",
+     "created_at": "2026-09-25T02:09:34+00:00",
+     "reactions": 3,
+     "text": "Đề nghị tru di tam tộc bọn cổ nâu hết cho sạch nước"
+    },
+    {
+     "post_id": "43808696",
+     "number": 8,
+     "author": "quocduy88",
+     "url": "https://voz.vn/p/43808696/",
+     "created_at": "2026-09-25T02:15:03+00:00",
+     "reactions": 3,
+     "text": "Nói về cảnh đẹp và bảo tồn di sản thì mình phải gọi tàu là cụ"
+    },
+    {
+     "post_id": "43808725",
+     "number": 9,
+     "author": "mido8x",
+     "url": "https://voz.vn/p/43808725/",
+     "created_at": "2026-09-25T02:16:46+00:00",
+     "reactions": 3,
+     "text": "Nếu số liệu của Hiệp hội du lịch VN chính xác thì số lượng khách Việt đi Tàu mỗi năm bỏ xa Nhật, Hàn vầ gấp 10 lần thằng Hàn luôn chứ ở đó ít hơn!\nXung quanh tau đứa nào chẳng đi Tàu mỗi năm 1 lần.. trong cty gần như 100% đứa nào cũng từng đi qua Thượnt Hải."
+    },
+    {
+     "post_id": "43808779",
+     "number": 10,
+     "author": "Cà phê đắng lòng",
+     "url": "https://voz.vn/p/43808779/",
+     "created_at": "2026-09-25T02:19:28+00:00",
+     "reactions": 3,
+     "text": "Di sản có mài ra mà ăn như bất động sản được ko hả"
+    },
+    {
+     "post_id": "43808839",
+     "number": 12,
+     "author": "Genieofthelamp",
+     "url": "https://voz.vn/p/43808839/",
+     "created_at": "2026-09-25T02:22:56+00:00",
+     "reactions": 3,
+     "text": "Không có tiền thì ra khu Hoàng Sa, Trường Sa chụp tạm"
+    },
+    {
+     "post_id": "43808845",
+     "number": 13,
+     "author": "cugia1991",
+     "url": "https://voz.vn/p/43808845/",
+     "created_at": "2026-09-25T02:23:17+00:00",
+     "reactions": 3,
+     "text": "Có cứt mà đủ tuổi so với Nhật.\nĐi độn là do visa dễ.\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "43808996",
+     "number": 15,
+     "author": "Lục Tuyết Kỳ (Lu Xueqi)",
+     "url": "https://voz.vn/p/43808996/",
+     "created_at": "2026-09-25T02:34:02+00:00",
+     "reactions": 3,
+     "text": "Đi Hàn mà đi hàng năm chắc chỉ có đội làm đẹp, phẫu thuật thẩm mĩ\nDu lịch Hàn xách dép cho Tàu khựa nhanh cho nó vuông"
+    },
+    {
+     "post_id": "43809181",
+     "number": 16,
+     "author": "squalla2",
+     "url": "https://voz.vn/p/43809181/",
+     "created_at": "2026-09-25T02:43:37+00:00",
+     "reactions": 3,
+     "text": "Mình cũng vừa đi Thượng Hải về. Một trong những lý do chính mình chọn đi TQ là vì nó rẻ. Đi TQ chỉ tầm 15tr, trong khi đi Nhật Bản 30tr. Nó đắt gấp đôi chứ không phải ít."
+    },
+    {
+     "post_id": "43809217",
+     "number": 17,
+     "author": "gialam_o.0",
+     "url": "https://voz.vn/p/43809217/",
+     "created_at": "2026-09-25T02:45:52+00:00",
+     "reactions": 3,
+     "text": "Đi TQ quá rẻ\nTrừ khoản ăn uống dở ra thì ngon hơn đi tour các nước khác"
+    },
+    {
+     "post_id": "43809253",
+     "number": 18,
+     "author": "King's Fianchetto",
+     "url": "https://voz.vn/p/43809253/",
+     "created_at": "2026-09-25T02:48:21+00:00",
+     "reactions": 3,
+     "text": "VN đâu thiếu cảnh đẹp, chủ yếu do các bạn trẻ lười khám phá."
+    },
+    {
+     "post_id": "43809272",
+     "number": 19,
+     "author": "choregnickchuavay",
+     "url": "https://voz.vn/p/43809272/",
+     "created_at": "2026-09-25T02:49:35+00:00",
+     "reactions": 3,
+     "text": "nói chuyện đéo có số liệu, toàn tự sục ra, đi tàu rẻ hơn 4-5 lần đi nhật hàn, đéo ai ngu mà đi nhật hàn cho nhiều"
+    },
+    {
+     "post_id": "43809284",
+     "number": 20,
+     "author": "Ling.Xiaoyu",
+     "url": "https://voz.vn/p/43809284/",
+     "created_at": "2026-09-25T02:50:15+00:00",
+     "reactions": 3,
+     "text": "Hàn thì chán vl, đéo có gì cả. Nhật thì visa đã khó, sang đó còn bị kì thị beto thì chỉ có Trung là sáng nhất gì còn gì nữa. Có hiện đại, có cổ kính"
+    },
+    {
+     "post_id": "43809333",
+     "number": 21,
+     "author": "Khoa Ngô AUS",
+     "url": "https://voz.vn/p/43809333/",
+     "created_at": "2026-09-25T02:54:02+00:00",
+     "reactions": 3,
+     "text": "Tôi chưa đi nhg cho hỏi du lịch Nhật hơn TQ chỗ nào vậy. Chắc Nhật nghe nó đẳng cấp hơn, với một số điểm mang tính biểu tượng dễ nhận biết hơn nhỉ. Chứ từ cảnh quan thiên nhiên, hạ tầng hiện đại, các dịch vụ, văn hóa đặc sắc, tôi thấy TQ k kém gì. Tất nhiên có điều kiện thì đi cả 2. Còn Hàn cứ kiểu nửa nạc nửa mỡ k đặc sắc."
+    },
+    {
+     "post_id": "43809338",
+     "number": 22,
+     "author": "Secret Avengers",
+     "url": "https://voz.vn/p/43809338/",
+     "created_at": "2026-09-25T02:54:51+00:00",
+     "reactions": 3,
+     "text": "Nhật cũng có éo gì đâu, lãnh thổ quá nhỏ trong khi TQ có đủ các loại địa hình từ núi cao, sa mạc, thảo nguyên, biển nhiệt đới"
+    },
+    {
+     "post_id": "43809448",
+     "number": 29,
+     "author": "lam_mai_anh",
+     "url": "https://voz.vn/p/43809448/",
+     "created_at": "2026-09-25T03:01:06+00:00",
+     "reactions": 3,
+     "text": "Tàu: đất nước rộng lớn nên cảm giác cảnh quan hùng vỹ\nNhật: sạch đẹp, đắt đỏ\nHàn: k nên đi, cảnh quan bình thường, văn hóa k có j đặc sắc, ẩm thực chán.\nH có tiền thì mong đc đi lại Tàu, Nhật. Vẫn còn nhiều điểm chưa đc đi."
+    },
+    {
+     "post_id": "43809557",
+     "number": 33,
+     "author": "MrWiseguy",
+     "url": "https://voz.vn/p/43809557/",
+     "created_at": "2026-09-25T03:08:30+00:00",
+     "reactions": 3,
+     "text": "lạy bố, tuổi l so với bọn kia"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286864",
+   "title": "Rùa hay chim lạc sẽ thành linh vật nổi bật của IP văn hóa Việt?",
+   "url": "https://voz.vn/t/rua-hay-chim-lac-se-thanh-linh-vat-noi-bat-cua-ip-van-hoa-viet.1286864/",
+   "prefix": "",
+   "op_author": "manoao",
+   "op_created_at": "2026-10-08T09:34:53+00:00",
+   "article_url": "https://thanhnien.vn/rua-hay-chim-lac-se-thanh-linh-vat-noi-bat-cua-ip-van-hoa-viet-185261008141519007.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Voi Linh Sơn, rùa Đậu Đậu hay chim Lạc Lạc sẽ trở thành \"vua\" linh vật của IP văn hóa Việt. Đó là một gợi mở khi khai thác di sản thành tài sản.\nBà Trần Thị Tám, Giám đốc Ipcon Vietnam, giới thiệu nhiều linh vật IP văn hóa do đơn vị sáng tạo, phát triển và khai thác tại Diễn đàn Công nghệ số và AI trong kiến tạo nền kinh tế sáng tạo - Từ tài nguyên văn hóa đến năng lực cạnh tranh quốc gia, diễn ra ngày 8.10 tại Hà Nội. Trong đó có voi Linh Sơn ở Yên Tử, rùa Đậu Đậu tại Văn Miếu - Quốc Tử Giám và chim Lạc Lạc tại Khu di tích Đền Hùng.\nHình ảnh chim Lạc Lạc được lấy cảm hứng từ họa tiết trên trống đồng - ẢNH: NVCC\nTheo bà Tám, voi Linh Sơn được phát triển từ các hình tượng gắn với Yên Tử như voi trắng và hình ảnh tu sĩ, sau đó được ứng dụng vào sản phẩm lưu niệm, tour trải nghiệm và nội dung số dành cho du khách. Rùa Đậu Đậu lấy cảm hứng từ hệ thống 82 bia tiến sĩ tại Văn Miếu - Quốc Tử Giám, được phát triển thành các sản phẩm và ứng dụng phục vụ hoạt động tham quan, trải nghiệm, học tập. Trong khi đó, chim Lạc Lạc được xây dựng từ cảm hứng họa tiết trên trống đồng, hiện được khai thác qua sản phẩm du lịch, các hoạt động văn hóa và nội dung số mang tính giáo dục.\nBà Tám cũng dẫn trường hợp gấu Kumamon của tỉnh Kumamoto (Nhật Bản) như một ví dụ về cách một nhân vật được xây dựng thành IP có khả năng tạo ra giá trị kinh tế và sức lan tỏa rộng. Theo bà, Kumamon là nhân vật hư cấu được tạo ra thông qua một cuộc thi, sau đó được quản lý và khai thác theo những quy định, điều kiện sử dụng cụ thể. Doanh thu liên quan đến Kumamon được tỉnh Kumamoto công bố ở mức khoảng 100 tỉ yên trong giai đoạn 2011 - 2021.\nHình ảnh voi Linh Sơn ở Yên Tử - ẢNH: NVCC\nTừ đó, bà Tám cho rằng việc phát triển IP văn hóa có thể góp phần đưa các giá trị, hình ảnh và câu chuyện văn hóa Việt Nam đến gần hơn với công chúng trong nước và quốc tế, đồng thời mở ra thêm hướng khai thác giá trị kinh tế từ tài nguyên văn hóa.\nIP văn hóa mở rộng không gian khai thác\nMột vấn đề khác được bà Trần Thị Tám đề cập là mối quan hệ giữa IP văn hóa và IP công nghệ. Theo bà, IP công nghệ thường gắn với một lĩnh vực chuyên môn cụ thể, trong khi IP văn hóa có khả năng kết nối và được ứng dụng trong nhiều lĩnh vực khác nhau. Công nghệ vì thế có thể trở thành công cụ hỗ trợ việc phát triển, truyền tải và mở rộng trải nghiệm đối với các IP văn hóa.",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 8,
+   "total_reactions": 5,
+   "base_score": 18.0,
+   "hot_score": 4.244,
+   "top_comments": [
+    {
+     "post_id": "43954023",
+     "number": 2,
+     "author": "KamikazeIX",
+     "url": "https://voz.vn/p/43954023/",
+     "created_at": "2026-10-08T09:35:36+00:00",
+     "reactions": 2,
+     "text": "Chó thì sao?"
+    },
+    {
+     "post_id": "43954031",
+     "number": 4,
+     "author": "Bác Ơi Dân Tin",
+     "url": "https://voz.vn/p/43954031/",
+     "created_at": "2026-10-08T09:36:11+00:00",
+     "reactions": 1,
+     "text": "Vote chim lạc. Lấy một con không realistic để muốn vẽ gì vẽ thôi."
+    },
+    {
+     "post_id": "43954055",
+     "number": 9,
+     "author": "Raidou",
+     "url": "https://voz.vn/p/43954055/",
+     "created_at": "2026-10-08T09:37:41+00:00",
+     "reactions": 1,
+     "text": "Hôm trước thằng Tung mới đứng trên lưng con chim đã muốn đem nó đi tử hình, đòi IP với chả linh vật, đúng cười ẻ\nMua mấy đồ này về mà lỡ đánh rơi hay chụp ảnh \"không tôn trọng\" chắc mai đi tù luôn"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286863",
+   "title": "Hoạt động giáo dục tăng cường không được phép thu tiền",
+   "url": "https://voz.vn/t/hoat-dong-giao-duc-tang-cuong-khong-duoc-phep-thu-tien.1286863/",
+   "prefix": "",
+   "op_author": "Level up!",
+   "op_created_at": "2026-10-08T09:32:27+00:00",
+   "article_url": "https://thanhnien.vn/hoat-dong-giao-duc-tang-cuong-khong-duoc-phep-thu-tien-18526100815504151.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Bộ GD-ĐT quy định phân biệt giữa hoạt động giáo dục tăng cường và giáo dục theo nhu cầu của người học, trong đó nêu rõ hoạt động giáo dục tăng cường không được phép thu tiền của người học.\nBộ GD-ĐT vừa ban hành Thông tư quy định về hoạt động giáo dục tăng cường và hoạt động giáo dục theo nhu cầu người học tại các cơ sở giáo dục phổ thông.\nThông tư quy định: Hoạt động giáo dục tăng cường được tổ chức ngoài thời lượng hoạt động giáo dục chính khóa, trong thời gian dạy học 2 buổi/ngày hoặc theo lộ trình dạy học 2 buổi/ngày đối với cơ sở giáo dục chưa đủ điều kiện.\nBộ GD-ĐT quy định phân biệt giữa giáo dục tăng cường với giáo dục theo nhu cầu của người học - ẢNH: PHHS\nHoạt động nhằm bổ sung nội dung giáo dục cần thiết, tăng cường thực hành, trải nghiệm, vận dụng kiến thức và phát triển phẩm chất, năng lực người học theo mục tiêu Chương trình giáo dục phổ thông.\nNội dung giáo dục tăng cường là những nội dung cơ bản, nền tảng, cần thiết mà mọi người học đều được tiếp cận; không làm phát sinh môn học mới, không làm tăng yêu cầu cần đạt của chương trình giáo dục phổ thông; không dạy trước, dạy lại nội dung chương trình các môn học, không ôn tập, luyện thi hoặc tổ chức như hoạt động dạy thêm, học thêm.\n\"Hoạt động giáo dục tăng cường không thu tiền của người học. Kinh phí thực hiện được bảo đảm theo quy định của pháp luật; không được chuyển, tách nội dung thuộc trách nhiệm bảo đảm của nhà nước hoặc nội dung hoạt động giáo dục tăng cường sang hoạt động giáo dục theo nhu cầu người học để thu kinh phí\", quy định nêu.\nGiáo dục theo nhu cầu phải thực sự \"tự nguyện\"\nThông tư mới ban hành cũng quy định tách bạch về hoạt động giáo dục theo nhu cầu người học. Trong đó nêu rõ các hoạt động này phải được tổ chức ngoài thời gian thực hiện hoạt động giáo dục chính khóa và hoạt động giáo dục tăng cường, nhằm đáp ứng nhu cầu, năng khiếu, sở thích và định hướng phát triển cá nhân của người học.\nNội dung có thể là các hoạt động mở rộng, nâng cao hoặc chuyên sâu về văn hóa, nghệ thuật, thể dục, thể thao, hướng nghiệp, khởi nghiệp, năng lực số, trí tuệ nhân tạo, ngoại ngữ, kỹ năng và các lĩnh vực phù hợp khác.\n\"Việc tham gia do người học, cha mẹ hoặc người giám hộ tự nguyện lựa chọn. Nhà trường không được ép buộc, vận động mang tính áp đặt hoặc tạo áp lực; không sử dụng việc tham gia hoặc không tham gia làm căn cứ đánh giá kết quả học tập, rèn luyện, xét thi đua, khen thưởng hoặc phân loại người học\", quy định nêu.",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 0,
+   "total_reactions": 1,
+   "base_score": 2.0,
+   "hot_score": 0.468,
+   "top_comments": [],
+   "error": ""
+  },
+  {
+   "thread_id": "1284269",
+   "title": "Chung cư Xa La từng bán giá 10 triệu đồng/m2, nay lên 60 triệu đồng/m2",
+   "url": "https://voz.vn/t/chung-cu-xa-la-tung-ban-gia-10-trieu-dong-m2-nay-len-60-trieu-dong-m2.1284269/",
+   "prefix": "",
+   "op_author": "Level up!",
+   "op_created_at": "2026-09-30T03:43:50+00:00",
+   "article_url": "https://vietnamnet.vn/chung-cu-xa-la-tung-ban-gia-10-trieu-dong-m2-nay-len-60-trieu-dong-m2-2559749.html",
+   "article_source": "vietnamnet.vn",
+   "article_excerpt": "Từng là khu căn hộ giá rẻ nổi bật ở Hà Đông, Xa La nay có căn hộ được rao bán vài tỷ đồng, trong khi giao thông khu vực ngày càng quá tải.\nKhởi công năm 2007 và hoàn thành năm 2012, Khu đô thị Xa La từng được biết đến với hàng loạt tòa chung cư đời đầu tại Hà Đông. Dự án do Doanh nghiệp Tư nhân Xây dựng số 1 tỉnh Điện Biên triển khai.\nKhu đô thị gồm 10 tòa chung cư, cung cấp khoảng 2.200 căn hộ. Thời điểm mở bán, 2009-2012, giá các căn hộ dao động từ 10-14,5 triệu đồng/m2.\nCác tòa CT1, CT2 và CT3 được mở bán sớm với giá từ 10,5-12,5 triệu đồng/m2. Sau đó, giá tại CT4 và CT5 tăng lên khoảng 11,5-13 triệu đồng/m2, còn CT6 mở bán vào khoảng năm 2011-2012 với giá khoảng 13-14,5 triệu đồng/m2.\nCăn 2 phòng ngủ diện tích 60-75m2 có giá khoảng 700-950 triệu đồng, còn căn 3 phòng ngủ rộng 80-100m2 có giá từ 1-1,3 tỷ đồng. Với mức giá trên, nhiều căn hộ có tổng giá khoảng dưới 1,5 tỷ đồng/căn, phù hợp với nhiều gia đình có nhu cầu mua nhà tại Hà Đông thời điểm đó.\nCác tòa chung cư tại Xa La. Ảnh: Duy Anh\nTrong giai đoạn thị trường sôi động, một số căn hộ xuất hiện tình trạng người mua phải trả thêm tiền chênh khoảng 50-200 triệu đồng/căn, tùy vị trí, tầng và hướng. Nếu tính cả khoản chênh, giá thực tế người mua phải trả khoảng 13-17 triệu đồng/m2.\nSau nhiều năm sử dụng, khu vực cũng đối mặt với áp lực về chỗ đỗ xe, không gian sinh hoạt chung và hạ tầng phục vụ lượng cư dân lớn.\nNăm 2015, chung cư Xa La gây chú ý khi xảy ra vụ cháy tại tầng hầm tòa CT4A. Vụ cháy đã gây thiệt hại lớn về tài sản cho cư dân, với khoảng 200 xe máy và gần 50 xe đạp bị thiêu rụi. Nhiều căn hộ cũng bị ảnh hưởng bởi sức nóng và khói từ đám cháy.\nGiá tăng sau nhiều năm\nSau gần hai thập kỷ hình thành, mặt bằng giá căn hộ tại Xa La đã tăng mạnh so với thời điểm mở bán, trong khi áp lực giao thông và chỗ đỗ xe ngày càng lớn.\nTheo khảo sát giá rao bán trên thị trường thứ cấp, căn hộ tại Xa La hiện được chào bán ở nhiều mức khác nhau, phổ biến khoảng 48-62 triệu đồng/m2 tùy tòa, diện tích, tầng, tình trạng pháp lý và nội thất. Những căn hộ từng có giá khoảng 1 tỷ đồng nay có giá cao gấp vài lần.\nCăn hộ 1 phòng ngủ diện tích 40-55m2 được rao bán khoảng 2,2-2,9 tỷ đồng. Căn 2 phòng ngủ diện tích 53-75m2 có giá khoảng 3-4,5 tỷ đồng. Căn 3 phòng ngủ diện tích 80-105m2 được chào bán khoảng 4,3-6 tỷ đồng.\nTại CT1A, CT1B và CT1C, giá khoảng 48-58 triệu đồng/m2. Căn 2 phòng ngủ diện tích 63-70m2 có giá khoảng 3,1-3,8 tỷ đồng, còn căn 3 phòng ngủ rộng 90-100m2 có giá khoảng 4,8-5,8 tỷ đồng.\nMặt bằng giá tại chung cư Xa La tăng đáng kể. Ảnh: Duy Anh\nCác tòa CT2 và CT3 có giá khoảng 47-56 triệu đồng/m2. Căn 2 phòng ngủ diện tích 63-75m2 được chào bán khoảng 3-4,2 tỷ đồng, còn căn 3 phòng ngủ 100-104m2 có giá khoảng 4,5-5,7 tỷ đồng.\nTại cụm CT4A, CT4B và CT4C, những căn nhỏ diện tích 53-54m2 có giá khoảng 2,9-3,2 tỷ đồng. Căn 2 phòng ngủ rộng 63-70m2 được chào bán khoảng 3,3-4,2 tỷ đồng.\nTại CT5 trên đường Phùng Hưng, căn 2 phòng ngủ diện tích 68-72m2 có giá khoảng 3,5-4,5 tỷ đồng. Tại CT6, căn 1 phòng ngủ diện tích 40-55m2 có giá khoảng 1,3-2,7 tỷ đồng, còn căn 2 phòng ngủ rộng 68-84m2 có giá khoảng 2,8-3,8 tỷ đồng.\nỞ khu vực lân cận Xa La, một số dự án khác như Nam Xa La có căn hộ diện tích 70-75m2 được chào bán khoảng 2,6-3,3 tỷ đồng. Tại Hemisco, căn 2 phòng ngủ rộng khoảng 86m2 có giá khoảng 4-4,3 tỷ đồng.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 21,
+   "total_reactions": 5,
+   "base_score": 31.0,
+   "hot_score": 0.44,
+   "top_comments": [
+    {
+     "post_id": "43864481",
+     "number": 2,
+     "author": "nhathao93",
+     "url": "https://voz.vn/p/43864481/",
+     "created_at": "2026-09-30T04:04:52+00:00",
+     "reactions": 3,
+     "text": "Công nghệ bơm thổi của các pháp sư BDS, nhất là miền Bắc, phải được ghi nhận là di sản văn hoá phi vật thể."
+    },
+    {
+     "post_id": "43952953",
+     "number": 10,
+     "author": "Boss Lacotes",
+     "url": "https://voz.vn/p/43952953/",
+     "created_at": "2026-10-08T08:20:14+00:00",
+     "reactions": 1,
+     "text": "kaka tôi theo dõi giá bds mấy năm vừa rồi mà, nó thổi lên tới nóc, giờ nó giảm 10-15% vẫn là bô thôi , cứ để tiền ăn lãi 10% , để đám này chết hết đi"
+    },
+    {
+     "post_id": "43952987",
+     "number": 12,
+     "author": "EchChetTaiMieng",
+     "url": "https://voz.vn/p/43952987/",
+     "created_at": "2026-10-08T08:22:47+00:00",
+     "reactions": 1,
+     "text": "Cái dân HN này thổi giá chỗ chúng nó ở lên trần đéo thổi được nữa nó đi cả nước để thổi giá lùa gà."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1286865",
+   "title": "AI tự động thanh toán trên 10 triệu đồng/giao dịch được xếp vào nhóm rủi ro cao",
+   "url": "https://voz.vn/t/ai-tu-dong-thanh-toan-tren-10-trieu-dong-giao-dich-duoc-xep-vao-nhom-rui-ro-cao.1286865/",
+   "prefix": "",
+   "op_author": "Level up!",
+   "op_created_at": "2026-10-08T09:38:09+00:00",
+   "article_url": "https://thanhnien.vn/ai-tu-dong-thanh-toan-tren-10-trieu-dong-giao-dich-duoc-xep-vao-nhom-rui-ro-cao-18526100814325855.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Ngân hàng Nhà nước vừa ban hành Thông tư 53/2026 quy định về an toàn, quản lý rủi ro và điều kiện triển khai đối với việc ứng dụng hệ thống trí tuệ nhân tạo trong ngành ngân hàng. Đối với hệ thống trí tuệ nhân tạo (AI) tự động thực hiện giao dịch điện tử trong hoạt động ngân hàng, được xác định là hệ thống AI có rủi ro cao nếu có thực hiện tối thiểu một trong các loại giao dịch.\nThông tư được ban hành nhằm cụ thể hóa các quy định của luật Trí tuệ nhân tạo và các văn bản hướng dẫn có liên quan, đồng thời thiết lập khuôn khổ thống nhất về an toàn, quản lý rủi ro và điều kiện triển khai hệ thống AI trong ngành ngân hàng. Trong thời gian qua, các đơn vị trong ngành ngân hàng đã đẩy mạnh ứng dụng AI trong nhiều nghiệp vụ như chấm điểm tín dụng, thẩm định cho vay, phát hiện gian lận thanh toán, tư vấn tự động, eKYC... Bên cạnh các lợi ích mang lại, việc ứng dụng AI cũng phát sinh những rủi ro mới liên quan đến an ninh mạng, an toàn dữ liệu, rủi ro mô hình, rủi ro từ bên thứ ba và chuỗi cung ứng, từ đó tác động đến quyền, lợi ích hợp pháp của tổ chức, cá nhân và an toàn hoạt động ngân hàng.\nQuy định về an toàn, quản lý rủi ro khi ứng dụng AI trong ngân hàng - ẢNH: NGỌC THẮNG\nThông tư được xây dựng theo cách tiếp cận quản lý dựa trên mức độ rủi ro, bảo đảm yêu cầu quản lý tương xứng với mức độ rủi ro và phạm vi tác động của từng hệ thống AI, đồng thời bảo đảm cơ chế giám sát và khả năng can thiệp của con người. Các nội dung chính của Thông tư cụ thể như phân loại hệ thống AI theo mức độ rủi ro và bảo đảm cơ chế giám sát, can thiệp của con người. Phân loại hệ thống AI, xác định mức độ rủi ro và thiết lập cơ chế giám sát, can thiệp của con người phù hợp; bảo đảm AI không thay thế trách nhiệm và thẩm quyền của con người trong hoạt động ngân hàng.\nQuy định cụ thể hệ thống AI có rủi ro cao trong lĩnh vực ngân hàng theo Quyết định số 33/2026 của Thủ tướng Chính phủ ban hành Danh mục hệ thống trí tuệ nhân tạo có rủi ro cao. Đối với hệ thống AI tự động thực hiện giao dịch thanh toán, hệ thống được xác định là có rủi ro cao khi tự động thực hiện giao dịch có giá trị trên 10 triệu đồng/giao dịch hoặc tổng giá trị trong ngày trên 20 triệu đồng đối với khách hàng cá nhân; trên 50 triệu đồng/giao dịch hoặc tổng giá trị trong ngày trên 100 triệu đồng đối với khách hàng tổ chức. Đối với AI tự động quyết định cấp tín dụng, hệ thống được xác định là có rủi ro cao khi xử lý khoản cấp tín dụng từ 50 triệu đồng trở lên.\nthanh toán Coin biết sống nào sao với AI",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 0,
+   "total_reactions": 0,
+   "base_score": 0.0,
+   "hot_score": 0.0,
+   "top_comments": [],
+   "error": ""
+  }
+ ]
+}
