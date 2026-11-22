@@ -1,0 +1,2770 @@
+{
+ "source": "https://voz.vn/f/diem-bao.33/",
+ "scraped_at": "2026-11-22T17:27:35.985883+07:00",
+ "weights": {
+  "W_REPLY": 1.0,
+  "W_UNG": 2.0,
+  "GRAVITY": 0.8,
+  "AGE_OFFSET_H": 6.0
+ },
+ "threads": [
+  {
+   "thread_id": "1300646",
+   "title": "Mức sinh Việt Nam giảm sâu",
+   "url": "https://voz.vn/t/muc-sinh-viet-nam-giam-sau.1300646/",
+   "prefix": "",
+   "op_author": "buonlixi001",
+   "op_created_at": "2026-11-21T08:25:15+00:00",
+   "article_url": "https://vnexpress.net/muc-sinh-viet-nam-giam-sau-5147073.html",
+   "article_source": "vnexpress.net",
+   "article_excerpt": "Theo\nBáo cáo quốc gia về đăng ký và thống kê hộ tịch năm 2025\nvừa được Cục Thống kê công bố, tổng tỷ suất sinh (TFR) của Việt Nam đạt 1,66 con mỗi phụ nữ, giảm mạnh so với mức 1,84 của năm 2024. Đây là mức thấp hơn đáng kể so với ngưỡng sinh thay thế 2,1 con. TFR phản ánh số con trung bình một phụ nữ có thể sinh trong suốt thời kỳ sinh đẻ, ghi nhận trong năm nghiên cứu.",
+   "status": "ok",
+   "pages_scanned": 20,
+   "replies": 383,
+   "total_reactions": 551,
+   "base_score": 1485.0,
+   "hot_score": 92.622,
+   "top_comments": [
+    {
+     "post_id": "44427373",
+     "number": 2,
+     "author": "abcd1233",
+     "url": "https://voz.vn/p/44427373/",
+     "created_at": "2026-11-21T08:26:59+00:00",
+     "reactions": 3,
+     "text": "Sinh con là tội ác."
+    },
+    {
+     "post_id": "44427379",
+     "number": 2,
+     "author": "Tsuburaya Mitsuhiko",
+     "url": "https://voz.vn/p/44427379/",
+     "created_at": "2026-11-21T08:27:27+00:00",
+     "reactions": 3,
+     "text": "nằm thẳng, không đẻ, không kinh doanh... chắc là cách phản kháng hữu hiệu nhất với iq cow ở thời điểm hiện tại"
+    },
+    {
+     "post_id": "44427392",
+     "number": 3,
+     "author": "Mochi0112",
+     "url": "https://voz.vn/p/44427392/",
+     "created_at": "2026-11-21T08:28:43+00:00",
+     "reactions": 3,
+     "text": "Đã giảm sâu lại còn chênh lệch Nam/Nữ lớn nữa mới chán.\nLớp con bé lớn nhà tôi 40 đứa thì có 16 đứa con gái\nLớp thằng thứ 2 thì nhõn 5 đứa con gái/ 21 thằng con trai\nCon bé út thì 4 đứa con gái/ 15 thằng con trai.\nCàng ngày chênh lệch càng lớn."
+    },
+    {
+     "post_id": "44427417",
+     "number": 4,
+     "author": "luongnguyen1993T",
+     "url": "https://voz.vn/p/44427417/",
+     "created_at": "2026-11-21T08:32:28+00:00",
+     "reactions": 3,
+     "text": "Ủa tôi nhớ a nào bảo là lứa 4x đang đẻ mạnh con thứ 3, thứ 4 mà, sao lại sụt thế này"
+    },
+    {
+     "post_id": "44427419",
+     "number": 5,
+     "author": "buitralinh",
+     "url": "https://voz.vn/p/44427419/",
+     "created_at": "2026-11-21T08:32:41+00:00",
+     "reactions": 3,
+     "text": "Nhận thức của đội trẻ được tăng lên nhiều rồi đấy. Thấy đẻ ra không nuôi tử tế được thì không nên đẻ"
+    },
+    {
+     "post_id": "44427422",
+     "number": 6,
+     "author": "nhẹ thôi em",
+     "url": "https://voz.vn/p/44427422/",
+     "created_at": "2026-11-21T08:33:05+00:00",
+     "reactions": 3,
+     "text": "https://www.nso.gov.vn/wp-content/uploads/2026/11/BCQG-ve-DK-va-thong-ke-ho-tich-1.pdf\ndữ liệu đây"
+    },
+    {
+     "post_id": "44427426",
+     "number": 7,
+     "author": "nhẹ thôi em",
+     "url": "https://voz.vn/p/44427426/",
+     "created_at": "2026-11-21T08:34:00+00:00",
+     "reactions": 3,
+     "text": "100k cặp đẻ 4 đứa ở nông thôn cũng đéo gánh nổi 1000k cặp ở thành phố đéo đẻ, hoặc đẻ 1 đứa"
+    },
+    {
+     "post_id": "44427427",
+     "number": 8,
+     "author": "okamoto001",
+     "url": "https://voz.vn/p/44427427/",
+     "created_at": "2026-11-21T08:34:03+00:00",
+     "reactions": 3,
+     "text": "Hồng phúc của dân tộc"
+    },
+    {
+     "post_id": "44427438",
+     "number": 11,
+     "author": "phamtran200012",
+     "url": "https://voz.vn/p/44427438/",
+     "created_at": "2026-11-21T08:35:29+00:00",
+     "reactions": 3,
+     "text": "Đẻ cc t nè , bố học 4 năm ĐH để chúng m dí bố đi NVQS à"
+    },
+    {
+     "post_id": "44427463",
+     "number": 14,
+     "author": "finestacreepy",
+     "url": "https://voz.vn/p/44427463/",
+     "created_at": "2026-11-21T08:39:12+00:00",
+     "reactions": 3,
+     "text": "Biết là những tầng lớp này k thể nghèo được roài nhưng nhất thiết có phải khoe ra như vậy không? ĐM làm bọn nô lệ cay đéo thể nuốt được, móa có cách mạng thì đám nô lệ phải đem cả nhà thèng này là treo cổ mất, quá láo"
+    },
+    {
+     "post_id": "44427467",
+     "number": 15,
+     "author": "phamtran200012",
+     "url": "https://voz.vn/p/44427467/",
+     "created_at": "2026-11-21T08:39:24+00:00",
+     "reactions": 3,
+     "text": "Tao đã phím lệnh từ năm ngoái rồi thằng vozer nào không theo thì chịu"
+    },
+    {
+     "post_id": "44427476",
+     "number": 16,
+     "author": "friday2",
+     "url": "https://voz.vn/p/44427476/",
+     "created_at": "2026-11-21T08:40:34+00:00",
+     "reactions": 3,
+     "text": "Vợ chồng tôi tháng thu nhập 50tr, có nhà ở Hà Nội rồi mà còn chưa muốn đẻ. Tôi 94, vợ 99 nên cũng sắp phải quyết định có để hay không rồi mà mỗi lần nghĩ đến lại thấy nản"
+    },
+    {
+     "post_id": "44427483",
+     "number": 19,
+     "author": "Tsuburaya Mitsuhiko",
+     "url": "https://voz.vn/p/44427483/",
+     "created_at": "2026-11-21T08:41:08+00:00",
+     "reactions": 3,
+     "text": "lớp con bé nhà tôi 8 đứa 6 nam 2 nữ đây"
+    },
+    {
+     "post_id": "44427485",
+     "number": 20,
+     "author": "Mochi0112",
+     "url": "https://voz.vn/p/44427485/",
+     "created_at": "2026-11-21T08:41:19+00:00",
+     "reactions": 3,
+     "text": "Toàn nói phét thôi anh, không tin anh cứ thử đi vào các phòng sinh bệnh viện mà xem, toàn trai là trai. Con bé út nhà tôi đẻ dịch vụ nằm phòng riêng không tính, chứ thằng thứ 2 đẻ 1 phòng 11 người toàn trai là trai. Con bé lớn thì 12 giường 4 gái/ 8 trai.\nCó trường hợp nhà quê làm ruộng thôi, trông vất vả vcd, con dâu đẻ đến 4 đứa rồi toàn con trai mà bà mẹ chồng lên chăm vẫn tự hào bô bô khắp nơi: \"Có phúc mới đẻ được con trai\". Chịu chết cái tư tưởng.\nCá nhân tôi thấy những người không quan trọng trai gái thật thì người ta ít dài dòng giải thích lắm, nhưng những bố mà hay đạo lý kiểu con nào cũng là con là kiểu gì cũng bỏ tiền ra sàng lọc lấy thằng cu."
+    },
+    {
+     "post_id": "44427494",
+     "number": 21,
+     "author": "Yolo22_3",
+     "url": "https://voz.vn/p/44427494/",
+     "created_at": "2026-11-21T08:42:26+00:00",
+     "reactions": 3,
+     "text": "Đẻ con mà không nuôi được cho nó có cái thẻ xanh là tội ác.\nỞ xứ này cứ trăm năm 2 cuộc chiến, đứt gãy văn hóa, đứt gãy dòng tộc liên tục, thì đéo ai mà chịu nổi.\nDân thì khác gì gà vịt, để làm mồi nhậu cho chim ưng. Vặt vặt vặt, nhổ sạch cả lông đít thì ai mà chả rén ."
+    },
+    {
+     "post_id": "44427497",
+     "number": 22,
+     "author": "Mochi0112",
+     "url": "https://voz.vn/p/44427497/",
+     "created_at": "2026-11-21T08:43:00+00:00",
+     "reactions": 3,
+     "text": "Lo phết chứ đùa, đầy thằng có nhà có xe nhưng trông đụt trĩ còn kgoong lấy được vợ, không biết thời chúng nó mai này thế nào."
+    },
+    {
+     "post_id": "44427500",
+     "number": 23,
+     "author": "nhẹ thôi em",
+     "url": "https://voz.vn/p/44427500/",
+     "created_at": "2026-11-21T08:43:26+00:00",
+     "reactions": 3,
+     "text": "vì toàn đẻ 1 đứa nên người ta càng muốn đẻ con trai thôi, y chang bọn tq thời giới hạn 1 con ấy\ncon gái thì nó phá thai luôn"
+    },
+    {
+     "post_id": "44427501",
+     "number": 24,
+     "author": "PerHapsYouSeen",
+     "url": "https://voz.vn/p/44427501/",
+     "created_at": "2026-11-21T08:43:48+00:00",
+     "reactions": 3,
+     "text": "Hà Nội có tỉ lệ bé trai / bé gái cao nhất nước 120,8\nLệch gì mà kinh dữ vậy"
+    },
+    {
+     "post_id": "44427505",
+     "number": 25,
+     "author": "BlueHills",
+     "url": "https://voz.vn/p/44427505/",
+     "created_at": "2026-11-21T08:44:10+00:00",
+     "reactions": 3,
+     "text": "Hiện tại tui có 1 đứa con tui dự 1 đứa thoi, đang trong quá trình phấn đấu sang Mỹ, tui cũng xác định nếu đủ qua thì đẻ thêm 1 đứa và có chuyện gì vợ con tui bên Mỹ, tui ở đây gánh hết"
+    },
+    {
+     "post_id": "44427508",
+     "number": 27,
+     "author": "Ăn Thịt Bò",
+     "url": "https://voz.vn/p/44427508/",
+     "created_at": "2026-11-21T08:44:22+00:00",
+     "reactions": 3,
+     "text": "Giảm cái đàu bùi. Quanh tôi, nhà nào cũng 3 - 4 con hết. Báo chí phổng đạn vcl, bố nếu bố náo, không phản ánh đúng thực tế xã hội!"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300235",
+   "title": "Doanh nghiệp lâm thế khó vì hóa đơn bị xác định rủi ro sau 2-3 năm",
+   "url": "https://voz.vn/t/doanh-nghiep-lam-the-kho-vi-hoa-don-bi-xac-dinh-rui-ro-sau-2-3-nam.1300235/",
+   "prefix": "",
+   "op_author": "vnzoom619",
+   "op_created_at": "2026-11-20T02:58:44+00:00",
+   "article_url": "https://tuoitre.vn/doanh-nghiep-lam-the-kho-vi-hoa-don-bi-xac-dinh-rui-ro-sau-2-3-nam-100261117192834472.htm",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "Link nguồn tại đây\nTại thời điểm mua hàng hóa, dịch vụ, nhà cung cấp vẫn hoạt động, hóa đơn được phát hành hợp lệ, nhưng sau 2-3 năm hóa đơn bị xác định rủi ro khiến doanh nghiệp vào thế khó.\nBà Trần Thị Thanh Tâm, Trưởng Phòng Tài chính Công ty TNHH Eurofins Sắc Ký Hải Đăng, phát biểu tại tọa đàm - Ảnh: M.C.\nDoanh nghiệp\n​\nHôm nay (17-11), Thuế TP.HCM phối hợp cùng Hiệp hội Doanh nghiệp đầu tư nước ngoài (VAFIE) tổ chức Tọa đàm các thay đổi về chính sách thuế cần lưu ý, trọng tâm quản lý của cơ quan thuế và những hành động doanh nghiệp cần thực hiện.\n....\n\"Khi cơ quan công an điều tra đã kết luận doanh nghiệp bán hàng chỉ mua bán hóa đơn khống, không hoạt động và không có hàng hóa thực tế, thì cơ quan thuế dù sau 2-3 năm vẫn buộc phải mời doanh nghiệp mua hàng lên làm việc để xử lý về hành vi vi phạm về hành vi trốn thuế.\nViệc các doanh nghiệp tự giác, chủ động kê khai loại bỏ chi phí rủi ro và khắc phục hậu quả được xem là tình tiết giảm nhẹ. Đây là rủi ro chung của rất nhiều doanh nghiệp hiện nay. Vì vậy doanh nghiệp bắt buộc phải kiểm soát chặt chẽ việc mua bán hàng hóa, đảm bảo đúng nơi có hàng hóa thực sự và có hóa đơn thực sự\", ông Nguyễn Tiến Dũng nhấn mạnh.",
+   "status": "ok",
+   "pages_scanned": 11,
+   "replies": 207,
+   "total_reactions": 354,
+   "base_score": 915.0,
+   "hot_score": 33.908,
+   "top_comments": [
+    {
+     "post_id": "44414174",
+     "number": 2,
+     "author": "[Yui Hatano]",
+     "url": "https://voz.vn/p/44414174/",
+     "created_at": "2026-11-20T03:01:39+00:00",
+     "reactions": 3,
+     "text": "éo hiểu sao có cái trò hồi tố kiểu lấy luật mới áp vào hành vi cũ trong khi luật cũ k sai phạm như bây giờ :v"
+    },
+    {
+     "post_id": "44414262",
+     "number": 3,
+     "author": "Thanhbinh_2302",
+     "url": "https://voz.vn/p/44414262/",
+     "created_at": "2026-11-20T03:07:43+00:00",
+     "reactions": 3,
+     "text": "Mình bị hồi tố, doanh nghiệp ngấp nghé phá sản luôn. Mía nó chứ."
+    },
+    {
+     "post_id": "44414306",
+     "number": 4,
+     "author": "John117",
+     "url": "https://voz.vn/p/44414306/",
+     "created_at": "2026-11-20T03:09:23+00:00",
+     "reactions": 3,
+     "text": "Quốc gia trả nghiệp"
+    },
+    {
+     "post_id": "44414328",
+     "number": 5,
+     "author": "vnzoom619",
+     "url": "https://voz.vn/p/44414328/",
+     "created_at": "2026-11-20T03:11:00+00:00",
+     "reactions": 3,
+     "text": "ai dính vụ này mới thốn, cty lớn tôi ko biết chứ cty nhỏ ăn phạt thì coi như cả tháng làm không công thậm chí lỗ luôn. Mà cay nhất là thà mình làm sai nên bị phạt, này có giao dịch thật, làm ăn thật mà vẫn ăn đòn thì bó tay ~!~~"
+    },
+    {
+     "post_id": "44414358",
+     "number": 6,
+     "author": "John117",
+     "url": "https://voz.vn/p/44414358/",
+     "created_at": "2026-11-20T03:12:21+00:00",
+     "reactions": 3,
+     "text": "Lên thuế nhì nhèo trình bày, cam kết này nọ, nó bảo \"công ty này đang bị công an điều tra rồi, bên em không tự loại thì chị chuyển sang công an lên đó giải trình nhé\", nghe thế là đái mẹ ra quần thôi cắn răng loại"
+    },
+    {
+     "post_id": "44414402",
+     "number": 7,
+     "author": "Trác Don't Like",
+     "url": "https://voz.vn/p/44414402/",
+     "created_at": "2026-11-20T03:14:52+00:00",
+     "reactions": 3,
+     "text": "conan điều tra thì không nó làm gì, cty xuất hóa đơn không hoạt động tại địa chỉ đăng ký mà nó còn hành bên tôi đây, mà hóa đơn từ 2-3 năm trước"
+    },
+    {
+     "post_id": "44414411",
+     "number": 8,
+     "author": "Luffy53",
+     "url": "https://voz.vn/p/44414411/",
+     "created_at": "2026-11-20T03:15:29+00:00",
+     "reactions": 3,
+     "text": "Chung quy là tại DN nhé.\nCán bụ chúng tôi cũng mệt mỏi lắm chớ"
+    },
+    {
+     "post_id": "44414425",
+     "number": 9,
+     "author": "vnzoom619",
+     "url": "https://voz.vn/p/44414425/",
+     "created_at": "2026-11-20T03:16:19+00:00",
+     "reactions": 3,
+     "text": "bài này là lần thứ n vụ phạt hóa đơn sau 2-3 năm này được đưa lên. Và bên thuế vẫn trả lời vòng vo và đẩy trách nhiệm hoàn toàn về phía DN. Dù hồ sơ a có chuẩn chỉ thì vẫn ăn đạn"
+    },
+    {
+     "post_id": "44414443",
+     "number": 10,
+     "author": "Yasuo The Unforgiven",
+     "url": "https://voz.vn/p/44414443/",
+     "created_at": "2026-11-20T03:17:30+00:00",
+     "reactions": 3,
+     "text": "Dân bầu dân chịu chứ các anh than trách ai?"
+    },
+    {
+     "post_id": "44414448",
+     "number": 11,
+     "author": "trunkz",
+     "url": "https://voz.vn/p/44414448/",
+     "created_at": "2026-11-20T03:17:51+00:00",
+     "reactions": 3,
+     "text": "Tính ra cái này là nhìn thấy từ lúc gõ quy định luôn mà nó vẫn gõ - duyệt - triển khai - hành doanh nghiệp mấy năm nay rồi giờ lên bài lần thứ n. Phải có tính toán gì chứ cán bộ không thể ngu như thế được."
+    },
+    {
+     "post_id": "44414450",
+     "number": 12,
+     "author": "Terz",
+     "url": "https://voz.vn/p/44414450/",
+     "created_at": "2026-11-20T03:18:06+00:00",
+     "reactions": 3,
+     "text": "Đã dính đây, kiểm tra thuế 10 năm, 2026 kiểm tra hồ sơ VAT thuế 2016-2020. Nếu năm 2016 anh mua hàng ở nhà cung cấp A, giá trị 100 củ để bán cho khách hàng. Mà tới 2025 thằng A chết ngắc hoặc nợ thuế hoặc đóng cửa ko hoạt động thì toàn bộ giá trị 100 củ anh sẽ bị bóc tách ra khỏi chi phí đầu vào. Anh sẽ bị đóng phạt của việc sử dụng hóa đơn bất hợp pháp tính từ thời điểm 2016 tới tận 2026 cứ thế lũy kế lên mà tính.\nDoanh nghiệp của anh phải có khả năng dự đoán tương lai cho sự phá sản hoặc trốn nợ của các nhà cung cấp trong ít nhất 10 năm tới.\nVí dụ như ảnh dưới, hóa đơn hợp pháp của 2017 bị coi là bất hợp pháp của 2020, hóa đơn 2019 bị coi là bất hợp pháp của 2026. Chỗ này bị bóc tầm cả tỷ hơn + tiền phạt của 8-10 năm trước + dồn lũy kế cũng bằng luôn chi phí bị bóc, hơn 2 tỏi tiền phạt nhé."
+    },
+    {
+     "post_id": "44414455",
+     "number": 13,
+     "author": "John117",
+     "url": "https://voz.vn/p/44414455/",
+     "created_at": "2026-11-20T03:18:15+00:00",
+     "reactions": 3,
+     "text": "Nói chung bọn thuế kỷ nguyên này còn mất dạy hơn bọn matcha"
+    },
+    {
+     "post_id": "44414483",
+     "number": 14,
+     "author": "cttt",
+     "url": "https://voz.vn/p/44414483/",
+     "created_at": "2026-11-20T03:20:00+00:00",
+     "reactions": 3,
+     "text": "Vụ này còn không khốn nạn bằng vụ trốn thuế vat.\nMình mua hàng hóa, nó xuất hóa đơn.\nXong nó đéo nộp tiền vat, bỏ trốn\nMình lại phải nộp bù tiền vat (lần 2), hủy hóa đơn, khai lại bctc, nộp thêm thuế tndn\nMóa\nKhốn nạn vl"
+    },
+    {
+     "post_id": "44414534",
+     "number": 15,
+     "author": "vnzoom619",
+     "url": "https://voz.vn/p/44414534/",
+     "created_at": "2026-11-20T03:23:33+00:00",
+     "reactions": 3,
+     "text": "cán bộ ko ngu đâu, nhưng xử lý cái mớ này phức tạp quá, ko ai dám nhận trách nhiệm nên đá trách nhiệm về DN thôi. Cái câu tui quote là ví dụ điển hình thuế sẽ trả lời thế nào khi DN giải trình"
+    },
+    {
+     "post_id": "44414563",
+     "number": 16,
+     "author": "any_5",
+     "url": "https://voz.vn/p/44414563/",
+     "created_at": "2026-11-20T03:25:32+00:00",
+     "reactions": 3,
+     "text": "H mua hàng phải biết tiên tri nha. Chơi vậy khác gì bóp cổ doanh nghiệp cho chết sạch. Kỷ nguyên vươn mình\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "44414590",
+     "number": 17,
+     "author": "ryan_lonely",
+     "url": "https://voz.vn/p/44414590/",
+     "created_at": "2026-11-20T03:27:03+00:00",
+     "reactions": 3,
+     "text": "Giờ DN đi mua hàng phải xác minh coi thằng bán có vi phạm ko, khổ nỗi lúc mua nó ko vi phạm, mà sau này nó vi phạm lại bắt trừ chi phí đó ra.."
+    },
+    {
+     "post_id": "44414611",
+     "number": 19,
+     "author": "Đừng Xanh Như Lá",
+     "url": "https://voz.vn/p/44414611/",
+     "created_at": "2026-11-20T03:28:24+00:00",
+     "reactions": 3,
+     "text": "Steve job hay Ceo Microsoft mà đẻ ra ở Việt Nam.\nCũng đi chạy Xanh Sm mà thôi.\n))"
+    },
+    {
+     "post_id": "44414617",
+     "number": 20,
+     "author": ".Unlimited.50",
+     "url": "https://voz.vn/p/44414617/",
+     "created_at": "2026-11-20T03:28:40+00:00",
+     "reactions": 3,
+     "text": "cỡ 2018 bên cty tôi đã dính, lên bài trên voz rồi\nĐm tuyệt vời"
+    },
+    {
+     "post_id": "44414620",
+     "number": 21,
+     "author": "any_5",
+     "url": "https://voz.vn/p/44414620/",
+     "created_at": "2026-11-20T03:28:50+00:00",
+     "reactions": 3,
+     "text": "Anh mua thực, có hoá đơn chứng từ đầy đủ. Đùng cái mấy năm sau nó giải thể, đống hoá đơn đó bị coi là bất hợp pháp. Loại sạch toàn bộ chi phí, vat, nộp phạt bla bla. Chơi vậy khác gì chơi doanh nghiệp cho chết. Ko gì đảm bảo thằng đối tác của mình năm sau còn hoạt động cả.\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "44414629",
+     "number": 22,
+     "author": "vnzoom619",
+     "url": "https://voz.vn/p/44414629/",
+     "created_at": "2026-11-20T03:29:33+00:00",
+     "reactions": 3,
+     "text": "Tôi cũng mới bị đây, cg bị phán như a\nĐôi lúc chỉ muốn chửi:\nnếu có khả năng dự đoán thì tôi ko cần dự đoán dc 10 năm đâu, tôi cần dự đoán dc kết quả của Bịp Lót 1 kỳ trên 100 tỏi thôi là đủ ấm no cmnr, nghỉ hưu sớm luôn chứ cần méo gì lập DN ra chi cho bị hành"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300122",
+   "title": "Việt Nam chính thức tiếp nhận vai trò chủ nhà APEC 20271",
+   "url": "https://voz.vn/t/viet-nam-chinh-thuc-tiep-nhan-vai-tro-chu-nha-apec-20271.1300122/",
+   "prefix": "",
+   "op_author": "Cổ_Đông_BSR",
+   "op_created_at": "2026-11-19T13:57:34+00:00",
+   "article_url": "https://tuoitre.vn/viet-nam-chinh-thuc-tiep-nhan-vai-tro-chu-nha-apec-2027-100261119024915211.htm",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp nhận vai trò chủ nhà APEC 2027 trong buổi lễ tại Thâm Quyến ngày 19-11.\nTrưa 19-11, tại Thâm Quyến, ngay sau Hội nghị cấp cao Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương (APEC), lễ chuyển giao vai trò chủ nhà APEC 2027 đã được tổ chức.\nTổng Bí thư, Chủ tịch nước Tô Lâm thay mặt Việt Nam tiếp nhận, đánh dấu Năm APEC 2027 do nước ta đăng cai chính thức bắt đầu.\n\"Chúc mừng Việt Nam chính thức đảm nhận trọng trách đăng cai Năm APEC 2027\", Bộ Ngoại giao Việt Nam đăng trên trang Facebook chính thức trưa 19-11.\nAPEC 2027 - Hành trình đi qua nhiều vùng đất Việt Nam​\nTại Hội nghị thượng đỉnh Doanh nghiệp APEC 2026 ngày 18-11, Tổng Bí thư, Chủ tịch nước Tô Lâm đã giới thiệu về Năm APEC 2027 như một hành trình qua nhiều miền đất của Việt Nam, với sự tham gia của các địa phương, doanh nghiệp và các tầng lớp Nhân dân, trước khi hội tụ tại đảo ngọc\nPhú Quốc\ntrong Tuần lễ cấp cao.\nÔng trân trọng mời các đại biểu đến Việt Nam, đến với APEC Việt Nam 2027, cùng khám phá cơ hội, tạo dựng thành công chung và cùng nhau đồng hành kiến tạo kỷ nguyên phát triển mới của tự cường, đổi mới sáng tạo, bao trùm và thịnh vượng.\n\"Hẹn gặp quý vị tại APEC Việt Nam 2027 và cùng viết tiếp câu chuyện thành công của hợp tác và thịnh vượng tại châu Á - Thái Bình Dương\", Tổng Bí thư, Chủ tịch nước Tô Lâm khép lại bài phát biểu ngày 18-11 bằng lời mời.",
+   "status": "ok",
+   "pages_scanned": 12,
+   "replies": 238,
+   "total_reactions": 340,
+   "base_score": 918.0,
+   "hot_score": 29.178,
+   "top_comments": [
+    {
+     "post_id": "44410574",
+     "number": 2,
+     "author": "nickthu8roimod",
+     "url": "https://voz.vn/p/44410574/",
+     "created_at": "2026-11-19T14:02:57+00:00",
+     "reactions": 3,
+     "text": "Mấy bố lên resort họp cho con nhờ, cứ khi nào có sự kiện lớn thì lại tắc lòi kèn ra\nEdit: may quá họp ở Phú Quốc"
+    },
+    {
+     "post_id": "44410584",
+     "number": 3,
+     "author": "AnkCern",
+     "url": "https://voz.vn/p/44410584/",
+     "created_at": "2026-11-19T14:04:18+00:00",
+     "reactions": 3,
+     "text": "Anh chưa biết Apec 2027 tổ chức ở đâu à?"
+    },
+    {
+     "post_id": "44410588",
+     "number": 4,
+     "author": "Vanguard_VietNam",
+     "url": "https://voz.vn/p/44410588/",
+     "created_at": "2026-11-19T14:04:57+00:00",
+     "reactions": 3,
+     "text": "Năm sau APEC đó. Nhất định phải tăng trưởng 2 con số"
+    },
+    {
+     "post_id": "44410599",
+     "number": 5,
+     "author": "kriegs0.1",
+     "url": "https://voz.vn/p/44410599/",
+     "created_at": "2026-11-19T14:06:44+00:00",
+     "reactions": 3,
+     "text": "cứ mỗi lần bác tôi đi nước ngoài là lại +1 tiểu phẩm"
+    },
+    {
+     "post_id": "44410601",
+     "number": 6,
+     "author": "Cổ_Đông_BSR",
+     "url": "https://voz.vn/p/44410601/",
+     "created_at": "2026-11-19T14:07:01+00:00",
+     "reactions": 3,
+     "text": "Apec lần trước CTN phong độ và quyền lực qá"
+    },
+    {
+     "post_id": "44410661",
+     "number": 7,
+     "author": "Thầy Phán",
+     "url": "https://voz.vn/p/44410661/",
+     "created_at": "2026-11-19T14:14:12+00:00",
+     "reactions": 3,
+     "text": "cứ mỗi lần đại hội võ lâm là vẽ 1 đống dự án, sao ko họp ở hn đi, cơ sở vật chất có sẵn nhỉ"
+    },
+    {
+     "post_id": "44410667",
+     "number": 8,
+     "author": "Cá Diếc đây",
+     "url": "https://voz.vn/p/44410667/",
+     "created_at": "2026-11-19T14:14:59+00:00",
+     "reactions": 3,
+     "text": "Cần làm rõ động cơ của người quay và ng đăng"
+    },
+    {
+     "post_id": "44410677",
+     "number": 10,
+     "author": "Cơ Phượng Châu",
+     "url": "https://voz.vn/p/44410677/",
+     "created_at": "2026-11-19T14:16:03+00:00",
+     "reactions": 3,
+     "text": "mịa chum vô duyên vc, lúc đầu có thể ko thấy, lúc quay lại cũng ko nốt\nmà công nhận, hội nghị trước thì quay như vịt, lần này thì"
+    },
+    {
+     "post_id": "44410686",
+     "number": 11,
+     "author": "Scfoti",
+     "url": "https://voz.vn/p/44410686/",
+     "created_at": "2026-11-19T14:17:30+00:00",
+     "reactions": 3,
+     "text": "thấy mà ông ơi, đoạn sau Chum vỗ vai Chế mà. Kiểu \"ngoan đi nhóc\""
+    },
+    {
+     "post_id": "44410690",
+     "number": 12,
+     "author": "Svenska1407",
+     "url": "https://voz.vn/p/44410690/",
+     "created_at": "2026-11-19T14:18:00+00:00",
+     "reactions": 3,
+     "text": "Tiểu phẩm này sao bằng tiểu phẩm Bèo dạt mây trôi\nVừa vô cửa nó đờn cho nghe phát chắc tí khỏi nuốt cơm luôn vì nghẹn"
+    },
+    {
+     "post_id": "44410736",
+     "number": 13,
+     "author": "phuongsu",
+     "url": "https://voz.vn/p/44410736/",
+     "created_at": "2026-11-19T14:26:17+00:00",
+     "reactions": 3,
+     "text": "Tôi nghĩ đây là video AI do bọn phản động dựng, chứ bác tôi đứng ngang hàng với các cường quốc mà Trâm dám làm láo á\n))))"
+    },
+    {
+     "post_id": "44410774",
+     "number": 15,
+     "author": "GeorgeOrwell",
+     "url": "https://voz.vn/p/44410774/",
+     "created_at": "2026-11-19T14:30:41+00:00",
+     "reactions": 3,
+     "text": "thương bác tôi bệnh lạ\n.... vẫn nhớ 12h đêm mới lên bài chúc thiếu nhi của bác ... não lòng!!!"
+    },
+    {
+     "post_id": "44410783",
+     "number": 16,
+     "author": "Cổ_Đông_BSR",
+     "url": "https://voz.vn/p/44410783/",
+     "created_at": "2026-11-19T14:32:34+00:00",
+     "reactions": 3,
+     "text": "bên thread kia có thằng nâng bi là được trump mời sang miami tham dự g20 là thắng lợi ngoại giao qq gì, hóa ra nó khinh ra mặt. chắc do bác tôi ko nói được tiếng Anh"
+    },
+    {
+     "post_id": "44410997",
+     "number": 18,
+     "author": "nguyentruonghn89",
+     "url": "https://voz.vn/p/44410997/",
+     "created_at": "2026-11-19T14:59:25+00:00",
+     "reactions": 3,
+     "text": "Đù má lại còn vỗ vỗ an ủi nữa chứ"
+    },
+    {
+     "post_id": "44411064",
+     "number": 20,
+     "author": "anbs21",
+     "url": "https://voz.vn/p/44411064/",
+     "created_at": "2026-11-19T15:07:50+00:00",
+     "reactions": 3,
+     "text": "Trình tranh luận với dáo xư Ha vợt mà anh còn nghi ngờ về tiếng Anh?\nCơ mà tụi bò nó vẫn đang sục là dù gì thì vẫn đứng hàng đầu"
+    },
+    {
+     "post_id": "44411088",
+     "number": 25,
+     "author": "Nguoi Dan Namek",
+     "url": "https://voz.vn/p/44411088/",
+     "created_at": "2026-11-19T15:12:36+00:00",
+     "reactions": 3,
+     "text": "Con mẹ nó dám vỗ vai bác tao nhưng lại quay đi nói chuyện với người khác láo thật !"
+    },
+    {
+     "post_id": "44411123",
+     "number": 28,
+     "author": "KamiTori 0.2",
+     "url": "https://voz.vn/p/44411123/",
+     "created_at": "2026-11-19T15:15:36+00:00",
+     "reactions": 3,
+     "text": "2006 vn chủ nhà 2008 khủng hoảng kinh tế\n2017 vn chủ nhà 2020 covid toàn cầu\n2027 vn chủ nhà tiếp theo sẽ là thiên tai gì nữa đây anh em"
+    },
+    {
+     "post_id": "44411131",
+     "number": 30,
+     "author": "Công lý cho gao đỏ",
+     "url": "https://voz.vn/p/44411131/",
+     "created_at": "2026-11-19T15:16:43+00:00",
+     "reactions": 3,
+     "text": "Litpe cứ như 936 đi mà nó còn vui nhà vui cửa, 936 còn biết ôm hôn bốc phét, đây cứ đứng đực cái mặt ra nhìn chán vch"
+    },
+    {
+     "post_id": "44411139",
+     "number": 31,
+     "author": "anbs21",
+     "url": "https://voz.vn/p/44411139/",
+     "created_at": "2026-11-19T15:18:58+00:00",
+     "reactions": 3,
+     "text": "Vậy chứ ông nhìn cái bộ dạng đó có thể đi ngoại giao được không"
+    },
+    {
+     "post_id": "44411162",
+     "number": 33,
+     "author": "anbs21",
+     "url": "https://voz.vn/p/44411162/",
+     "created_at": "2026-11-19T15:22:48+00:00",
+     "reactions": 3,
+     "text": "Cái ông đực mặt ý"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300864",
+   "title": "Khách Việt đi Trung Quốc top đầu thế giới, cầm vài triệu đã xuất ngoại",
+   "url": "https://voz.vn/t/khach-viet-di-trung-quoc-top-dau-the-gioi-cam-vai-trieu-da-xuat-ngoai.1300864/",
+   "prefix": "",
+   "op_author": "light_space",
+   "op_created_at": "2026-11-22T07:13:24+00:00",
+   "article_url": "https://dantri.com.vn/du-lich/khach-viet-di-trung-quoc-top-dau-the-gioi-cam-vai-trieu-da-xuat-ngoai-20261110101926081.htm",
+   "article_source": "dantri.com.vn",
+   "article_excerpt": "(Dân trí) - Bên cạnh mức giá tour hấp dẫn, cảnh đẹp đa dạng thì nhiều đường bay thẳng đang tạo nên sức hút của du lịch Trung Quốc với khách Việt Nam.​\nGiá tour Trung Quốc từ 9 triệu đồng, nhờ loạt đường bay thẳng\nTừ đầu tháng 11, gia đình chị Hồng (30 tuổi, Hà Nội) đã lên kế hoạch\ndu lịch\nTết. Năm nay thay vì khám phá các điểm trong nước, chị quyết định mua tour Trung Quốc để cả nhà thay đổi không khí.\nKhảo sát các mức giá, người phụ nữ quyết định xuống tiền mua tour Việt Nam - Thượng Hải với mức giá 10 triệu đồng/người đã bao gồm trọn gói vé máy bay, khách sạn, ăn uống và di chuyển.\nKhách Việt trải nghiệm ở Ô Trấn gần Thượng Hải (Ảnh: Quỳnh Mai)\n“Với 4 người, tôi mất khoảng 40 triệu đồng. Mức giá này chỉ tương đương một chuyến du lịch Phú Quốc, Nha Trang… mà cả gia đình lại có cơ hội ra nước ngoài trải nghiệm”, chị Hồng nói. Theo dữ liệu từ nền tảng du lịch trực tuyến Traveloka, nhiều du khách Việt đang chuyển hướng sang các thành phố có cảnh quan thiên nhiên đẹp,\nvăn hóa\nđặc sắc và những trải nghiệm khác biệt. Trong 3 thị trường Đông Á được khảo sát, Trung Quốc nổi bật với nhiều thành phố có lượng đặt dịch vụ tăng trưởng mạnh.\nTheo các đơn vị lữ hành, thị trường du lịch cuối năm, ghi nhận tỷ lệ tour nước ngoài tăng mạnh đặc biệt là các nước ở châu Á, trong đó Trung Quốc đang dẫn đầu danh sách tour quốc tế được ưa chuộng. Hàng Châu, thủ phủ tỉnh Chiết Giang là nơi có lượng đặt vé máy bay của khách Việt tăng gần gấp 3 lần. Trong khi lượng đặt phòng khách sạn tăng hơn gấp đôi so với cùng kỳ năm 2025. Bên cạnh Hàng Châu, Bắc Kinh cũng ghi nhận mức tăng trưởng ấn tượng. Lượng đặt vé máy bay đến thủ đô Trung Quốc tăng hơn gấp đôi, trong khi lượng đặt phòng khách sạn tăng gần 50%.\nChia sẻ với phóng viên\nDân trí\n, ông Nguyễn Tiến Mạnh, Chủ tịch HĐQT Công ty Cổ phần Lữ Hành Việt, cho hay ngoài chính sách quá cảnh miễn visa 240 giờ áp dụng từ tháng 8, việc gia tăng các đường bay thẳng từ Việt Nam đến Trung Quốc, giúp rút ngắn thời gian di chuyển, giảm chi phí… góp phần tạo nên sự tăng trưởng ấn tượng. Mới đây, Sun PhuQuoc Airways công bố khai thác đường bay thẳng Hà Nội - Thượng Hải từ ngày 26/11, bổ sung năng lực khai thác trong giai đoạn cao điểm cuối năm và\nTết Nguyên đán\nĐinh Mùi 2027.\nCùng với việc mở rộng đường bay, hãng bắt tay với các đơn vị lữ hành ra mắt tổ hợp tour trọn gói, khai thác thị trường Hoa Đông, với giá tour trọn gói chỉ còn 10,9 triệu đồng. “Trước đây các tour Việt Nam - Thượng Hải phải dao động 15-17 triệu đồng, với việc mở đường bay thẳng kết nối, giúp giá tour rẻ hơn 30-40%, thậm chí, còn rẻ hơn một số điểm du lịch nội địa trong nước. Điều này dẫn đến lượng khách đi tour tăng mạnh”, ông Mạnh nói.\nViệc kết nối đường bay thẳng đã tạo “cú hích” cho thị trường tour. Đại diện đơn vị này dẫn chứng, trong đợt đầu tiên mở bán vào tháng 10, Lữ hành Việt bán hết 1.000 chỗ tour Thượng Hải - Chu Gia - Giác Long Chi Mộng - Hàng Châu 6 ngày 5 đêm, giá 9,9 triệu đồng; chỉ sau 3 ngày. Tháng 11, đơn vị này triển khai thêm 1.000 chỗ chương trình kích cầu Hoa Đông 5 ngày 4 đêm, với mức giá ưu đãi 9,9 triệu đồng/người. Ông Mạnh nhìn nhận đây cũng là sản phẩm hứa hẹn tạo ra sự bùng nổ cuối năm.\nTheo ông Mạnh, việc các hãng hàng không mở thêm đường bay quốc tế mang đến nhiều lựa chọn cho hành khách. Nhờ vậy, giá tour Trung Quốc tương đương hoặc thấp hơn cả tour nội địa, giúp du khách có thêm nhiều lựa chọn khi xuất ngoại. \"Sở dĩ nhiều khách Việt lựa chọn du lịch Trung Quốc trong các kỳ nghỉ lễ là bởi, tour Trung Quốc được tổ chức chuyên nghiệp với các phương án quảng bá hiệu quả; giá tour hợp lý tương ứng chất lượng dịch vụ nhận về\", ông Mạnh nói.\nKhách Việt đến Trung Quốc đông thứ 3\nthế giới\nBà Nguyễn Thu Quỳnh, Giám đốc Chi nhánh Hà Nội của Công ty Du lịch Việt, cho biết thời gian qua, thị trường Trung Quốc vẫn thu hút du khách Việt Nam. Lượng khách đi theo tour ổn định hàng tuần, tháng nhờ cảnh đẹp và đa dạng từ các thành phố lớn đến vùng biển đến núi cao, thảo nguyên, giá tour đa dạng cho khách lựa chọn.\nVới yêu cầu ngày càng cao khi du lịch, khách Việt có xu hướng lựa chọn những tour \"không mua sắm\" để tận hưởng trọn vẹn thời gian ở nước bạn. Thời gian này đang là cao điểm khách khởi hành các tour mùa thu đi Trung Quốc. Những nơi nổi tiếng có phong cảnh đẹp và lá cây chuyển màu vàng ấn tượng như Cửu Trại Câu, Trùng Khánh, Thanh Đảo, Bắc Kinh, Thượng Hải, Tân Cương.\n\"Về giá tour, thị trường Trung Quốc có nhiều mức cho khách lựa chọn nên càng tăng thêm sự hấp dẫn. Cụ thể, tour đường bay từ Việt Nam có giá 13-20 triệu đồng/khách, riêng tour Tân Cương có giá 40 triệu đồng. Ngoài đường bay, các tour đường bộ, di chuyển bằng ô tô qua biên giới giữa hai nước với mức giá từ 2-5 triệu đồng cũng hấp dẫn khách như Nam Ninh, Đại Lý - Côn Minh, Bình Biên - Kiến Thuỷ, Mông Tự...\", bà Quỳnh nói.",
+   "status": "ok",
+   "pages_scanned": 4,
+   "replies": 69,
+   "total_reactions": 49,
+   "base_score": 167.0,
+   "hot_score": 28.088,
+   "top_comments": [
+    {
+     "post_id": "44433982",
+     "number": 4,
+     "author": "Hoa-lan",
+     "url": "https://voz.vn/p/44433982/",
+     "created_at": "2026-11-22T07:21:02+00:00",
+     "reactions": 3,
+     "text": "Đi China giờ rẻ rề, vừa chất lượng vừa an toàn nhất thế giới.\nKo đi du lịch phí cả đời người. Bảo sao 5 triệu lượt người VN đi Tàu chơi"
+    },
+    {
+     "post_id": "44434323",
+     "number": 18,
+     "author": "Hư Không Vô Diện",
+     "url": "https://voz.vn/p/44434323/",
+     "created_at": "2026-11-22T08:16:19+00:00",
+     "reactions": 3,
+     "text": "Đang đi Ô Trấn, Thượng Hải đây, đi phát về mở mang tầm mắt vl"
+    },
+    {
+     "post_id": "44434326",
+     "number": 19,
+     "author": "trongthuc",
+     "url": "https://voz.vn/p/44434326/",
+     "created_at": "2026-11-22T08:16:33+00:00",
+     "reactions": 3,
+     "text": "đi du lịch Tầu khó tự túc lắm. Phải biết tiếng, phải có người quen. Hồi trước t từng hỏi hướng dẫn viên, bảo là quy định lưu trú cho người nước ngoài khó lắm, ở mấy đô thị lớn còn dễ tìm khách sạn.\nĐi tour TQ về bản chất là Đi Tham Quan thì đúng hơn, phù hợp với người nhiều tuổi"
+    },
+    {
+     "post_id": "44434701",
+     "number": 40,
+     "author": "LAIBIBAN2026",
+     "url": "https://voz.vn/p/44434701/",
+     "created_at": "2026-11-22T09:10:07+00:00",
+     "reactions": 3,
+     "text": "Nói chung ấy, bọn TQ nó làm tốt khoản bảo tồn cả thiên nhiên lẫn kiến trúc, khoản này nó ăn đứt dân VN ....cơ bản thì các đầu tàu chưa được thay máu nên toàn gu cũ...thẩm mỹ cũng không khá, điển hình là cái vụ chặt 3 cây anh đào ở đà lạt...Nhờ đó cảnh nó đẹp hơn mình nhiều, cứ nhìn cái Phú quốc với đà lạt nay so với xưa xem, bê tông hóa nhiều vc xong bò đỏ thì ra sức def...đùa chứ bê tông thì dell đâu chẳng thấy, cái ngu nữa là cứ xây mấy tòa giả Ý giả dủng đell gì ấy dell có bản sắc riêng, càng hiện đại con người càng thích ngắm cảnh và trải nghiệm hoang sơ (ví dụ giờ lại chỉ thích cắm trại vào rừng nướng thịt)... Cũng may còn mấy cái như Sơn doòng chưa bị phá =]]\nP/s: Bò đỏ thì chê TQ nhái đồ hãng lớn (đùa chứ nhờ thế mà nó nắm công nghệ và phát triển như bây giờ, cái tiền đề đầu tiên để có phát minh là phải nắm được cách thức hoạt động, nguyên lý tè le của nó....như mình đi học thì cũng là copy lại kiến thức đã đúc kết trước, sau mới có luận án tiến sỹ các kiểu đồ)...trong khi không nhìn lại mình đến copy còn dell làm được.\nVậy mà các công trình kiến trúc, giải trí thì ông VN chuyên copy nước khác thì dell ai nói gì"
+    },
+    {
+     "post_id": "44434025",
+     "number": 6,
+     "author": "Hoakie",
+     "url": "https://voz.vn/p/44434025/",
+     "created_at": "2026-11-22T07:27:58+00:00",
+     "reactions": 2,
+     "text": "tour Thượng Hải - Chu Gia - Giác Long Chi Mộng - Hàng Châu 6 ngày 5 đêm gần 10t\nGiá này chắc khách sạn lởm và ăn uống không ra gì\nĐợt đi tour Bắc Kinh-Thượng Hải-Tô châu-Hàng châu 23t, toàn ks 4-5 sao sịn sò, hdv nói không ngừng luôn, mà nói rất hay về văn hoá lịch sử"
+    },
+    {
+     "post_id": "44434212",
+     "number": 12,
+     "author": "luvchi",
+     "url": "https://voz.vn/p/44434212/",
+     "created_at": "2026-11-22T08:02:38+00:00",
+     "reactions": 2,
+     "text": "đơn giản là đéo xin visa nc khác đc nên đi TQ đông chứ sao. chứ giờ mà nhật hàn đài nó free visa xem có mà sang ầm ầm, đm nước nghèo đi xin visa mới cám cảnh, đi nhật hàn ầm ầm mà đợt r xin tự túc đài nó làm khó lên khó xuống do không có giấy nghỉ phép cơ quan bố tổ"
+    },
+    {
+     "post_id": "44434318",
+     "number": 16,
+     "author": "Secret Avengers",
+     "url": "https://voz.vn/p/44434318/",
+     "created_at": "2026-11-22T08:15:58+00:00",
+     "reactions": 2,
+     "text": "Đi TQ cũng cần xin visa chứ có miễn visa éo đâu"
+    },
+    {
+     "post_id": "44434716",
+     "number": 42,
+     "author": "Milo58",
+     "url": "https://voz.vn/p/44434716/",
+     "created_at": "2026-11-22T09:13:00+00:00",
+     "reactions": 2,
+     "text": "Tôi chả biết 1 từ tiếng Trung nào vẫn đi 3 lần tự túc, thậm chí còn ở trong bệnh viện 4 hôm trông vợ mổ cấp cứu, giao tiếp bằng app dịch hết."
+    },
+    {
+     "post_id": "44434761",
+     "number": 46,
+     "author": "điềm đạm",
+     "url": "https://voz.vn/p/44434761/",
+     "created_at": "2026-11-22T09:20:26+00:00",
+     "reactions": 2,
+     "text": "Sang tàu rồi về cảm thán du lịch Việt, lên mạng bình luận vài câu bỗng biến thành “dính tí nước biển chê mùi cá ao”, sính ngoại, tàu nô.\nĐồng bào tôi đấy"
+    },
+    {
+     "post_id": "44434788",
+     "number": 50,
+     "author": "NamLong0201",
+     "url": "https://voz.vn/p/44434788/",
+     "created_at": "2026-11-22T09:24:46+00:00",
+     "reactions": 2,
+     "text": "Ở đâu xa, ngay trong Voz này có 1 thằng bò đỏ với cả trăm clone chửi suốt mà."
+    },
+    {
+     "post_id": "44433959",
+     "number": 3,
+     "author": "trongthuc",
+     "url": "https://voz.vn/p/44433959/",
+     "created_at": "2026-11-22T07:18:15+00:00",
+     "reactions": 1,
+     "text": "Ko biết ngành du lịch và hàng không quốc tế TQ phải bi đát đến mức nào thì mới trông mong và đầu tư vào khách Việt nhỉ.\nps: t đi tour TQ 1 lần cho biết, hiện chưa có ý định sang lần 2. Giờ chỉ tiết kiệm để đi Nhật lần nữa."
+    },
+    {
+     "post_id": "44434049",
+     "number": 7,
+     "author": "blackcat77",
+     "url": "https://voz.vn/p/44434049/",
+     "created_at": "2026-11-22T07:33:04+00:00",
+     "reactions": 1,
+     "text": "bên đó cảnh đẹp, đi bao nơi ko biết chán, chứ mấy thằng Nhật Hàn, đi 1 hoặc 2 lần cho biết, chứ TQ mà nó cho visa VN dễ thở thì năm nào cũng phải qua chơi."
+    },
+    {
+     "post_id": "44434152",
+     "number": 8,
+     "author": "CrazyFoxz",
+     "url": "https://voz.vn/p/44434152/",
+     "created_at": "2026-11-22T07:52:49+00:00",
+     "reactions": 1,
+     "text": "Số liệu Quý III/2026 (công bố ngày 20/10/2026):\nTheo báo cáo mới hơn của\nCục Quản lý Di dân Quốc gia Trung Quốc (NIA)\n, lượng khách Việt Nam nhập cảnh đã vươn lên đứng\nthứ 3 thế giới\n, chỉ xếp sau Nga và Hàn Quốc (vượt qua Malaysia). Trong quý này, Trung Quốc ghi nhận 11,6 triệu lượt người nước ngoài nhập cảnh (tăng 15,6%), trong đó nhóm 10 thị trường dẫn đầu chiếm 63,9%.\nLưu ý khi đọc số liệu của NIA:\nNIA thống kê theo\nlượt người nước ngoài nhập cảnh qua các cửa khẩu\n(bao gồm cả khách du lịch, người đi công tác, thăm thân, giao lưu và cư dân biên giới qua lại bằng giấy thông hành/hộ chiếu), chứ không chỉ tách riêng khách đi tour du lịch thuần túy. Ngoài ra, NIA thường công bố\nbảng xếp hạng (Top 10)\nvà\ntổng số lượt nhập cảnh chung\n, ít khi công bố con số tuyệt đối chi tiết cho từng quốc tịch trong các thông cáo báo chí ngắn gọn.\nđối chiều gehihi với gpt trước cho chắc,báo giờ láo lếu lắm\nchơi thổi số thì kinh rồi"
+    },
+    {
+     "post_id": "44434343",
+     "number": 22,
+     "author": "Riont",
+     "url": "https://voz.vn/p/44434343/",
+     "created_at": "2026-11-22T08:18:49+00:00",
+     "reactions": 1,
+     "text": "Vào mấy nhóm du lịch TQ tự túc rồi tìm mấy bài trải nghiệm tự túc visa 240h, chỉ cần book vé máy bay đúng chặng là được, ko cần visa.\nĐang miễn Visa transit 240h, vé máy bay hợp lý là được."
+    },
+    {
+     "post_id": "44434373",
+     "number": 23,
+     "author": "neotungnguyen",
+     "url": "https://voz.vn/p/44434373/",
+     "created_at": "2026-11-22T08:22:35+00:00",
+     "reactions": 1,
+     "text": "Khách Việt đi TQ nhiều nhưng tôi đoán là phần lớn là đi tour qua cửa khẩu, không cần Visa, chỉ cần giấy thông hành và đi 1 số tỉnh ven biên giới như Đông Hưng, Hà Khẩu, Bằng Tường. Tất nhiên là đi sâu vào đại lục với Visa cũng khá nhiều nhưng chắc là chưa đến mức nhiều như tưởng tượng."
+    },
+    {
+     "post_id": "44434401",
+     "number": 25,
+     "author": "Darksiders IV",
+     "url": "https://voz.vn/p/44434401/",
+     "created_at": "2026-11-22T08:27:06+00:00",
+     "reactions": 1,
+     "text": "như trong bài viết thì toàn là tour đi sâu vào nội địa chứ ko kể đến đi mấy tỉnh biên giới đâu anh, giá chục triệu/người so với mức thu nhập nó rất hợp lý nên có đông cũng là bt, ko cứ phải là chỉ đi ven ven mấy tỉnh biên giới"
+    },
+    {
+     "post_id": "44434403",
+     "number": 26,
+     "author": "neotungnguyen",
+     "url": "https://voz.vn/p/44434403/",
+     "created_at": "2026-11-22T08:27:32+00:00",
+     "reactions": 1,
+     "text": "Cái Visa transit đấy sẽ rất ngon nếu có dự định đi TQ và 1 nước thứ 3 nào đó. Còn nếu chỉ định đi TQ và vào nước thứ 3 chỉ để bay về thì tôi tính đi tính lại làm Visa vẫn hơn."
+    },
+    {
+     "post_id": "44434498",
+     "number": 29,
+     "author": "neotungnguyen",
+     "url": "https://voz.vn/p/44434498/",
+     "created_at": "2026-11-22T08:40:12+00:00",
+     "reactions": 1,
+     "text": "Tôi đầu HN đây, tôi từng tự xin Visa đi HK năm 24. Vừa rồi tôi thử tính cho vui là đi Thâm Quyến, rồi từ HK bay về HN. Giữa HN và HK được cái vé bay của hãng HK Express khá rẻ. Tuy nhiên để nhập cảnh vào HK vẫn cần Visa, tự làm mất khoảng gần 1tr. Sẽ phải mất thêm tiền tàu cao tốc đi từ Thâm Quyến qua HK nữa. Tính ra so với bay khứ hồi Thâm Quyến thì không rẻ hơn mà mất thời gian. Đấy là chưa kể Thâm Quyến là nơi gần HK nhất chứ nếu là chỗ khác thì chắc chắn là đắt hơn với việc làm visa TQ. Tóm lại là chi phí từ TQ qua 1 nước thứ 3 rồi bay về không rẻ hơn chi phí làm Visa rồi bay khứ hồi."
+    },
+    {
+     "post_id": "44434517",
+     "number": 30,
+     "author": "Really Cool",
+     "url": "https://voz.vn/p/44434517/",
+     "created_at": "2026-11-22T08:42:36+00:00",
+     "reactions": 1,
+     "text": "Chi phí đâu phải là cái mối lo ngại đâu anh. Cái lo ngại nhất là thời gian làm visa ấy. Ví dụ hôm nay chủ nhật, bỗng nhiên anh có việc cần đi TQ vào thứ 4 tới, thì làm sao anh làm visa kịp. Lúc đó cái free visa 240h lại thành cái hữu ích."
+    },
+    {
+     "post_id": "44434598",
+     "number": 33,
+     "author": "neotungnguyen",
+     "url": "https://voz.vn/p/44434598/",
+     "created_at": "2026-11-22T08:56:40+00:00",
+     "reactions": 1,
+     "text": "Xin Visa TQ thì khoảng 1-2 tuần làm dịch vụ. Visa HK thì lâu, 1 tháng, bất kể dịch vụ hay tự làm. Anh phải mất thêm tiền bay hoặc cao tốc từ Bắc Kinh ra HK nữa."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300898",
+   "title": "Một người ở Hà Nội ghép thận 3 lần",
+   "url": "https://voz.vn/t/mot-nguoi-o-ha-noi-ghep-than-3-lan.1300898/",
+   "prefix": "",
+   "op_author": "BrownGecko",
+   "op_created_at": "2026-11-22T08:55:38+00:00",
+   "article_url": "https://znews.vn/mot-nguoi-o-ha-noi-ghep-than-3-lan-post1698252.html",
+   "article_source": "znews.vn",
+   "article_excerpt": "Từng hai lần ghép thận, người phụ nữ 75 tuổi tiếp tục đặt cược hy vọng vào ca phẫu thuật lần thứ ba với nhiều nguy cơ phức tạp.​",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 35,
+   "total_reactions": 33,
+   "base_score": 101.0,
+   "hot_score": 20.075,
+   "top_comments": [
+    {
+     "post_id": "44434611",
+     "number": 3,
+     "author": "Huỳnh Cẩm Vy",
+     "url": "https://voz.vn/p/44434611/",
+     "created_at": "2026-11-22T08:58:38+00:00",
+     "reactions": 3,
+     "text": "75t rồi còn ham sống vậy? Cái giống thừa tiền thì hay sợ chết."
+    },
+    {
+     "post_id": "44434618",
+     "number": 4,
+     "author": "Demacia2214",
+     "url": "https://voz.vn/p/44434618/",
+     "created_at": "2026-11-22T08:59:08+00:00",
+     "reactions": 3,
+     "text": "Muốn sống mãi nà"
+    },
+    {
+     "post_id": "44434625",
+     "number": 5,
+     "author": "fearless1",
+     "url": "https://voz.vn/p/44434625/",
+     "created_at": "2026-11-22T09:00:00+00:00",
+     "reactions": 3,
+     "text": "79 tuổi cũng có người sống mãi trong ta\ntiểu nhị cho 1 bao thuốc"
+    },
+    {
+     "post_id": "44434650",
+     "number": 7,
+     "author": "F5_Refresh!",
+     "url": "https://voz.vn/p/44434650/",
+     "created_at": "2026-11-22T09:02:55+00:00",
+     "reactions": 3,
+     "text": "Theo tôi được biết thì quy tắc xếp hàng đợi ghép tạng trước hết là ai đăng kí trước được xếp trước, tính theo độ tương thích từ trên xuống dưới. Những người đã đc ghép nhưng ko tuân thủ lộ trình điều trị chống đào thải sẽ bị giảm ưu tiên cho lần ghép kế tiếp (nếu có tạng hiến phù hợp). Vậy người phụ nữ trong bài phải xây bao nhiêu tòa tháp để đc ghép tới 3 lần? (Ko tính trường hợp nguồn hiến trong gia đình)"
+    },
+    {
+     "post_id": "44434651",
+     "number": 8,
+     "author": "boyloinhoi",
+     "url": "https://voz.vn/p/44434651/",
+     "created_at": "2026-11-22T09:03:10+00:00",
+     "reactions": 3,
+     "text": "NGuồn thận ở đâu ra mà ghép được tận 3 lần nhỉ? \"con nuôi\" \"cháu nuôi\" cho tặng hay may mắn rút thăm trúng"
+    },
+    {
+     "post_id": "44434662",
+     "number": 10,
+     "author": "randymarsh",
+     "url": "https://voz.vn/p/44434662/",
+     "created_at": "2026-11-22T09:04:50+00:00",
+     "reactions": 3,
+     "text": "khọm già elite nào đây? ghép ít thôi chừa slot cho người ta nữa chứ"
+    },
+    {
+     "post_id": "44434703",
+     "number": 16,
+     "author": "Ưng_Khuyển",
+     "url": "https://voz.vn/p/44434703/",
+     "created_at": "2026-11-22T09:10:13+00:00",
+     "reactions": 3,
+     "text": "Nguồn tạng đã hiếm, người nhận đã 75 tuổi già rồi mà vẫn được ghép thận tận 3 lần. Chắc nguồn thận dư dả quá nên đến cụ bà 75 tuổi vẫn được ghép 3 lần để dọn kho tạng cho đỡ chật."
+    },
+    {
+     "post_id": "44434784",
+     "number": 17,
+     "author": "virility",
+     "url": "https://voz.vn/p/44434784/",
+     "created_at": "2026-11-22T09:24:19+00:00",
+     "reactions": 3,
+     "text": "Người thì chờ mòn mỏi chưa tới lượt. Kẻ thì 5 lần 7 lượt xếp slot đầu. Hiến tạng có cl t nè"
+    },
+    {
+     "post_id": "44435012",
+     "number": 22,
+     "author": "Agent Orange",
+     "url": "https://voz.vn/p/44435012/",
+     "created_at": "2026-11-22T09:58:43+00:00",
+     "reactions": 3,
+     "text": "Kiếm được \"hàng\" đến tận 3 lần thì chắc chắn phải là lão thái thái của một IQ nào đó, hoặc là IQ/vợ IQ nghỉ hưu."
+    },
+    {
+     "post_id": "44434641",
+     "number": 6,
+     "author": "Ahura",
+     "url": "https://voz.vn/p/44434641/",
+     "created_at": "2026-11-22T09:02:14+00:00",
+     "reactions": 2,
+     "text": "bảo sao sách gk dạy khéo thế"
+    },
+    {
+     "post_id": "44434600",
+     "number": 2,
+     "author": "fearless1",
+     "url": "https://voz.vn/p/44434600/",
+     "created_at": "2026-11-22T08:56:49+00:00",
+     "reactions": 1,
+     "text": "Vcl tầm tuổi 75 muốn được trường sinh bất lão hả trời, tầm tuổi 69-70 là gần đất xa trời cmnr"
+    },
+    {
+     "post_id": "44434699",
+     "number": 15,
+     "author": "[Yui Hatano]",
+     "url": "https://voz.vn/p/44434699/",
+     "created_at": "2026-11-22T09:09:49+00:00",
+     "reactions": 1,
+     "text": "tầm này có tiền có quyền rồi, k biết là iq cow nào hoặc là mẹ iq cow nào thôi"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300825",
+   "title": "Trung quốc tiếp tục gây khó dễ cho thủ tướng Nhật Bản Takaichi Sanae? Cầu thang máy bay tại Thâm Quyến thấp hơn cửa khoang tới 40 cm",
+   "url": "https://voz.vn/t/trung-quoc-tiep-tuc-gay-kho-de-cho-thu-tuong-nhat-ban-takaichi-sanae-cau-thang-may-bay-tai-tham-quyen-thap-hon-cua-khoang-toi-40-cm.1300825/",
+   "prefix": "Dịch Dịch",
+   "op_author": "NDMan",
+   "op_created_at": "2026-11-22T04:25:59+00:00",
+   "article_url": "https://www.sydneytoday.com/content-1026610336053003",
+   "article_source": "sydneytoday.com",
+   "article_excerpt": "https://www.sydneytoday.com/content-1026610336053003\nTháng 11 năm ngoái, phát biểu của Thủ tướng Nhật Bản Takaichi Sanae trước Quốc hội về tình huống “Đài Loan xảy ra biến cố” đã khiến Bắc Kinh tức giận, đẩy quan hệ song phương nhanh chóng rơi vào tình trạng căng thẳng.\nTuần này, bà Takaichi đến thành phố Thâm Quyến, Trung Quốc, tham dự Hội nghị không chính thức các nhà lãnh đạo Diễn đàn Hợp tác kinh tế châu Á – Thái Bình Dương (APEC). Đây là chuyến thăm Trung Quốc đầu tiên của bà kể từ khi quan hệ Trung – Nhật xấu đi. Tuy nhiên, ngay sau khi đặt chân đến Trung Quốc, bà đã phải đối mặt với cách đón tiếp khá lạnh nhạt.\nNgoài việc phía Trung Quốc không tổ chức đón tiếp long trọng tại sân bay Thâm Quyến, một nghị sĩ Nhật Bản còn phát hiện chi tiết bất thường: Khi chuyên cơ chở Thủ tướng Takaichi hạ cánh xuống Sân bay quốc tế Bảo An Thâm Quyến ngày 18/11,\nmặt sàn trên cùng của cầu thang lên xuống máy bay lại thấp hơn ngưỡng cửa khoang tới khoảng 40 cm\n.\nDo mặc váy công sở, bà Takaichi phải hết sức thận trọng khi bước ra khỏi cửa máy bay.\nCác chuyên gia nhận định đây không còn đơn thuần là vấn đề nghi thức ngoại giao mà còn liên quan trực tiếp đến an toàn, bởi Thủ tướng Nhật Bản có thể bị ngã và chấn thương. Thậm chí, một số nghị sĩ cảnh báo không thể loại trừ khả năng phía Trung Quốc cố tình gây khó dễ.\nTheo tổng hợp thông tin từ trang tin J-Cast và tạp chí Josei Jishin (Phụ nữ ngày nay) của Nhật Bản, nghị sĩ Hạ viện Nakayama Yasuhide thuộc Đảng Dân chủ Tự do (LDP), người từng giữ chức Thứ trưởng Bộ Quốc phòng và Thứ trưởng Bộ Ngoại giao Nhật Bản, đã đăng bài trên mạng xã hội X ngày 18/11, bày tỏ sự bất bình trước cảnh Thủ tướng Takaichi xuống máy bay tại Thâm Quyến vào chiều cùng ngày.\nÔng đặt nghi vấn rằng phía Trung Quốc đã bố trí công tác đón tiếp không phù hợp.\nThiếu chuẩn mực ngoại giao, xem nhẹ vấn đề an toàn\n​\nNghị sĩ Nakayama Yasuhide chỉ ra rằng cầu thang di động dùng để lên xuống máy bay tại sân đỗ phải được điều chỉnh độ cao phù hợp, sao cho mặt sàn trên cùng của cầu thang gần ngang bằng với ngưỡng cửa khoang.\nViệc này nhằm giúp hành khách bước ra khỏi máy bay bình thường, không bị vấp chân vào ngưỡng cửa.\nÔng nhấn mạnh: “Đây là quy trình vận hành cơ bản, vốn dĩ phải được thực hiện như vậy”.\nTuy nhiên, khi Thủ tướng Takaichi xuống máy bay lần này, mặt sàn cầu thang lại thấp hơn ngưỡng cửa khoang rất nhiều.\nTrong khi đó, bà Takaichi mặc váy và đi giày cao gót. Vì vậy, bà buộc phải bước một bước khá dài để ra khỏi khoang máy bay, đồng thời phải vịn vào khung cửa nhằm tránh bị hụt chân hoặc té ngã do mặt sàn cầu thang nằm quá thấp.\nNakayama Yasuhide dẫn lại hình ảnh từ một chương trình thời sự của Đài truyền hình Asahi.\nTheo những hình ảnh này, sau khi cửa chuyên cơ mở ra, đúng lúc chuẩn bị bước chân đầu tiên, bà Takaichi mới nhận ra khoảng cách độ cao giữa ngưỡng cửa khoang và mặt sàn cầu thang lên tới khoảng 40 cm.\nVì có vóc dáng nhỏ nhắn, bà phải đưa tay trái vịn vào khung cửa máy bay, sau đó cố gắng đưa chân phải ra phía trước và thận trọng bước xuống mặt sàn cầu thang.\nNghị sĩ Nakayama giải thích rằng nếu mặt sàn cầu thang thấp hơn ngưỡng cửa quá nhiều, hành khách có nguy cơ bị vấp hoặc ngã.\nNgược lại, nếu mặt sàn cầu thang được nâng quá cao, nó có thể va chạm với cửa máy bay và gây hư hỏng.\nÔng nói:\n“Chúng tôi luôn điều chỉnh độ cao của mặt sàn cầu thang đến vị trí thích hợp. Mặt sàn phải đủ thấp để hành khách có thể bước ra thuận tiện, nhưng đồng thời cũng phải tránh va chạm với kết cấu cửa máy bay.\nNếu xảy ra sự cố té ngã hoặc va chạm, nhân viên phục vụ mặt đất sẽ phải lập biên bản ghi nhận sự cố. Đây là quy trình vận hành cơ bản, lẽ ra phải được tuân thủ nghiêm túc”.\nChứng kiến cách Thủ tướng Takaichi được đón tiếp, ông Nakayama vừa lo lắng vừa tức giận.\nÔng nhấn mạnh:\n“Ngay cả khi hai nước tồn tại bất đồng về ngoại giao, việc bảo đảm an toàn cho nhà lãnh đạo một quốc gia đến thăm vẫn là trách nhiệm đương nhiên của nước chủ nhà”.\nÔng cho rằng Chính phủ Nhật Bản cần yêu cầu phía Trung Quốc giải thích về cách bố trí cầu thang máy bay, cũng như quy trình kiểm tra và xác nhận an toàn trước khi Thủ tướng xuống máy bay.\nNghị sĩ gốc Hoa cảnh báo: Không thể loại trừ khả năng Trung Quốc cố ý sắp đặt\n​\nMột nhân vật có liên quan đến Đảng Dân chủ Tự do Nhật Bản cũng bày tỏ sự phẫn nộ trước sự việc.\nNgười này cho rằng:\n“Phía Trung Quốc biết rõ Thủ tướng mắc bệnh viêm khớp dạng thấp và đã phải thay khớp gối nhân tạo, vậy mà vẫn bố trí cầu thang có độ chênh cao trông như hơn 40 cm để đón tiếp bà. Điều này thực sự khiến người ta phải nghi ngờ về động cơ phía sau.\nTôi cho rằng Bộ Ngoại giao Nhật Bản nên đưa ra phản đối”.\nCùng ngày, nghị sĩ Thượng viện Seki Hei (Thạch Bình), 64 tuổi, thuộc Đảng Duy Tân Nhật Bản và là một nhà bình luận chính trị quốc tế chuyên nghiên cứu quan hệ Trung – Nhật, cũng đăng bài trên mạng xã hội X chỉ trích Bắc Kinh.\nÔng cho rằng Trung Quốc đã lạm dụng quyền hạn của nước chủ nhà để tìm mọi cách gây khó dễ, qua đó cho thấy nước này thậm chí không quan tâm đến những chuẩn mực lễ tân ngoại giao cơ bản nhất.\nÔng viết:\n“Đây không còn là vấn đề nghi thức ngoại giao, thậm chí đã vượt quá phạm vi của hành vi cố tình gây khó dễ.\nChỉ cần một chút bất cẩn cũng có thể dẫn đến thương tích. Nếu bước hụt chân, người ta rất có thể ngã xuống cầu thang. Lăn từ độ cao như vậy xuống dưới thậm chí có thể đe dọa tính mạng.\nNếu thực sự xảy ra chuyện như thế, tính chất sự việc sẽ hoàn toàn khác.\nNếu phía Trung Quốc cố ý làm như vậy, hành động này thậm chí có thể cấu thành một vụ tấn công khủng bố nhằm vào Thủ tướng.\nKhi lãnh đạo các quốc gia khác đến thăm, hầu như không xuất hiện vấn đề chênh lệch độ cao giữa mặt sàn cầu thang và cửa máy bay như thế này. Vì vậy, không thể loại trừ khả năng đây là một sự sắp đặt có chủ đích.\nCó thể phía Trung Quốc chỉ muốn giở vài trò nhỏ, nhưng theo tôi, họ đã vượt quá giới hạn. Đây là một vấn đề nghiêm trọng”.\nTrong khi đó, Tổng thống Mỹ Donald Trump đến Thâm Quyến muộn hơn Thủ tướng Takaichi nhưng lại được tổ chức đón tiếp rất long trọng.\nChủ tịch Trung Quốc Tập Cận Bình thậm chí còn có động thái hiếm thấy khi đích thân ra sân bay đón Tổng thống Mỹ.\nNgay cả khi lãnh đạo các nền kinh tế thành viên APEC khác đến sân bay Thâm Quyến, họ cũng được chào đón trong không khí náo nhiệt, với những người trẻ tuổi reo hò và âm nhạc được trình diễn.\nTuy nhiên, Thủ tướng Nhật Bản Takaichi Sanae không được hưởng những nghi thức đón tiếp như vậy.\nQuan chức ra sân bay đón bà là Chương Khải Nguyệt, một nhà ngoại giao kỳ cựu đã nghỉ hưu của Trung Quốc, xuất hiện với chức danh đại sứ phụ trách lễ tân ngoại giao.\nTại tiệc tối APEC ngày 18/11, bà Takaichi có bắt tay Chủ tịch Trung Quốc Tập Cận Bình, nhưng hai người không trao đổi nhiều.\nNghị sĩ kỳ cựu Nhật Bản chỉ trích Thủ tướng Takaichi\n​\nTuy nhiên, chuyến thăm Trung Quốc lần này của bà Takaichi cũng vấp phải những lời chỉ trích ngay trong chính giới Nhật Bản.\nCựu nghị sĩ Hạ viện Ozawa Ichiro (Tiểu Trạch Nhất Lang) đã dẫn lại hình ảnh do Đài truyền hình NHK đưa tin về khoảnh khắc Thủ tướng Takaichi bắt tay Chủ tịch Trung Quốc Tập Cận Bình.\nÔng bình luận:\n“Thật khó tin khi ngoại giao Nhật Bản ngày nay đã sa sút đến mức những chuyện như ‘phía bên kia không tỏ ra niềm nở’, ‘đã bắt tay thành công’ hay ‘hai bên có trao đổi ngắn’ cũng được đưa thành tin tức.\nTrình độ ngoại giao đã xuống thấp đến mức này. Những chuyện như vậy căn bản không thể gọi là ngoại giao”.\nÔng Ozawa Ichiro là một chính trị gia kỳ cựu từng có 56 năm hoạt động trong Quốc hội Nhật Bản. Tuy nhiên, ông đã thất bại trong cuộc bầu cử gần đây nhất, qua đó chấm dứt sự nghiệp nghị sĩ kéo dài hơn nửa thế kỷ.\nÔng tiếp tục chỉ trích rằng việc quan hệ ngoại giao rơi vào tình cảnh như hiện nay chỉ vì phát ngôn của một mình Thủ tướng là điều hết sức hiếm thấy.\nTheo ông, người cuối cùng phải gánh chịu hậu quả chính là người dân Nhật Bản.\nÔng cho rằng Nhật Bản cần nhận thức rõ mức độ nghiêm trọng của tình hình và có ý thức cảnh giác trước nguy cơ khủng hoảng ngoại giao.",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 41,
+   "total_reactions": 49,
+   "base_score": 139.0,
+   "hot_score": 18.985,
+   "top_comments": [
+    {
+     "post_id": "44432996",
+     "number": 2,
+     "author": "comeBack001",
+     "url": "https://voz.vn/p/44432996/",
+     "created_at": "2026-11-22T04:27:10+00:00",
+     "reactions": 3,
+     "text": "Chỉ buồn cười là tàu cẩu chơi chiêu hạ tiện kiểu này xong thì thủ tướng Nhật Bản lại được ủng hộ tăng vọt ở trong nước. Ai cũng căm phẫn với hành động hạ tiện của tàu cẩu.\nNói chung cám ơn tàu cẩu"
+    },
+    {
+     "post_id": "44433021",
+     "number": 3,
+     "author": "kentakou",
+     "url": "https://voz.vn/p/44433021/",
+     "created_at": "2026-11-22T04:30:50+00:00",
+     "reactions": 3,
+     "text": "Cho người đón là nồng hậu lắm rồi.\nChẳng bù như mỹ. bắt vẫy tay chào hư không"
+    },
+    {
+     "post_id": "44433033",
+     "number": 4,
+     "author": "BennyHuynh",
+     "url": "https://voz.vn/p/44433033/",
+     "created_at": "2026-11-22T04:33:21+00:00",
+     "reactions": 3,
+     "text": "Mày có hay bị chửi ngu không? Thủ tướng Nhật đến dự họp Liên Hiệp Quốc liên quan kẹc gì tới Mỹ mà Mỹ đón?"
+    },
+    {
+     "post_id": "44433063",
+     "number": 5,
+     "author": "CreateMyOwn",
+     "url": "https://voz.vn/p/44433063/",
+     "created_at": "2026-11-22T04:38:44+00:00",
+     "reactions": 3,
+     "text": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-takaichi-new-york-un/\nchuyến bay của thủ Nhật lùi từ 7h đến 11h do bão thì không ai ra đón là đúng rồi"
+    },
+    {
+     "post_id": "44433080",
+     "number": 7,
+     "author": "comeBack001",
+     "url": "https://voz.vn/p/44433080/",
+     "created_at": "2026-11-22T04:40:47+00:00",
+     "reactions": 3,
+     "text": "Đi dự họp Liên Hiệp Quốc là đi việc riêng, chẳng liên quan gì tới ngoại giao với Mỹ. Tổng Thống Pháp đợt đó đi kẹt xe, Mỹ nó còn éo cho xe đi dẫn đường làm Macron phải móc điện thoại ra gọi cho Trump.\nNhưng đám cẩu nô cứ lấy chuyện này ra chữa nhục."
+    },
+    {
+     "post_id": "44433107",
+     "number": 8,
+     "author": "ausaki",
+     "url": "https://voz.vn/p/44433107/",
+     "created_at": "2026-11-22T04:44:35+00:00",
+     "reactions": 3,
+     "text": "Bị Tàu lẫn Mỹ khinh như chó rách.\nQuá đau đớn kiếp rồ Lùn."
+    },
+    {
+     "post_id": "44433147",
+     "number": 11,
+     "author": "Bảo vệ 15 năm",
+     "url": "https://voz.vn/p/44433147/",
+     "created_at": "2026-11-22T04:52:38+00:00",
+     "reactions": 3,
+     "text": "Thực ra đấm nhau thì càng chứng tỏ là Mỹ và Tàu gần ngang hàng , kiểu kẻ thù của nhau , ghét nhau nhưng có sự tôn trọng\nChứ khinh là kiểu bố mài éo quan tâm ý , WW2 là Nhật gọi là ngang hàng Mẽo khiến Mẽo phải đem quân đi đấm , chứ sau WW2 là bố với con , chủ với nô lệ rồi"
+    },
+    {
+     "post_id": "44433153",
+     "number": 12,
+     "author": "comeBack001",
+     "url": "https://voz.vn/p/44433153/",
+     "created_at": "2026-11-22T04:54:04+00:00",
+     "reactions": 3,
+     "text": "Tàu cẩu con cay hem :"
+    },
+    {
+     "post_id": "44433176",
+     "number": 14,
+     "author": "kentakou",
+     "url": "https://voz.vn/p/44433176/",
+     "created_at": "2026-11-22T04:58:24+00:00",
+     "reactions": 3,
+     "text": "APEC ai cũng có đôi có cặp. Có mỗi bà thủ tướng hề hề ngồi lủi thủi một mình không ai chơi"
+    },
+    {
+     "post_id": "44433194",
+     "number": 15,
+     "author": "binglebingle",
+     "url": "https://voz.vn/p/44433194/",
+     "created_at": "2026-11-22T05:00:44+00:00",
+     "reactions": 3,
+     "text": "Muốn lại gần chị đại ngồi mà được à ?"
+    },
+    {
+     "post_id": "44433221",
+     "number": 16,
+     "author": "Rosierr",
+     "url": "https://voz.vn/p/44433221/",
+     "created_at": "2026-11-22T05:05:30+00:00",
+     "reactions": 3,
+     "text": "Cái này là tiêu chí về du lịch mà Cẩu Nhật nô. Du lịch Lùn giá rẻ, đồng Yên mất giá thảm hại nên mua sắm rẻ nên dân nước ngoài mới đến.\nMà năm nay Takaichi tăng 5 lần phí visa rồi. Dân VN giờ cũng ko thèm đi Lùn nữa sang du lịch TQ rồi Cẩu Nhật nô ơi"
+    },
+    {
+     "post_id": "44433320",
+     "number": 20,
+     "author": "SpRizz",
+     "url": "https://voz.vn/p/44433320/",
+     "created_at": "2026-11-22T05:19:20+00:00",
+     "reactions": 3,
+     "text": "Thằng tàu làm việc này đúng ngu, bị cả thế giới chửi, chính dân trong nước cũng chửi. Chỉ có bọn tiểu phấn hồng ăng ẳng trong vô vọng"
+    },
+    {
+     "post_id": "44433416",
+     "number": 26,
+     "author": "hehe",
+     "url": "https://voz.vn/p/44433416/",
+     "created_at": "2026-11-22T05:33:40+00:00",
+     "reactions": 3,
+     "text": "Thôi tàu cẩu con Sonic im mẹ mõm đi. Mày làm voz ghét bọn cẩu tàu hơn vì mày quá ngu si đó."
+    },
+    {
+     "post_id": "44433405",
+     "number": 24,
+     "author": "Rosierr",
+     "url": "https://voz.vn/p/44433405/",
+     "created_at": "2026-11-22T05:32:11+00:00",
+     "reactions": 2,
+     "text": "Thằng cẩu Nhật nô xem thời Shinzo Abe dc TQ tiếp đón trọng thị thế nào và giờ Takaichi tiếp đón thế nào? Thích gây sự khiêu khích với ng ta mà đòi họ phải tiếp đón tốt với mình à thằng cẩu Nhật nô?"
+    },
+    {
+     "post_id": "44433114",
+     "number": 9,
+     "author": "BennyHuynh",
+     "url": "https://voz.vn/p/44433114/",
+     "created_at": "2026-11-22T04:45:40+00:00",
+     "reactions": 1,
+     "text": "Mỹ chắc éo khinh tàu cẩu nên nó mới đấm vỡ mõm cẩu mấy năm nay đó nhỉ?"
+    },
+    {
+     "post_id": "44433239",
+     "number": 17,
+     "author": "comeBack001",
+     "url": "https://voz.vn/p/44433239/",
+     "created_at": "2026-11-22T05:08:06+00:00",
+     "reactions": 1,
+     "text": "À ra vậy, nhờ du lịch rẻ mạt à tàu cẩu con ?"
+    },
+    {
+     "post_id": "44433312",
+     "number": 19,
+     "author": "Đẹp Trai Mà Lại Có Tài",
+     "url": "https://voz.vn/p/44433312/",
+     "created_at": "2026-11-22T05:18:25+00:00",
+     "reactions": 1,
+     "text": "chà, quý quá, Trai Đẹp nghĩ bạn nên in trang báo này ra rồi đặt lên bàn thờ thắp hương, mỗi buổi sáng vái ba vái nữa là đẹp\nmẹ nó chứ, cái khảo sát tào lao bí đao ở đâu đâu, mẫu chưa đc 50k mạng/ 7 tỷ mạng toàn cầu (đã trừ 1 tỷ mạng chink), và nó đem ra coi như chân lý. Đúng là trí tuệ cẩu nô chưa bao giờ làm Trai Đẹp thất vọng"
+    },
+    {
+     "post_id": "44433334",
+     "number": 21,
+     "author": "KimRiCha32",
+     "url": "https://voz.vn/p/44433334/",
+     "created_at": "2026-11-22T05:22:14+00:00",
+     "reactions": 1,
+     "text": "Dân tàu mà cũng tiến bộ vậy á\nhay tàu xanh trà trộn đấy"
+    },
+    {
+     "post_id": "44433569",
+     "number": 27,
+     "author": "NightStaker",
+     "url": "https://voz.vn/p/44433569/",
+     "created_at": "2026-11-22T05:59:32+00:00",
+     "reactions": 1,
+     "text": "Bà chị đại này xứng danh \"đầm thép\" hơn thủ tướng Anh khi xưa."
+    },
+    {
+     "post_id": "44433801",
+     "number": 28,
+     "author": "Rosierr",
+     "url": "https://voz.vn/p/44433801/",
+     "created_at": "2026-11-22T06:50:30+00:00",
+     "reactions": 1,
+     "text": "Mẹ Lùn nhà mày giống như thằng Chí Phèo bị HIV giai đoạn cuối, thế thì ai dám lại gần sợ bị lây à ? Cẩu Nhật nô ảo tưởng mẹ Nhật của mày là nhất à ?"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300794",
+   "title": "Xuất hiện siêu dự án 111.000 tỷ đồng gần sân vận động VinFast - Trống Đồng",
+   "url": "https://voz.vn/t/xuat-hien-sieu-du-an-111-000-ty-dong-gan-san-van-dong-vinfast-trong-dong.1300794/",
+   "prefix": "",
+   "op_author": "Nuôi Con Nghiện",
+   "op_created_at": "2026-11-22T02:05:27+00:00",
+   "article_url": "https://dantri.com.vn/bat-dong-san/xuat-hien-sieu-du-an-111000-ty-dong-gan-san-van-dong-vinfast-trong-dong-20261122012954320.htm",
+   "article_source": "dantri.com.vn",
+   "article_excerpt": "(Dân trí) - Hà Nội duyệt dự án khu đô thị 111.000 tỷ đồng; tháp 68 tầng dang dở của VietinBank về tay hệ sinh thái Sun Group là những tin nóng bất động sản tuần qua.​\nHà Nội duyệt dự án 111.000 tỷ đồng gần sân vận động VinFast - Trống Đồng\nChủ tịch UBND TP Hà Nội Vũ Đại Thắng đã ký Quyết định số 6180 ngày 11/11, chấp thuận chủ trương đầu tư\ndự án\nKhu đô thị đa mục tiêu Bình Minh - Tam Hưng tại hai xã Bình Minh và Tam Hưng.\nTrước đó, tại Quyết định số 4577 ngày 26/8, thành phố đã chấp thuận Công ty cổ phần Vinhomes làm nhà đầu tư dự án. Đến ngày 15/10, quy hoạch chi tiết tỷ lệ 1/500 của khu đô thị được phê duyệt.\nTheo quyết định mới, dự án có quy mô khoảng 598,2ha, trong đó 323,8ha thuộc xã Tam Hưng và 274,4ha thuộc xã Bình Minh. Tổng vốn đầu tư dự kiến khoảng 111.137 tỷ đồng, gồm 16.670 tỷ đồng vốn góp của nhà đầu tư, tương đương 15%; phần còn lại 94.466 tỷ đồng được huy động từ các tổ chức tín dụng và nguồn vốn hợp pháp khác.\nDự án có thời hạn hoạt động 50 năm, tính từ thời điểm được Nhà nước quyết định giao đất, cho thuê đất hoặc chuyển mục đích sử dụng đất.\nPhối cảnh dự án (Ảnh: Vinhomes).\nTheo quyết định, một trong những mục tiêu quan trọng của dự án là tạo lập quỹ nhà ở tái định cư phục vụ công tác giải phóng mặt bằng Khu đô thị thể thao Quốc tế Hà Nội, trước đây là Khu đô thị thể thao Olympic (trong đó nổi bật là sân vận động VinFast - Trống Đồng), cùng các dự án trọng điểm khác của thành phố.\nTháp 68 tầng dang dở của VietinBank về tay hệ sinh thái Sun Group\nTheo thông tin mới nhất từ Công ty TNHH Thành phố Mặt Trời, dự án VietinBank Tower tại Khu đô thị Nam Thăng Long (Hà Nội) đã được chuyển nhượng thành công trong tháng 9 cho đơn vị này.\nCông ty TNHH Thành phố Mặt Trời là đơn vị thuộc hệ sinh thái Sun Group.\nVietinBank Tower tọa lạc tại lô TM1, Khu đô thị Nam Thăng Long, có diện tích gần 30.000m2. Dự án được khởi công ngày 20/10/2010, gồm hai tòa tháp cao 68 tầng và 48 tầng, kết nối bằng khối đế 7 tầng. Trong đó, tháp cao 68 tầng trước đây được quy hoạch làm trụ sở chính của VietinBank. Tháp còn lại cao 48 tầng dự kiến bố trí khách sạn 5 sao, khu chăm sóc sức khỏe, căn hộ cao cấp cho thuê và các chức năng thương mại khác.\nĐại diện Công ty TNHH Thành phố Mặt Trời cho biết, sau khi tiếp nhận phần công trình xây dựng dang dở, công ty đang rà soát hồ sơ thiết kế và xây dựng phương án cải tạo theo quy định.\nHiện trạng tòa tháp của VietinBank, được chụp tháng 5/2025 (Ảnh: Nguyễn Hải).\nTheo báo cáo từ Chứng khoán Vietcap trước đó, thương vụ chuyển nhượng VietinBank Tower cho đối tác đã hoàn tất và các khoản hạch toán liên quan (bao gồm lợi nhuận từ giao dịch) đã được ghi nhận trong báo cáo tài chính tại ngày 30/9. Do yêu cầu bảo mật thông tin, ngân hàng không công bố chi tiết doanh thu, chi phí và mức đóng góp ròng của thương vụ vào lợi nhuận quý III.\nHồi tháng 7/2025, ngân hàng thông báo khởi động lại việc chuyển nhượng dự án này. Dự án có tổng vốn đầu tư khoảng 10.267 tỷ đồng, nhưng nhiều năm qua vẫn chưa thể hoàn thành do phía ngân hàng vướng một số khó khăn nhất định trong việc triển khai.\nTại Đại hội đồng cổ đông thường niên của nhà băng này hồi tháng 4, ông Nguyễn Trần Mạnh Trung, Tổng giám đốc, cho hay đang cùng đối tác nỗ lực hoàn thành việc chuyển nhượng tòa tháp trong nửa đầu năm nay. Hai bên khi ấy đã đến gần những bước pháp lý cuối cùng.\nVị này nói rằng giá chuyển nhượng sẽ được 2 bên xác định chính thức và ghi nhận trên hợp đồng. Giá mua bán sẽ theo giá thị trường và cũng không thấp hơn thẩm định, cũng như giá trị đã đầu tư để đảm bảo tối đa quyền và lợi ích của nhà băng này.",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 56,
+   "total_reactions": 40,
+   "base_score": 136.0,
+   "hot_score": 16.085,
+   "top_comments": [
+    {
+     "post_id": "44432003",
+     "number": 2,
+     "author": "Chicat",
+     "url": "https://voz.vn/p/44432003/",
+     "created_at": "2026-11-22T02:08:05+00:00",
+     "reactions": 3,
+     "text": "Tiếp tục phô lân bến nàn, pt công nghệ lõi đặc thù quốc gia."
+    },
+    {
+     "post_id": "44432039",
+     "number": 5,
+     "author": "BlueHills",
+     "url": "https://voz.vn/p/44432039/",
+     "created_at": "2026-11-22T02:17:20+00:00",
+     "reactions": 3,
+     "text": "Còn vay đc là còn đốt cái đáng sợ là dân rút tiền đồng loạt mang về nhà kìa"
+    },
+    {
+     "post_id": "44432045",
+     "number": 6,
+     "author": "fearless1",
+     "url": "https://voz.vn/p/44432045/",
+     "created_at": "2026-11-22T02:18:11+00:00",
+     "reactions": 3,
+     "text": "Ngoài bank - bds + turnkey service. It's time to run, run 4 your life"
+    },
+    {
+     "post_id": "44432172",
+     "number": 11,
+     "author": "Secret Avengers",
+     "url": "https://voz.vn/p/44432172/",
+     "created_at": "2026-11-22T02:36:35+00:00",
+     "reactions": 3,
+     "text": "Dân trữ vàng, trữ usd mới sợ chứ dân trữ tiền ở nhà thì càng thích, chẳng cần làm gì lạm phát tự bào mòn số tiền"
+    },
+    {
+     "post_id": "44432620",
+     "number": 22,
+     "author": "Lemonpro",
+     "url": "https://voz.vn/p/44432620/",
+     "created_at": "2026-11-22T03:33:05+00:00",
+     "reactions": 3,
+     "text": "h ai có quyền điều tra nữa mà án"
+    },
+    {
+     "post_id": "44432831",
+     "number": 24,
+     "author": "selenia15",
+     "url": "https://voz.vn/p/44432831/",
+     "created_at": "2026-11-22T04:02:36+00:00",
+     "reactions": 3,
+     "text": "Di dời làng xã, bỏ chung cư cũ, lập nhiều dự án mới, dân phải bỏ tiền ra mua chỗ ở. vừa bán được hàng tồn, vừa góp phần tăng GDP chóng mặt. Vị nào nghĩ ra được cách làm này quả không phải người thường.\nSự khát khao ghi danh sử sách, tạo dấu ấn NK, bằng những cách làm như vậy khiến lòng người càng ngày càng yêu mến và vui vẻ, họ cười ở khắp nơi."
+    },
+    {
+     "post_id": "44433197",
+     "number": 33,
+     "author": "AnkCern",
+     "url": "https://voz.vn/p/44433197/",
+     "created_at": "2026-11-22T05:01:14+00:00",
+     "reactions": 3,
+     "text": "Sắp tới, những tin tức tung hô việc gửi tiền ngân hàng + dìm hàng vàng, tiền số chắc chắn sẽ nảy liên tục."
+    },
+    {
+     "post_id": "44432016",
+     "number": 3,
+     "author": "FiioM3kVer2",
+     "url": "https://voz.vn/p/44432016/",
+     "created_at": "2026-11-22T02:11:32+00:00",
+     "reactions": 2,
+     "text": "Ko có gì lạ cả"
+    },
+    {
+     "post_id": "44432251",
+     "number": 15,
+     "author": "BlueHills",
+     "url": "https://voz.vn/p/44432251/",
+     "created_at": "2026-11-22T02:45:37+00:00",
+     "reactions": 2,
+     "text": "Đang khủng hoảng mà fen, lâu lâu 4 bản xén lông cừu, lãi suất FED chưa thấy đỉnh"
+    },
+    {
+     "post_id": "44432305",
+     "number": 20,
+     "author": "5AMWakeUp",
+     "url": "https://voz.vn/p/44432305/",
+     "created_at": "2026-11-22T02:50:53+00:00",
+     "reactions": 2,
+     "text": "Đợt này đội sun mạnh thế, cứ vài hôm lại lên 1 dự án"
+    },
+    {
+     "post_id": "44432078",
+     "number": 10,
+     "author": "Sáng mắt sáng lòng rồi",
+     "url": "https://voz.vn/p/44432078/",
+     "created_at": "2026-11-22T02:23:13+00:00",
+     "reactions": 1,
+     "text": "Theo lời vozer thì chắc 2-3 năm nửa sụp là thiệt với tốc độ đẻ dự án như này"
+    },
+    {
+     "post_id": "44432247",
+     "number": 14,
+     "author": "nickthu8roimod",
+     "url": "https://voz.vn/p/44432247/",
+     "created_at": "2026-11-22T02:45:25+00:00",
+     "reactions": 1,
+     "text": "Thì lại quay về thời anh X, hai ba quả đấm thép vào mồm nhân dân xong tăng lãi suất vài năm, lãi suất ổn rồi thì ai lại về nhà nấy"
+    },
+    {
+     "post_id": "44432264",
+     "number": 17,
+     "author": "Cá Mập Real",
+     "url": "https://voz.vn/p/44432264/",
+     "created_at": "2026-11-22T02:47:14+00:00",
+     "reactions": 1,
+     "text": "Đội sun này không chơi cáp treo nữa hay sao đợt này tham chiến đất nền ác vậy?"
+    },
+    {
+     "post_id": "44432284",
+     "number": 19,
+     "author": "Mèo học võ",
+     "url": "https://voz.vn/p/44432284/",
+     "created_at": "2026-11-22T02:49:09+00:00",
+     "reactions": 1,
+     "text": "Sun còn cả mảng khu vui chơi giải trí như công viên nc mà fen"
+    },
+    {
+     "post_id": "44432326",
+     "number": 21,
+     "author": "Dracubill87",
+     "url": "https://voz.vn/p/44432326/",
+     "created_at": "2026-11-22T02:52:28+00:00",
+     "reactions": 1,
+     "text": "Xuất hiện siêu\ndự\nán​"
+    },
+    {
+     "post_id": "44433154",
+     "number": 29,
+     "author": "TraChanhMuoiMe",
+     "url": "https://voz.vn/p/44433154/",
+     "created_at": "2026-11-22T04:54:14+00:00",
+     "reactions": 1,
+     "text": "đồn là sân sau của anh đương kim thủ tướng\nTừ cuối năm ngoái khi a Lee Min Ho râm ran là lên thay PMC thì Sun bung lụa rồi"
+    },
+    {
+     "post_id": "44433561",
+     "number": 41,
+     "author": "KimRiCha32",
+     "url": "https://voz.vn/p/44433561/",
+     "created_at": "2026-11-22T05:57:53+00:00",
+     "reactions": 1,
+     "text": "Nghe lời Vozer dự đoán là dở rồi"
+    },
+    {
+     "post_id": "44433567",
+     "number": 42,
+     "author": "Anh ơi Em tin",
+     "url": "https://voz.vn/p/44433567/",
+     "created_at": "2026-11-22T05:59:21+00:00",
+     "reactions": 1,
+     "text": "Chưa hợp lệ thì thay cơ quan đó thôi"
+    },
+    {
+     "post_id": "44433585",
+     "number": 43,
+     "author": "Tô Tặc",
+     "url": "https://voz.vn/p/44433585/",
+     "created_at": "2026-11-22T06:02:11+00:00",
+     "reactions": 1,
+     "text": "Mk, đúng lũ quỷ mafia."
+    },
+    {
+     "post_id": "44433654",
+     "number": 46,
+     "author": "osmosis",
+     "url": "https://voz.vn/p/44433654/",
+     "created_at": "2026-11-22T06:17:35+00:00",
+     "reactions": 1,
+     "text": "lần này sợ nó không sập mà cứa từ từ hồi cũng quen dần với cái đau. Giống bọn isis hồi xưa đem con tin ra cứa cổ nhưng không cứa ngày nào cũng làm vậy tới lúc cứa thật cũng bớt sợ hãi"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300598",
+   "title": "Gta 6 bùng nổ tranh cãi vì yếu tố Woke: Hasan Piker ăn mừng, Asmongold gọi đó là \"Trò Mô Phỏng Kẻ Bạc Nhược\"",
+   "url": "https://voz.vn/t/gta-6-bung-no-tranh-cai-vi-yeu-to-woke-hasan-piker-an-mung-asmongold-goi-do-la-tro-mo-phong-ke-bac-nhuoc.1300598/",
+   "prefix": "Dịch Dịch",
+   "op_author": "Người Đi Trà Lạnh",
+   "op_created_at": "2026-11-21T05:00:13+00:00",
+   "article_url": "https://cosmicbook.news/gta-6-woke-backlash",
+   "article_source": "cosmicbook.news",
+   "article_excerpt": "https://cosmicbook.news/gta-6-woke-backlash\nĐáng chú ý, yếu tố “woke” trong game dường như đã trở thành điều khó phủ nhận. Hasan Piker, một trong những streamer cánh tả có tiếng nhất trên Twitch, thậm chí còn công khai ăn mừng điều này.\nHasan Piker: “Woke đã trở lại”\nPiker đã đăng tải bình luận về GTA 6 trên X và không giấu giếm quan điểm của mình.\n“Không thể tin nổi lũ ngốc lại nghĩ GTA sẽ mang khuynh hướng cánh hữu, lmao!” Piker viết. “WOKE ĐÃ TRỞ LẠI RỒI. Nói thật, chẳng còn gì để bàn nữa.”\nMark Kern, cựu nhà phát triển của Blizzard được biết đến với biệt danh Grummz, cho rằng phát ngôn của Piker đã chấm dứt mọi tranh cãi.\n“Ngay cả Hasan cũng thừa nhận đây là chiến thắng của phe woke. Giờ thì chẳng ai có thể phủ nhận được nữa,” ông viết. “Nhưng gameplay thì sao? Liệu nó có đủ sức cứu vãn phần cốt truyện không?”\nCó thể nói, cuộc tranh luận về yếu tố “woke” của GTA 6 gần như đã ngã ngũ: cả hai phía dường như đều thống nhất về định hướng của trò chơi. Điều còn gây tranh cãi lúc này là liệu GTA 6 có thực sự thú vị và đáng chơi hay không.\nTrong một video dài hơn, sau khoảng tám giờ trải nghiệm, Asmongold phân tích lý do anh cho rằng mối quan hệ giữa Jason và Lucia được xây dựng một cách gượng gạo, thiếu thuyết phục.\nCốt truyện mở đầu với việc Jason, một cựu lính đánh thuê, chuẩn bị lên đường thực hiện nhiệm vụ. Lucia, người vừa ra tù, tỏ ra bực bội vì không được đi cùng. Theo Asmongold, cách trò chơi xây dựng tình huống này khiến Jason chẳng khác nào người có lỗi, dù anh chỉ đang thực hiện công việc của mình.\n“Anh ta giống như nhân vật cấp 100, còn cô ta chỉ ở cấp 15. Vậy mà cô ta lại nổi giận vì không được cùng anh ta tham gia một chuyến đột kích Molten Core,” Asmongold ví von, ám chỉ trò chơi nhập vai World of Warcraft mà anh từng gắn bó. “Thực tế trong game đúng là như vậy.”\nSau đó, Asmongold tiếp tục liệt kê hàng loạt điều khiến anh không có thiện cảm với Lucia.\n“Lucia chẳng có nổi một điểm tốt. Cô ta bốc đồng, ngu ngốc, ghen tuông, không hiểu vị trí của mình trong mối quan hệ, bất tài, ích kỷ và thích thao túng người khác,” anh nhận xét.\n“Thực sự chẳng có điểm gì đáng khen ở Lucia cả. Cô ta không có ưu điểm nào đủ để bù đắp. Điểm cộng duy nhất là cô ấy đã sinh con cho Jason và có ngoại hình ưa nhìn. Chỉ có thế thôi.”\nAsmongold cũng chỉ ra một số chi tiết mà anh cho là bất hợp lý trong cốt truyện. Chẳng hạn, Lucia chưa từng nói với Jason rằng anh có một cậu con trai, trong khi cô lại chuyển thẳng đến sống cùng anh ngay sau khi ra tù.\n“Cô ta chẳng có kỹ năng gì cả. Đến việc mở một tài khoản ngân hàng cũng không làm nổi,” Asmongold nói. “Đây không phải kiểu nhân vật khiến người chơi có thể yêu mến.”\nNhững lời phàn nàn không chỉ xoay quanh mối quan hệ giữa hai nhân vật chính. Một bài đăng tổng kết sau sáu giờ chơi của tài khoản Autism Capital đã thu hút khoảng 3,5 triệu lượt xem. Bài viết mô tả GTA 6 như một “trò mô phỏng việc nhà”, trong đó người chơi dường như chỉ phải tìm cách làm sao để Lucia hài lòng.\n“Jason muốn sống một cuộc đời kín tiếng, chỉ làm những phi vụ phạm pháp nhỏ lẻ của riêng mình. Thế nhưng, Lucia vừa ra tù đã NGAY LẬP TỨC kéo cả hai vào những tình huống rắc rối,” bài đăng viết. “Trong suốt những gì đã trải nghiệm, Jason gần như chỉ loay hoay tìm cách kiểm soát cảm xúc và chiều lòng cô ta.”\nBài viết tiếp tục: “Đây không phải là một trò chơi mang lại niềm vui khi trải nghiệm. ‘Tẻ nhạt’ có lẽ là từ chính xác nhất để mô tả nó ở thời điểm hiện tại.”\nNhững đoạn video cắt từ các buổi phát trực tiếp khác dường như cũng củng cố nhận xét này. Streamer Stable Ronaldo đã dành tới 40 phút chỉ để sơn sửa căn nhà trong game, rồi cuối cùng phải làm lại từ đầu vì lo rằng Lucia sẽ không thích màu sơn mình chọn.",
+   "status": "ok",
+   "pages_scanned": 3,
+   "replies": 57,
+   "total_reactions": 67,
+   "base_score": 191.0,
+   "hot_score": 10.986,
+   "top_comments": [
+    {
+     "post_id": "44425967",
+     "number": 2,
+     "author": "cuminalo",
+     "url": "https://voz.vn/p/44425967/",
+     "created_at": "2026-11-21T05:06:42+00:00",
+     "reactions": 3,
+     "text": "Làm nhớ bài này"
+    },
+    {
+     "post_id": "44425999",
+     "number": 3,
+     "author": "bài trừ tệ nạn ngú tro",
+     "url": "https://voz.vn/p/44425999/",
+     "created_at": "2026-11-21T05:11:07+00:00",
+     "reactions": 3,
+     "text": "chửi cho lắm vào chứ GAME vẫn phá kỷ lục mọi thời đại\nkhóc to nữa lên các cháu"
+    },
+    {
+     "post_id": "44426006",
+     "number": 5,
+     "author": "bài trừ tệ nạn ngú tro",
+     "url": "https://voz.vn/p/44426006/",
+     "created_at": "2026-11-21T05:12:02+00:00",
+     "reactions": 3,
+     "text": "dàn staff làm ra con game quá chất lượng. xô đổ mọi kỷ lục trong ngành game\ndàn staff quá đỉnh cao. cám ơn đã cho tôi thấy chân dung của họ"
+    },
+    {
+     "post_id": "44426157",
+     "number": 9,
+     "author": "Raidou",
+     "url": "https://voz.vn/p/44426157/",
+     "created_at": "2026-11-21T05:31:26+00:00",
+     "reactions": 3,
+     "text": "Riêng thằng nào chứ thằng nào cứt Asmod thì khác mẹ gì chó sủa, thằng này thì bất kể game gì bất kể vụ gì cứ có keyworld \"woke\" là vào bú lấy bú để như con chó tớp xương, biết cái mẹ gì đâu\nCòn người chơi GTA 6 thật thì giống như tôi, đang đi strip club với cướp xe vỗ đít bà già là chính chứ quan tâm mẹ gì mấy lời chó sủa."
+    },
+    {
+     "post_id": "44426159",
+     "number": 10,
+     "author": "baotrungnazi10",
+     "url": "https://voz.vn/p/44426159/",
+     "created_at": "2026-11-21T05:32:13+00:00",
+     "reactions": 3,
+     "text": "Đọc cmt này nhé a, còn gta nó troll luôn đám thổ tả, có nhiệm vụ chặn đường để giải thoát cho thú ở công viên , nhờ thằng jason mở cửa xe hộ, mở ra cái con gấu trắng nó ăn thịt luôn đám biểu tình, còn cả biểu tình , bt a lấy xe lao xả súng cả đám chả vấn đề, nhưng đang làm nv ko bắn đám đấy đk, vì anh huonge cốt truyện. chứ gảm gta từ xưa đến nay toàn làm về tằng đấy xã hội, nc toàn niggga, gay,les,latin, redneck đủ cả, mà mấy a muốn làm game kiểu xã hội tầng lớp trên ko bằng"
+    },
+    {
+     "post_id": "44426181",
+     "number": 11,
+     "author": "nickthu8roimod",
+     "url": "https://voz.vn/p/44426181/",
+     "created_at": "2026-11-21T05:35:38+00:00",
+     "reactions": 3,
+     "text": "game xách nước bổ cam đi chợ cho vợ bảo không woke thì chịu"
+    },
+    {
+     "post_id": "44426195",
+     "number": 12,
+     "author": "shivakl",
+     "url": "https://voz.vn/p/44426195/",
+     "created_at": "2026-11-21T05:36:58+00:00",
+     "reactions": 3,
+     "text": "So với dàn nv chính gta5 thì đúng là game gia đình còn gì. Gta5 3 thằng nv chính đúng 3 kiểu chơi game luôn, 1 thằng cày nv, 1 thằng sống 2 mặt, 1 thằng chó điên… chơi lần lượt qua 3 nv cảm nhận rõ sự khác biệt luôn"
+    },
+    {
+     "post_id": "44426199",
+     "number": 13,
+     "author": "Ma Bư Mập",
+     "url": "https://voz.vn/p/44426199/",
+     "created_at": "2026-11-21T05:37:04+00:00",
+     "reactions": 3,
+     "text": "Có ai đồ sát dc động gay club trong game chưa"
+    },
+    {
+     "post_id": "44426207",
+     "number": 14,
+     "author": "13h049dun9",
+     "url": "https://voz.vn/p/44426207/",
+     "created_at": "2026-11-21T05:38:52+00:00",
+     "reactions": 3,
+     "text": "Riết hồi đám anti-woke cũng annoy éo khác gì đám woke."
+    },
+    {
+     "post_id": "44426977",
+     "number": 16,
+     "author": "FormerTroll",
+     "url": "https://voz.vn/p/44426977/",
+     "created_at": "2026-11-21T07:29:34+00:00",
+     "reactions": 3,
+     "text": "Game woke rõ rồi, thằng asmongold nó ghét woke như tôi nên nó chửi đúng thì tôi cũng ủng hộ, game này cũng giống KCD2 thôi, tuy hay nhưng bị nhét yếu tố woke không cần thiết vào."
+    },
+    {
+     "post_id": "44426989",
+     "number": 17,
+     "author": "7 triệu rưỡi",
+     "url": "https://voz.vn/p/44426989/",
+     "created_at": "2026-11-21T07:31:34+00:00",
+     "reactions": 3,
+     "text": "nghĩ tiêu cực lên fen, nếu ko phải đội woke làm thì có lẽ GTA 6 đã đạt mốc 100 tỷ doanh thu"
+    },
+    {
+     "post_id": "44427101",
+     "number": 19,
+     "author": "Trương Giác",
+     "url": "https://voz.vn/p/44427101/",
+     "created_at": "2026-11-21T07:48:23+00:00",
+     "reactions": 3,
+     "text": "Sẽ không có gì ngạc nhiên nếu GTA 6 giật giải GOTY. Trò chơi này, với một cốt truyện nhảm nhí bao woke làm xương sống, đáp ứng mọi tiêu chuẩn của các chuyên gia hàng đầu về game trên khắp thế giới."
+    },
+    {
+     "post_id": "44427134",
+     "number": 21,
+     "author": "Die_Welle",
+     "url": "https://voz.vn/p/44427134/",
+     "created_at": "2026-11-21T07:51:19+00:00",
+     "reactions": 3,
+     "text": "Lấy thành công trong kinh doanh ra để bao biện cho chất lượng là lạc đề rồi fen.\nVề góc độ kinh doanh thì pha marketing stunt này đúng đỉnh. Kéo thêm fame cho một tựa game đã đạt đỉnh. Về lý thuyết thì rất khó để có 1 GTA single play mới có thể vượt qua 3,4,5 nếu không có bộ đôi sáng tạo cũ. Thế nên để nổi bật thì tạo ra 1 sản phẩm tồi đến mức đáng nhớ cũng là 1 phương án hay.\nDự đoán của trư là sau khi thu hoạch 1 đống feedbacks từ game thủ, thì Rockstar sẽ sửa lại một vài thứ trong bản PC hoặc là GTA 6 online để xoa dịu game thủ hard-core. Đặc biệt là GTA 6 online vì đây mới là con gà đẻ trứng vàng của Rockstar. Nói là Hard-core nhưng game thủ GTA dễ như 4`. Trong bản online, cho thêm nhiều heists mới với chế độ co-op, multiplay, quay lại với hình thức sandbox arcade là game thủ hard-core lại cun cút đóng tiền tiếp. Mỹ miều gọi đây là redemption arc của Rockstar"
+    },
+    {
+     "post_id": "44433822",
+     "number": 36,
+     "author": "DarthPlagueis",
+     "url": "https://voz.vn/p/44433822/",
+     "created_at": "2026-11-22T06:55:22+00:00",
+     "reactions": 3,
+     "text": "Con hàng này giống y chang con phim Star wars ep 7. Cộng đồng fan đông đảo + mong chờ thời gian dài => bom tấn không thể xịt dù chất lượng thế nào đi nữa trong khi chất lượng thật chất không = các phần cũ"
+    },
+    {
+     "post_id": "44427119",
+     "number": 20,
+     "author": "Yuuki K.Kenzy",
+     "url": "https://voz.vn/p/44427119/",
+     "created_at": "2026-11-21T07:50:01+00:00",
+     "reactions": 2,
+     "text": "GOTY chắc chắn luôn, game phá mọi kỷ lục, đầu tư 2 tỏi $ là đúng đắn"
+    },
+    {
+     "post_id": "44427200",
+     "number": 25,
+     "author": "finestacreepy",
+     "url": "https://voz.vn/p/44427200/",
+     "created_at": "2026-11-21T07:59:33+00:00",
+     "reactions": 2,
+     "text": "na ná rdr2, mới đầu vào cũng chậm, chơi rdr2 tôi mất 30 phút mới làm quen được vs con ngựa, nhưng cốt truyện phải vậy thôi k thể bùng nổ ngay được, kiên nhẫn chơi khoảng 2 chaps thì cũng k thấy tệ lắm."
+    },
+    {
+     "post_id": "44427381",
+     "number": 27,
+     "author": "Wtfyyy",
+     "url": "https://voz.vn/p/44427381/",
+     "created_at": "2026-11-21T08:27:30+00:00",
+     "reactions": 2,
+     "text": "Đợt thời gian tới giấu vợ làm con ps5 chứ trông thích quá ... Kệ mẹ thằng nào nói cái gì, bố mua về đi ngắm phố, bắn giết, đặc biệt là mấy thằng 7 màu haha"
+    },
+    {
+     "post_id": "44433829",
+     "number": 37,
+     "author": "UnityEngine",
+     "url": "https://voz.vn/p/44433829/",
+     "created_at": "2026-11-22T06:56:00+00:00",
+     "reactions": 2,
+     "text": "Thấy frame thì lao vào bú láy bú đễ. Trước làm 1 video chê sau làm 1 video khen là có ngay 2 video để bú, peak peak"
+    },
+    {
+     "post_id": "44434668",
+     "number": 47,
+     "author": "culidauwan",
+     "url": "https://voz.vn/p/44434668/",
+     "created_at": "2026-11-22T09:05:40+00:00",
+     "reactions": 2,
+     "text": "Tội nghiệp mấy đứa Maga gào trong vô vọng. Chơi thì ko chơi đi soi đc một vài chi tiết nhỏ nhỏ, lấy ảnh 8/3 ra khè mà dek biết mịa gì cả. Trong khi Michael de Santa simp lõ con vợ còn ác hơn. Đâm sau lưng bạn ăn tiền chính phủ, cho con vợ bào tiền xong sắp phá sản, đi kể lể với bác sỹ, ghen rồi phá nhà để rồi phải đi cướp cho vk nó bào tiếp, rồi ngoại tình với thằng coach tenis đầu game với coach yoga vẫn nắm thương nhau tới kết game đm mà ko thấy mấy cái mỏm chó cuck cuck này nọ. Game thì bùng nổ, năm sau lên Pc còn bùng nổ hơn cho tụi Maga cay chơi hehe. Bố tụi maga xì trum ngồi chơi xơi nước 2 năm sau về vườn nên tranh thủ kêu gào, ăn vạ ko khác gì mấy tụi thổ tả cả. Nói chung tụi Maga với SJW cực đoan đều là rác rưởi hehe."
+    },
+    {
+     "post_id": "44434776",
+     "number": 54,
+     "author": "culidauwan",
+     "url": "https://voz.vn/p/44434776/",
+     "created_at": "2026-11-22T09:23:04+00:00",
+     "reactions": 2,
+     "text": "Thực ra tụi nó kiểu gây sự chú ý, attention whore y chang mấy tụi SJW, karent các kiểu. Thấy ai quăng xương là đớp rồi đi tha rác chứ biết mịa gì đâu."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300871",
+   "title": "Nga khôi phục hoàn toàn giao thông đường sắt qua cầu Crimea",
+   "url": "https://voz.vn/t/nga-khoi-phuc-hoan-toan-giao-thong-duong-sat-qua-cau-crimea.1300871/",
+   "prefix": "",
+   "op_author": "Dmitry Yazov",
+   "op_created_at": "2026-11-22T07:33:44+00:00",
+   "article_url": "https://giaoducthoidai.vn/nga-khoi-phuc-hoan-toan-giao-thong-duong-sat-qua-cau-crimea-post800464.html",
+   "article_source": "giaoducthoidai.vn",
+   "article_excerpt": "GD&TĐ - Giao thông đường sắt qua cầu eo biển Kerch nối Crimea và lục địa Nga đã được khôi phục hoàn toàn, sau các cuộc tấn công của lực lượng Ukraine.​\nCầu Crimea.\n\"Hoạt động vận tải đường sắt qua đoạn đường sắt của cầu Crimea đã được khôi phục hoàn toàn.\nCác chuyến tàu trên tuyến này đang chạy theo đúng lịch trình\", Phó Thủ tướng Nga Andrey Nikitin nói với phóng viên của hãng tin TASS hôm 21/11.\nVào các ngày 16, 17 và 18/11, thời điểm diễn ra hội nghị thượng đỉnh APEC, cầu Crimea liên tiếp hứng chịu các đợt tập kích bằng UAV và tên lửa của lực lượng Ukraine, làm gián đoạn giao thông và hư hại một số kết cấu.\nTrước đó, Bộ trưởng Quốc phòng Ukraine Yevhenii Khmara nhận định, Nga có thể mất từ vài tháng đến 1 năm để dỡ bỏ đoạn cầu sập, đang cản trở hàng hải qua eo biển Kerch, trong khi phía Nga khẳng định sẽ nhanh chóng khôi phục công trình.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 26,
+   "total_reactions": 18,
+   "base_score": 62.0,
+   "hot_score": 10.76,
+   "top_comments": [
+    {
+     "post_id": "44434068",
+     "number": 2,
+     "author": "Hoa Ly",
+     "url": "https://voz.vn/p/44434068/",
+     "created_at": "2026-11-22T07:37:01+00:00",
+     "reactions": 3,
+     "text": "Bữa qua coi cái ông gì coi cuộc sống ở Nga, đi siêu thị, thế đéo nào nhiều thứ thực phẩm còn rẻ hơn việt nam, có mấy hoa quả xứ nhiệt đới thì mắc thôi.\nCông nhận nền nông nghiệp và logistic của nước ta vãi đái thật, đếu hiểu sao lại mắc vậy"
+    },
+    {
+     "post_id": "44434147",
+     "number": 6,
+     "author": "hx70f",
+     "url": "https://voz.vn/p/44434147/",
+     "created_at": "2026-11-22T07:52:09+00:00",
+     "reactions": 3,
+     "text": "Nước diện tích top1 top2 thế giới đi so với 100tr mạng cho 330km mà hết 2/3 là núi với đồi\nhọc địa lý trả hết cho thầy cô rồi à.\nNước nông nghiệp bao giờ giá rẻ vậy? Nước công nghiệp giá mới rẻ được. Làm manh mún giả rẻ kiểu quá gì?"
+    },
+    {
+     "post_id": "44434227",
+     "number": 8,
+     "author": "Harmonica_blacker",
+     "url": "https://voz.vn/p/44434227/",
+     "created_at": "2026-11-22T08:04:49+00:00",
+     "reactions": 3,
+     "text": "Nga nô ko đọc bài nhỉ? Lần trước nó đánh sập bên nhịp đường bộ chứ có đánh đường sắt đâu?"
+    },
+    {
+     "post_id": "44434269",
+     "number": 10,
+     "author": "Anh2026",
+     "url": "https://voz.vn/p/44434269/",
+     "created_at": "2026-11-22T08:10:41+00:00",
+     "reactions": 2,
+     "text": "Nó có sập bên đường sắt đâu"
+    },
+    {
+     "post_id": "44434077",
+     "number": 3,
+     "author": "hropro",
+     "url": "https://voz.vn/p/44434077/",
+     "created_at": "2026-11-22T07:38:09+00:00",
+     "reactions": 1,
+     "text": "nghe chừng chi phi đánh sập cầu còn nhiều hơn chi phí xây cầu ấy nhỉ ?"
+    },
+    {
+     "post_id": "44434186",
+     "number": 7,
+     "author": "moingay1nik",
+     "url": "https://voz.vn/p/44434186/",
+     "created_at": "2026-11-22T07:59:14+00:00",
+     "reactions": 1,
+     "text": "chắc báo cáo láo thôi chứ thấy ucr bảo sập cả nhịp mất vài năm cũng ko sửa xong, crimea đã nằm trong tầm tay, ngày duyệt binh mót câu ko còn xa.\nnhiệm vụ quan trọng trước mắt là : ông đi qua bà đi lại cho con xin ít......"
+    },
+    {
+     "post_id": "44434243",
+     "number": 9,
+     "author": "nminhcuong",
+     "url": "https://voz.vn/p/44434243/",
+     "created_at": "2026-11-22T08:06:46+00:00",
+     "reactions": 1,
+     "text": "Quan trọng là trụ cầu nếu còn nguyên thì vận chuyển hàng đúc sẵn lên thôi.\nBị phá liên tục chứ ko phải mỗi chiến dịch tổng lực kia nên chắc các thành phần thay thế đúc sẵn để đó hết rồi.\nCơ mà cái phần chìm ko biết ảnh hưởng tới thông thủy ở dưới ko"
+    },
+    {
+     "post_id": "44435048",
+     "number": 20,
+     "author": "hx70f",
+     "url": "https://voz.vn/p/44435048/",
+     "created_at": "2026-11-22T10:04:53+00:00",
+     "reactions": 1,
+     "text": "Đần đọn tới mức lhoong phân biệt được tổng sản lương hay lượng hàng có thể xuất à.\nThôi tôi từ chối trị liệu anh."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300926",
+   "title": "Hai gói thầu trọng yếu bị hủy, Việt Nam “lật bàn” dự án đường sắt cao tốc Bắc – Nam: Mưu tính tay không bắt giặc bất thành, đâm ra nổi cáu",
+   "url": "https://voz.vn/t/hai-goi-thau-trong-yeu-bi-huy-viet-nam-lat-ban-du-an-duong-sat-cao-toc-bac-nam-muu-tinh-tay-khong-bat-giac-bat-thanh-dam-ra-noi-cau.1300926/",
+   "prefix": "Dịch Dịch",
+   "op_author": "NDMan",
+   "op_created_at": "2026-11-22T09:59:59+00:00",
+   "article_url": "https://timeline.sohu.com/news/XZdyi4Jn0T",
+   "article_source": "timeline.sohu.com",
+   "article_excerpt": "Dự án đường sắt cao tốc Bắc – Nam trị giá 67 tỷ USD của Việt Nam gần đây lại xảy ra chuyện rắc rối mới.\nTrong số 5 gói thầu tư vấn giai đoạn chuẩn bị dự án, hai gói thầu quan trọng nhất đã bị hủy bỏ hoàn toàn, chỉ còn ba gói thầu phụ trợ tiếp tục được triển khai bình thường.\nGiấc mơ xây dựng tuyến đường sắt cao tốc đầu tiên của Việt Nam, vốn đã được theo đuổi hơn chục năm qua, giờ đây có nguy cơ tiếp tục mắc kẹt ngay tại vạch xuất phát.\nTrong hai gói thầu vừa bị hủy, TV-02 giữ vai trò quan trọng bậc nhất. Gói thầu này phụ trách khảo sát, lập báo cáo nghiên cứu khả thi, thiết kế sơ bộ và chuẩn bị hồ sơ mời thầu cho các giai đoạn tiếp theo, với ngân sách lên tới 417 triệu USD.\nTrong khi đó, tổng ngân sách của cả ba gói thầu còn lại đang được triển khai bình thường thậm chí chẳng thấm vào đâu so với gói TV-02.\nĐơn vị tham gia đấu thầu là một liên danh gồm 8 doanh nghiệp. Trong đó, ba đơn vị thiết kế đường sắt Trung Quốc mới thực sự là lực lượng kỹ thuật chủ chốt. Năm doanh nghiệp Việt Nam còn lại, nói thẳng ra, chủ yếu chỉ đóng vai trò hỗ trợ và giúp liên danh đáp ứng các yêu cầu về sự tham gia của doanh nghiệp trong nước.\nLý do mà phía Việt Nam đưa ra để hủy gói thầu là hồ sơ dự thầu không đáp ứng các yêu cầu về “tính hợp lệ”.\nCụ thể, có ba vấn đề.\nThứ nhất, thỏa thuận liên danh có những thiếu sót về tính pháp lý, trong đó hình thức công chứng, chứng thực giấy tờ có yếu tố nước ngoài, cũng như việc ký tên và đóng dấu, chưa đúng quy định.\nThứ hai, thư bảo lãnh dự thầu còn thiếu sót.\nThứ ba, năm doanh nghiệp Việt Nam chưa làm rõ được các mối quan hệ sở hữu cổ phần và những vấn đề có thể dẫn đến xung đột lợi ích.\nNói một cách dễ hiểu, hồ sơ giấy tờ chưa được chuẩn bị đầy đủ.\nTuy nhiên, nếu nhìn rộng ra, điều phi lý của câu chuyện này không nằm ở mấy bộ hồ sơ, mà nằm ở chỗ:\nMột dự án trị giá 67 tỷ USD, vậy mà ngay cả bước tìm người lập báo cáo nghiên cứu khả thi cũng thất bại.\nBáo cáo nghiên cứu khả thi là gì? Đó chính là cơ sở đầu tiên để xác định một tuyến đường sắt cao tốc có thể được xây dựng như thế nào. Thế mà công việc thiết kế còn chưa bắt đầu, những người được kỳ vọng thực hiện nó đã bị gạt ra ngoài.\nCác doanh nghiệp Trung Quốc từng tham gia khảo sát, thiết kế hàng chục tuyến đường sắt cao tốc trên khắp thế giới. Với kinh nghiệm như vậy, họ khó có khả năng mắc những lỗi sơ đẳng về hình thức hồ sơ dự thầu.\nVấn đề thực sự nằm ở các doanh nghiệp Việt Nam.\nNhững doanh nghiệp này vừa không đủ năng lực đảm nhận phần việc kỹ thuật, vừa không đủ khả năng hoàn thành các thủ tục pháp lý. Quan hệ sở hữu cổ phần chằng chịt, lợi ích liên quan không được làm rõ, thậm chí chưa chắc đã xin được thư bảo lãnh ngân hàng đáp ứng yêu cầu. Cuối cùng, họ kéo cả liên danh xuống theo.\nTrong gói thầu TV-02, ba doanh nghiệp Trung Quốc là lực lượng nòng cốt chịu trách nhiệm thực hiện những công việc chuyên môn kỹ thuật.\nNăm doanh nghiệp Việt Nam còn lại không có kinh nghiệm và năng lực chuyên môn đối với các công nghệ cốt lõi, nên về cơ bản chỉ có thể đảm nhận những công việc mang tính hỗ trợ.\nMột khi gói thầu bị hủy, toàn bộ tiến độ dự án lại phải lùi thêm. Kế hoạch khởi công vào cuối năm 2027 rất có thể sẽ đổ bể.\nĐiều đáng chú ý là ba gói thầu còn lại, vốn không thuộc những hạng mục trọng yếu, vẫn đang được triển khai bình thường. Ngân sách của các gói thầu này dao động từ vài chục nghìn đến vài triệu USD, đều do các doanh nghiệp Việt Nam đảm nhận và chẳng gặp vấn đề gì.\nVậy tại sao Việt Nam cứ nhất quyết phải thành lập những liên danh theo kiểu “nước ngoài cung cấp công nghệ, doanh nghiệp trong nước đi nhờ”?\nBản thân Việt Nam hiểu rất rõ rằng, với nền tảng công nghiệp hiện tại, đừng nói đến chuyện xây dựng đường sắt cao tốc, ngay cả công tác khảo sát và thiết kế bài bản cũng chưa chắc đã tự mình thực hiện được.\nThế nhưng, Việt Nam lại không cam tâm chỉ đóng vai trò chủ đầu tư, bỏ tiền ra mua dịch vụ.\nNước này muốn tận dụng dự án để từng bước xây dựng ngành thiết kế đường sắt, năng lực thi công và chuỗi cung ứng công nghiệp trong nước.\nNhững điều kiện Việt Nam đưa ra chẳng khác nào một bản danh sách ước nguyện\n​\nTrong những năm qua, các điều kiện mà Việt Nam đưa ra cho dự án đường sắt cao tốc về cơ bản gồm những yêu cầu sau:\nĐối tác nước ngoài phải ứng trước toàn bộ vốn hoặc gánh phần lớn chi phí đầu tư.\nPhải chuyển giao miễn phí toàn bộ công nghệ cốt lõi, từ hệ thống tín hiệu, công nghệ truyền động và lực kéo cho đến hệ thống điều khiển, quản lý mạng lưới đường sắt.\nPhải thành lập doanh nghiệp liên doanh, xây dựng nhà máy tại Việt Nam và đào tạo nhân lực trong nước.\nQuyền chủ động điều hành và khai thác tuyến đường sắt phải thuộc về phía Việt Nam.\nTrong khi đó, Việt Nam không cung cấp bảo lãnh của Chính phủ đối với các khoản vay và nghĩa vụ tài chính.\nNhững điều kiện này chẳng giống yêu cầu đấu thầu chút nào, mà giống một bản danh sách những điều ước hơn.\nTiền anh bỏ ra, công nghệ anh cung cấp, rủi ro anh gánh chịu, nhưng cuối cùng người vận hành và thu lợi lại là phía Việt Nam.\nSau khi ký hợp đồng, đối tác nước ngoài về cơ bản chẳng khác nào đem tặng Việt Nam cả một tuyến đường sắt cao tốc, rồi được mời ra khỏi buồng lái.\nPhản ứng của Nhật Bản rất dứt khoát.\nNhật Bản đã phát triển hệ thống tàu cao tốc Shinkansen hơn 60 năm. Các công nghệ tín hiệu, truyền động, lực kéo và điều khiển mạng lưới đường sắt đều là những bí quyết được họ gìn giữ cẩn mật.\nKhông bán thì nhất quyết không bán.\nCuối cùng, Nhật Bản chỉ sẵn sàng cung cấp khoảng 10 tỷ USD vốn vay bằng đồng yên để xây dựng các công trình phụ trợ, chứ không muốn đụng đến phần xây dựng chính của dự án. Sau đó, Nhật Bản gần như rút khỏi cuộc chơi.\nPhản ứng của Trung Quốc còn dứt khoát hơn.\nNgay từ đầu đến cuối, Trung Quốc chưa từng nộp hồ sơ chào giá chính thức cho gói thầu xây dựng chính.\nNgay cả khi phía Việt Nam sau đó phát tín hiệu rằng “vấn đề chuyển giao công nghệ vẫn có thể tiếp tục thương lượng”, Trung Quốc cũng không thay đổi thái độ.\nVì sao Trung Quốc không hành động?\nBởi tất cả đều đã nhìn ra bản chất vấn đề: Việt Nam không thực sự tìm kiếm một nhà thầu, mà đang tìm một kẻ khờ sẵn sàng đem toàn bộ vốn liếng và bí quyết công nghệ của mình ra trao cho người khác, rồi tự rút lui.\nĐằng sau cách làm của Việt Nam là một niềm tin hết sức đơn giản: công nghệ đường sắt cao tốc chỉ là một bộ hồ sơ tài liệu. Chỉ cần đưa ra những điều kiện đủ cứng rắn, sớm muộn đối phương cũng phải giao nộp.\nThế nhưng, công nghệ đường sắt cao tốc đâu phải một chiếc USB, muốn sao chép là có thể sao chép được ngay.\nNhật Bản đã mất hơn 60 năm phát triển hệ thống Shinkansen, kể từ khi tuyến đầu tiên đi vào hoạt động cho đến ngày nay.\nTrung Quốc cũng phải trải qua hơn chục năm tiếp nhận, nghiên cứu, làm chủ công nghệ nước ngoài rồi mới có thể tự phát triển hệ thống của riêng mình.\nTừ đường ray, hệ thống cấp điện, tín hiệu cho đến điều độ chạy tàu, mỗi lĩnh vực đều là kết quả của hàng nghìn, hàng vạn lần xử lý sự cố, sửa chữa sai sót và cải tiến công nghệ.\nAnh có thể xây một nhà máy tại Việt Nam để lắp ráp thân tàu, siết bu lông, sơn vỏ tàu.\nNhưng khi trời mưa lớn, hệ thống tín hiệu phải chuyển sang chế độ vận hành dự phòng như thế nào?\nKhi nhiệt độ chênh lệch quá lớn, hệ thống dây điện tiếp xúc trên cao phải duy trì lực căng ra sao?\nKhi đoàn tàu bị chậm giờ, thuật toán điều độ phải tính toán lại toàn bộ biểu đồ chạy tàu như thế nào?\nNhững kinh nghiệm và bí quyết ấy không nằm hết trên bản vẽ, càng không thể đóng gói thành một bộ tài liệu để giao cho người khác.\nNhững điều kiện mà Việt Nam đưa ra chẳng khác nào yêu cầu đối tác nước ngoài nén hàng chục năm tích lũy công nghệ vào một phụ lục hợp đồng.\nNhật Bản không chấp nhận.\nTrung Quốc cũng không chấp nhận.\nDoanh nghiệp Đức chỉ muốn bán thiết bị, chứ không muốn đứng ra gánh trách nhiệm cho toàn bộ dự án.\nDoanh nghiệp Hàn Quốc chỉ muốn góp vốn và tham gia sản xuất linh kiện.\nSau khi đàm phán với bảy quốc gia, cuối cùng vẫn chẳng có ai chịu đứng ra nhận gánh nặng này.\nĐằng sau chuyện “lật bàn”: Không phải đàm phán bất thành, mà là không lừa được ai gánh thay\n​\nThời điểm hủy gói thầu TV-02 cũng rất đáng chú ý.\nTháng 8 năm nay, Việt Nam phát hành hồ sơ mời thầu.\nTháng 9, tiến hành mở thầu.\nĐến ngày 2/10, gói thầu bị hủy với lý do hồ sơ không đáp ứng yêu cầu về “tính hợp lệ”.\nThế nhưng, cùng thời gian đó, ngân sách dành cho gói TV-02 cũng đã bị cắt giảm so với con số được công bố ban đầu.\nĐiều này cho thấy tình hình tài chính của Việt Nam có thể đang căng thẳng hơn nhiều so với những gì nước này thể hiện trên bàn đàm phán.\nDự án đường sắt cao tốc Bắc – Nam trị giá 67 tỷ USD là một con số lớn đến mức nào?\nNó tương đương khoảng 13–15% tổng sản phẩm quốc nội (GDP) của Việt Nam trong năm 2025.\nGDP Việt Nam năm 2025 vào khoảng 514 tỷ USD, trong khi tổng thu ngân sách nhà nước khoảng 102,7 tỷ USD. Như vậy, kinh phí của riêng dự án này đã tương đương hơn 60% tổng thu ngân sách cả năm của Chính phủ Việt Nam.\nTheo tác giả, mức đầu tư hạ tầng được xem là an toàn theo thông lệ quốc tế chỉ vào khoảng 3–5% GDP.\nThế nhưng, Việt Nam lại muốn thực hiện một dự án có tổng mức đầu tư lên đến hơn 10% GDP.\nVingroup, tập đoàn tư nhân lớn nhất Việt Nam, đã rút đề xuất đầu tư vào tháng 12/2025.\nNguyên nhân là phương án mà tập đoàn này đưa ra chỉ yêu cầu doanh nghiệp tự huy động 20% vốn, còn 80% phải được vay từ Ngân hàng Nhà nước với thời hạn 35 năm và lãi suất 0%.\nNgân hàng Nhà nước và Bộ Tài chính đã bác bỏ phương án này, cho rằng như vậy chẳng khác nào Nhà nước phải trợ cấp ngầm cho doanh nghiệp.\nTrong khi đó, lập trường của Chính phủ Việt Nam lại là doanh nghiệp phải tự chịu trách nhiệm về lãi lỗ, Nhà nước không đứng ra gánh thay.\nĐiều đó chẳng khác nào vừa muốn ngựa chạy thật nhanh, vừa không cho ngựa ăn cỏ, lại còn không cho nó bỏ đi.\nVì thế, tình hình cuối cùng trở thành một mớ bế tắc:\nKhông đủ tiền, không có công nghệ, đối tác nước ngoài không chịu làm kẻ khờ gánh rủi ro, còn các doanh nghiệp tư nhân trong nước lại không đủ sức đảm đương.\nVậy phải làm thế nào?\nLật bàn!\nViệc hủy gói thầu TV-02, bề ngoài có vẻ như chỉ là bắt lỗi hồ sơ dự thầu.\nNhưng thực chất, theo tác giả, đó là cách Việt Nam gửi đi một thông điệp: Nếu các anh không chịu làm theo những điều kiện tôi đưa ra, vậy thì dự án này cứ tạm dừng lại đã.\nĐây không còn là một chiến thuật đàm phán, mà là phản ứng bực tức sau khi chiến thuật đàm phán thất bại. Muốn tay không bắt giặc nhưng chẳng bắt được gì, thế là nổi cáu.\nBài học từ đường sắt cao tốc Indonesia: Xây xong và có khách vẫn phải vật lộn với nợ nần\n​\nMột ví dụ đối chiếu thú vị nhất nằm ngay ở nước láng giềng Indonesia.\nTuyến đường sắt cao tốc Jakarta – Bandung dài 142 km là dự án liên doanh giữa Trung Quốc và Indonesia, trong đó hai bên cùng đầu tư và chia sẻ rủi ro.\nTuyến đường sắt này chính thức đi vào hoạt động năm 2023 và lượng hành khách thực tế đã tăng lên.\nTuy nhiên, ngay cả trong trường hợp đó, thời hạn trả nợ vẫn phải kéo dài từ 40 năm lên 80 năm.\nMột tuyến đường sắt cao tốc đã xây dựng thành công, vận hành được và đạt mục tiêu về lượng hành khách mà còn phải cơ cấu lại nợ, thì thử hỏi tuyến đường sắt cao tốc Bắc – Nam của Việt Nam sẽ khó kiếm lợi nhuận đến mức nào?\nĐây là dự án dài 1.541 km, đi qua 20 tỉnh, thành phố, trong khi công tác thu hồi đất và giải phóng mặt bằng vẫn chưa hoàn tất.\nChỉ cần so sánh như vậy cũng đủ hình dung mức độ khó khăn trong việc thu hồi vốn.\nLựa chọn của các doanh nghiệp Trung Quốc là không ứng trước tiền, không tham gia xây dựng những hạng mục chính, không chuyển giao công nghệ cốt lõi.\nHọ chỉ tham gia công tác khảo sát, thiết kế và tư vấn giai đoạn đầu để thu những khoản phí dịch vụ kỹ thuật tương đối chắc chắn.\nToàn bộ rủi ro chủ yếu nằm ở phía Việt Nam.\nNếu dự án thành công, chúng ta thu được tiền thiết kế.\nNếu dự án thất bại, khoản tiền công cho những công việc đã hoàn thành trong giai đoạn chuẩn bị cũng đã nằm trong túi.\nCó thể nói đây là một lựa chọn hết sức tỉnh táo.\nBởi các dự án hạ tầng tại Đông Nam Á có quá nhiều yếu tố bất định.\nHôm nay chính phủ thay đổi, quy định cũng thay đổi theo.\nNgày mai ngân sách căng thẳng, kinh phí dự án bị cắt giảm.\nNgày kia lại xuất hiện thêm yêu cầu chuyển giao công nghệ và nội địa hóa sản xuất.\nNếu thực sự đổ một khoản tiền lớn vào xây dựng, kết cục rất có thể là khó thu hồi vốn, khó bảo vệ quyền lợi khi xảy ra tranh chấp. Cuối cùng, làm lụng vất vả chỉ kiếm được chút lợi nhuận, trong khi lại phải gánh toàn bộ rủi ro.\nTrong những năm qua, chúng ta đã vấp phải không ít khó khăn và tổn thất khi tham gia các dự án đường sắt cao tốc ở nước ngoài.\nVì thế, Trung Quốc từ lâu đã hiểu rõ những rủi ro trong kiểu hợp tác này.\nMong muốn tận dụng một tuyến đường sắt cao tốc để nâng cấp toàn bộ nền công nghiệp của Việt Nam, tự nó không phải là điều đáng chê trách.\nTuy nhiên, muốn nâng cấp công nghiệp thì trước tiên phải tính toán cho rõ ràng các khoản chi phí và lợi ích, đồng thời phải xem đối tác hợp tác là đối tác thực sự, chứ không phải một chiếc máy rút tiền.\nĐiều thực sự khiến dự án đường sắt cao tốc Việt Nam mắc kẹt không phải là những bản vẽ thiết kế, mà là tư duy của chính Việt Nam.\nCứ muốn tay không bắt giặc, không đạt được mục đích thì lại lật bàn.\nNhưng đường sắt cao tốc đâu phải một cái giếng ước, muốn gì cũng có thể được nấy.\nKhi những người làm công tác thiết kế đã bỏ đi,\nthứ còn lại trên bàn chẳng phải là con bài mặc cả nào nữa, mà là một hóa đơn khổng lồ mà chính Việt Nam cũng không đủ sức thanh toán.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 23,
+   "total_reactions": 11,
+   "base_score": 45.0,
+   "hot_score": 10.115,
+   "top_comments": [
+    {
+     "post_id": "44435076",
+     "number": 6,
+     "author": "cuongtmu",
+     "url": "https://voz.vn/p/44435076/",
+     "created_at": "2026-11-22T10:09:16+00:00",
+     "reactions": 2,
+     "text": "Thằng Nhật-Trung cay cú vụ đường sắt Bắc -Nam của mình thì phải, thấy Nhật cũng có bài chửi\nmà Tàu ăn được tuyến Lạng Sơn -Hải Phòng rồi còn đòi thêm à\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "44435029",
+     "number": 2,
+     "author": "talacr7",
+     "url": "https://voz.vn/p/44435029/",
+     "created_at": "2026-11-22T10:02:25+00:00",
+     "reactions": 1,
+     "text": "Tàu cẩu cay lắm. Hahahaha"
+    },
+    {
+     "post_id": "44435044",
+     "number": 3,
+     "author": "Foreveru",
+     "url": "https://voz.vn/p/44435044/",
+     "created_at": "2026-11-22T10:04:37+00:00",
+     "reactions": 1,
+     "text": "thằng tàu này quá láo\nTrư ưng"
+    },
+    {
+     "post_id": "44435107",
+     "number": 9,
+     "author": "BigGuy4U",
+     "url": "https://voz.vn/p/44435107/",
+     "created_at": "2026-11-22T10:12:39+00:00",
+     "reactions": 1,
+     "text": "Nego đ được thì thế thôi, tôi bảo anh ích kỉ anh bảo tôi tham lam\nThằng nào chiếu dưới thì thiệt chứ mâm trên nóa sợ cái đ, và rõ ràng đông lào này đ phải nằm ở mâm trên"
+    },
+    {
+     "post_id": "44435108",
+     "number": 10,
+     "author": "Trada8xyz",
+     "url": "https://voz.vn/p/44435108/",
+     "created_at": "2026-11-22T10:12:45+00:00",
+     "reactions": 1,
+     "text": "Đù,vậy mà đỏ-vàng cứ gào lên bẫy nợ. Moá TQ nó tránh như tránh hủi chứ ham hố gì đâu\nGửi từ\nTrà Đá"
+    },
+    {
+     "post_id": "44435122",
+     "number": 12,
+     "author": "basaf_13",
+     "url": "https://voz.vn/p/44435122/",
+     "created_at": "2026-11-22T10:14:29+00:00",
+     "reactions": 1,
+     "text": "Tàu cẩu không ham hố thì nhảy vào rồi bị VN gài làm quân xanh đi ép giá Hàn và Đức, Pháp làm gì?\nĐã ngu rồi lại còn hèn"
+    },
+    {
+     "post_id": "44435134",
+     "number": 13,
+     "author": "LX700h",
+     "url": "https://voz.vn/p/44435134/",
+     "created_at": "2026-11-22T10:15:28+00:00",
+     "reactions": 1,
+     "text": "Má dịch báo hay thế"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300830",
+   "title": "Ông Zelensky: Ukraine cần văn bản cam kết an ninh kiểu NATO",
+   "url": "https://voz.vn/t/ong-zelensky-ukraine-can-van-ban-cam-ket-an-ninh-kieu-nato.1300830/",
+   "prefix": "",
+   "op_author": "Suachua",
+   "op_created_at": "2026-11-22T05:01:40+00:00",
+   "article_url": "https://vnexpress.net/ong-zelensky-ukraine-can-van-ban-cam-ket-an-ninh-kieu-nato-5147574.html",
+   "article_source": "vnexpress.net",
+   "article_excerpt": "Tổng thống Zelensky tuyên bố muốn thấy những cam kết bằng văn bản về các đảm bảo an ninh kiểu NATO dành cho Ukraine.\n\"Điều 5 quy định về phòng thủ tập thể. Tuy nhiên, Ukraine chưa rõ lực lượng phòng thủ tập thể này gồm những ai, họ sẽ bảo vệ chúng tôi bằng cách nào và liệu có sẵn sàng đẩy lùi bên tấn công hay không\", Tổng thống Ukraine Volodymyr Zelensky nói với phóng viên ngày 21/11.\nPhát biểu được đưa ra vài ngày sau khi đặc phái viên Mỹ Jared Kushner cho biết Tổng thống Donald Trump sẵn sàng cân nhắc cơ chế đảm bảo an ninh cho Ukraine tương tự Điều 5 của NATO. Điều 5 yêu cầu tất cả thành viên NATO lập tức hỗ trợ bất kỳ nước nào trong liên minh bị tấn công. Đây là nền tảng trong cơ chế bảo đảm an ninh của NATO kể từ khi thành lập năm 1949.\nTổng thống Ukraine Volodymyr Zelensky tại cuộc họp báo ở Berlin, Đức ngày 19/11.\n\"Dù hay đến đâu, những cam kết không thể chỉ dừng lại ở lời nói rằng 'tất nhiên, sẽ không ai bỏ rơi các bạn'. Tất cả phải được thể hiện bằng văn bản. Đến nay, tôi vẫn chưa thấy những cam kết như vậy trên giấy tờ\", ông Zelensky cho hay.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 28,
+   "total_reactions": 21,
+   "base_score": 70.0,
+   "hot_score": 9.965,
+   "top_comments": [
+    {
+     "post_id": "44433220",
+     "number": 2,
+     "author": "Tian-Tian",
+     "url": "https://voz.vn/p/44433220/",
+     "created_at": "2026-11-22T05:05:15+00:00",
+     "reactions": 3,
+     "text": "dù thắng hay thua cũng không thấy cửa sáng cho u cà , theo dõi mọi thứ diễn ra thôi"
+    },
+    {
+     "post_id": "44433234",
+     "number": 3,
+     "author": "bài trừ tệ nạn ngú tro",
+     "url": "https://voz.vn/p/44433234/",
+     "created_at": "2026-11-22T05:07:36+00:00",
+     "reactions": 3,
+     "text": "Tóm tắt cho ai lười đọc: lời của chúm tro như chó sủa ngang tai, xúi trẻ con bán nước nhà\nKhông có văn bản có cl bố tin. Nhiệm kỳ 2 ai còn tin mõm trump xứng đáng đi sang cam du học\nĐiểm báo\nÔng Zelensky: Ukraine cần văn bản cam kết an ninh kiểu NATO​\nNgười tạo chủ đề\nSuachua\nNgày bắt đầu\n5 phút trước\nĐến bài mới nhất\nTheo dõi\n[IMG alt=\"Suachua\"]https://data.voz.vn/avatars/m/0/570.jpg?1635939048[/IMG]\nSuachua\n​\nSenior Member​\n5 phút trước\nMới\nThêm dấu trang\n#1"
+    },
+    {
+     "post_id": "44433258",
+     "number": 4,
+     "author": "ynamthien9xx",
+     "url": "https://voz.vn/p/44433258/",
+     "created_at": "2026-11-22T05:10:39+00:00",
+     "reactions": 3,
+     "text": "Chưa rõ lí do tại sao NATO phải đảm bảo an ninh cho UK luôn thật sự đấy.\nCái bọn Mỹ cần là UK đấm Nga nó suy yêú với bán vũ khí thì Mỹ nó làm xong rồi.\nGiờ nó muốn thu lưới chốt lời thì thằng UK kì kèo cái gì thế. Mong chờ EU giúp 1 mình à nói thẳng éo đủ lực đâu."
+    },
+    {
+     "post_id": "44433265",
+     "number": 5,
+     "author": "bài trừ tệ nạn ngú tro",
+     "url": "https://voz.vn/p/44433265/",
+     "created_at": "2026-11-22T05:11:29+00:00",
+     "reactions": 3,
+     "text": "Tất nhiên sẽ khó khăn khổ sở rồi. Sống cạnh hàng xóm rác rưởi côn đồ nó khổ thế đó"
+    },
+    {
+     "post_id": "44433328",
+     "number": 7,
+     "author": "nminhcuong",
+     "url": "https://voz.vn/p/44433328/",
+     "created_at": "2026-11-22T05:20:46+00:00",
+     "reactions": 1,
+     "text": "Mie mấy cái hiệp ước bảo vệ lẫn nhau từ lúc thế giới có ghi chép lịch sử đến h toàn dùng để xé với đâm sau lưng nhau chứ mấy khi hoàn thành đúng ý nghĩa của nó nếu chưa bị động đến lợi ích trực tiếp."
+    },
+    {
+     "post_id": "44433444",
+     "number": 8,
+     "author": "ruomal3",
+     "url": "https://voz.vn/p/44433444/",
+     "created_at": "2026-11-22T05:38:19+00:00",
+     "reactions": 1,
+     "text": "Thì muốn thằng khác bán mạng cho mình thì cũng phải chìa ra cái gì cho nó chứ\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "44433453",
+     "number": 9,
+     "author": "bài trừ tệ nạn ngú tro",
+     "url": "https://voz.vn/p/44433453/",
+     "created_at": "2026-11-22T05:40:40+00:00",
+     "reactions": 1,
+     "text": "Đấm bằng niềm tin à?\nTự lực đấm nhau với thằng to là thằng ngu chứ đéo đáng nể đâu\nMay mà mấy thằng tư duy ngu này chỉ làm culi, chứ làm lãnh đạo thì mất nước trong 1 nốt nhạc"
+    },
+    {
+     "post_id": "44433475",
+     "number": 11,
+     "author": "Ciro Messi",
+     "url": "https://voz.vn/p/44433475/",
+     "created_at": "2026-11-22T05:44:20+00:00",
+     "reactions": 1,
+     "text": "phận tốt thí mà đòi hỏi nhiều thế\ncái bô NATO quá thành công"
+    },
+    {
+     "post_id": "44435034",
+     "number": 26,
+     "author": "Trieuhoang",
+     "url": "https://voz.vn/p/44435034/",
+     "created_at": "2026-11-22T10:02:50+00:00",
+     "reactions": 1,
+     "text": "[\nko chấp nhận được thực tại 1 mình thằng Nga chấp cả đám mafia\nbên X@m cả 1 ổ pro ukraine hoạt động năng suất lắm, chuyên copy nguồn X mặc kệ tính đúng sai để về post bài\nthằng nào trái ý là ngú tro trúmp cho pudog\nchuyên log acc clone nâng bi nhau"
+    },
+    {
+     "post_id": "44435099",
+     "number": 27,
+     "author": "loveapplepie",
+     "url": "https://voz.vn/p/44435099/",
+     "created_at": "2026-11-22T10:11:50+00:00",
+     "reactions": 1,
+     "text": "bot thôi kệ nó đi,\nbot chống Trung thì tôi có danh sách rồi. Bot phò mỹ thì tôi thấy cũng nhiều, đặc trưng là comment chỉ những thread của Mỹ.\nTôi chỉ không biết là bọn bót này phe nào dựng lên, nếu là bên Mẽo thì đáng lẽ bị mấy anh bên cục tóm lâu rồi, cái này hoạt động liên tục và rõ ràng, thậm chí có chiến thuật và khá là chỉn chu. Tôi nghĩ là kiểu False Flag Operation của mấy anh bên cục. Kiểu để câu mấy ông có tư tưởng chống phá.\nNói chung thấy nó ignore cho lành."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300929",
+   "title": "Đường sắt cao tốc Việt Nam đang trên bờ vực sụp đổ : Bắt chước Trung quốc nhưng thất bại thảm hại, Việt Nam không học nổi cách tiếp nhận công nghệ",
+   "url": "https://voz.vn/t/duong-sat-cao-toc-viet-nam-dang-tren-bo-vuc-sup-do-bat-chuoc-trung-quoc-nhung-that-bai-tham-hai-viet-nam-khong-hoc-noi-cach-tiep-nhan-cong-nghe.1300929/",
+   "prefix": "Dịch Dịch",
+   "op_author": "NDMan",
+   "op_created_at": "2026-11-22T10:07:39+00:00",
+   "article_url": "https://cj.sina.com.cn/articles/view/1888089111/7089f4170270141lk",
+   "article_source": "cj.sina.com.cn",
+   "article_excerpt": "Nửa cuối năm 2026, dự án đường sắt cao tốc Việt Nam lại xuất hiện thông tin mới: tuyến đường sắt cao tốc Bắc – Nam, vốn dự kiến khởi công vào cuối năm 2026, đã chính thức bị lùi thời điểm khởi công sang tháng 12/2027. Như vậy, tiến độ dự án tiếp tục bị kéo dài thêm một năm.\nTrong khi đó, hướng tuyến vẫn chưa được xác định dứt khoát, nguồn vốn đầu tư cũng chưa có phương án rõ ràng. Trong số 5 gói thầu tư vấn giai đoạn chuẩn bị dự án, hai gói thầu quan trọng nhất, liên quan đến lập báo cáo nghiên cứu khả thi, thiết kế và đánh giá tác động môi trường, đã lần lượt bị hủy bỏ.\nThế nhưng, Việt Nam lại đi trước một bước bằng cách khởi công xây dựng nhà máy sản xuất ray thép đường sắt cao tốc tại tỉnh Quảng Ngãi, với công suất lên tới 700.000 tấn mỗi năm, tuyên bố sẽ từng bước tự chủ nguồn cung ray thép cho ngành đường sắt cao tốc.\nMột bên là dự án liên tục bị trì hoãn hết năm này sang năm khác, càng triển khai càng có nguy cơ trở thành công trình dang dở. Bên còn lại là việc vội vàng đổ vốn xây dựng nhà máy sản xuất khi nhu cầu thực tế còn chưa chắc chắn.\nCách làm hoàn toàn đảo ngược trình tự này cho thấy Việt Nam đang nóng lòng muốn sao chép mô hình phát triển đường sắt cao tốc của Trung Quốc.\nViệt Nam muốn tái hiện câu chuyện thần kỳ mà Trung Quốc từng đạt được: dùng đường sắt cao tốc để thúc đẩy tăng trưởng kinh tế, từ đó nhanh chóng vươn lên thành một quốc gia công nghiệp.\nThế nhưng, đến lúc này, việc bắt chước ấy lại đang có nguy cơ biến thành một dự án dang dở, khiến Việt Nam rơi vào tình thế tiến thoái lưỡng nan.\nVì sao Việt Nam quyết tâm xây dựng đường sắt cao tốc? Vì cho rằng Trung Quốc làm được thì mình cũng làm được\n​\nTham vọng phát triển đường sắt cao tốc của Việt Nam thực chất xuất phát từ những sức ép của tình hình kinh tế hiện tại.\nTrong những năm gần đây, cùng với xu hướng dịch chuyển chuỗi cung ứng toàn cầu, các tập đoàn như Apple, Samsung, Foxconn và Panasonic liên tục chuyển hoạt động sản xuất sang Việt Nam.\nTổng kim ngạch xuất nhập khẩu của Việt Nam trong năm 2026 được kỳ vọng có thể vượt 1.100 tỷ USD.\nTuy nhiên, những hạn chế về cơ sở hạ tầng ngày càng bộc lộ rõ rệt và đang trở thành trở ngại lớn đối với sự phát triển kinh tế.\nCảng biển thường xuyên ùn tắc, hệ thống đường bộ xuống cấp, còn đường sắt thì vận hành quá chậm.\nTrên tuyến giao thông huyết mạch Bắc – Nam dài hơn 1.500 km, các đoàn tàu hỏa thông thường vẫn phải mất hơn 30 giờ để hoàn thành hành trình.\nHiệu quả vận chuyển hàng hóa thấp đang trở thành gánh nặng kìm hãm sự phát triển của nền kinh tế.\nViệt Nam đã đặt mục tiêu trở thành quốc gia có thu nhập cao vào năm 2040.\nTrong suy nghĩ của giới hoạch định chính sách Việt Nam, đường sắt cao tốc là một trong những biểu tượng tiêu biểu của các quốc gia phát triển.\nTrung Quốc đã dựa vào mạng lưới đường sắt cao tốc để kết nối thị trường rộng lớn trên toàn quốc, đồng thời thúc đẩy các ngành công nghiệp và hoạt động kinh tế phát triển dọc theo những tuyến đường sắt.\nVì thế, Việt Nam cho rằng chỉ cần làm theo mô hình của Trung Quốc thì mình cũng có thể đạt được kết quả tương tự.\nThậm chí, Việt Nam còn cho rằng điều kiện xuất phát của Trung Quốc khi bắt đầu phát triển đường sắt cao tốc khó khăn hơn mình hiện nay.\nVào những năm đầu thập niên 2000, khi Trung Quốc bắt tay xây dựng hệ thống đường sắt cao tốc, nước này chưa có công nghệ hoàn thiện, nguồn lực tài chính của chính phủ cũng không thực sự dồi dào.\nThế nhưng, cuối cùng Trung Quốc vẫn phát triển được mạng lưới đường sắt cao tốc lớn nhất thế giới.\nTrung Quốc đã có thể dựa vào chiến lược “dùng thị trường để đổi lấy công nghệ” nhằm vượt qua những trở ngại kỹ thuật tưởng chừng rất khó giải quyết.\nVậy tại sao Việt Nam lại không thể làm điều tương tự?\nĐằng sau thành công của ngành đường sắt cao tốc Trung Quốc\n​\nViệt Nam hy vọng thu hút các doanh nghiệp nước ngoài tham gia dự án, đồng thời yêu cầu họ chuyển giao công nghệ, đào tạo nhân lực và hỗ trợ các doanh nghiệp trong nước tham gia chuỗi cung ứng ngành đường sắt.\nBằng cách đó, Việt Nam muốn biến một khoản đầu tư hạ tầng khổng lồ thành cơ hội nâng cấp hàng loạt ngành công nghiệp, từ luyện thép, cơ khí, điện tử cho đến chế tạo thiết bị đường sắt.\nThoạt nhìn, phương án này rất giống con đường mà Trung Quốc từng đi qua.\nTrong giai đoạn đầu, các doanh nghiệp Trung Quốc cũng phải tiếp nhận công nghệ nước ngoài, tiến hành lắp ráp và học hỏi kinh nghiệm.\nSau đó, họ từng bước nắm vững công nghệ chế tạo, khả năng tích hợp các hệ thống kỹ thuật và cuối cùng phát triển được năng lực tự nghiên cứu, thiết kế sản phẩm.\nTuy nhiên, điều Việt Nam chưa nhìn nhận đầy đủ là thành công của ngành đường sắt cao tốc Trung Quốc không đơn giản chỉ đến từ việc “nhập khẩu công nghệ rồi đổ tiền xây dựng đường sắt”.\nĐằng sau thành công ấy là sự kết hợp giữa quy mô thị trường khổng lồ, nền tảng công nghiệp đã được tích lũy từ trước và chiến lược phát triển lâu dài.\nĐiểm xuất phát của Trung Quốc khi đó thực chất cao hơn Việt Nam hiện nay rất nhiều.\nTrước khi Trung Quốc triển khai chương trình tiếp nhận công nghệ tàu cao tốc vào năm 2004, nước này đã có những doanh nghiệp sản xuất thiết bị đường sắt lớn như Tập đoàn Đầu máy Toa xe Phương Nam và Tập đoàn Đầu máy Toa xe Phương Bắc.\nCác ngành cơ khí, điện khí, luyện kim và xây dựng đường sắt của Trung Quốc cũng đã tích lũy kinh nghiệm qua nhiều thập niên.\nVì thế, khi công nghệ nước ngoài được đưa vào, Trung Quốc đã có sẵn các doanh nghiệp đủ khả năng tiếp nhận, nghiên cứu và làm chủ công nghệ, sau đó chuyển giao thành quả cho chuỗi cung ứng trong nước.\nMặc dù vào thời điểm đó, độ tin cậy và mức độ thương mại hóa của các sản phẩm Trung Quốc chưa thể sánh với những mẫu tàu đã hoàn thiện ở nước ngoài, nhưng các doanh nghiệp Trung Quốc đã nắm được những nguyên lý kỹ thuật nền tảng của tàu cao tốc.\nĐiều chúng ta còn thiếu không phải là kiến thức về nguyên lý hoạt động, mà là kinh nghiệm triển khai ở quy mô thương mại lớn và khả năng kiểm soát chi phí sản xuất.\nChính trên nền tảng ấy, Trung Quốc mới có thể đưa ra những điều kiện đàm phán đủ sức hấp dẫn các đối tác nước ngoài.\nLợi thế thứ nhất là quy mô thị trường cực lớn.\nVào thời điểm đó, Trung Quốc đã quy hoạch mạng lưới đường sắt cao tốc dài hàng chục nghìn kilômét.\nNhu cầu mua sắm tàu cao tốc trong những năm tiếp theo lên tới hàng trăm, thậm chí hàng nghìn đoàn tàu.\nĐối với bất kỳ nhà sản xuất tàu hỏa nước ngoài nào, đây cũng là một đơn hàng khổng lồ mà họ không muốn đánh mất.\nLợi thế thứ hai là Trung Quốc buộc doanh nghiệp nước ngoài phải hợp tác với doanh nghiệp trong nước và chuyển giao công nghệ.\nTheo quy định khi đó, doanh nghiệp nước ngoài không được phép độc lập tham gia đấu thầu, mà phải thành lập liên danh với doanh nghiệp Trung Quốc, đồng thời chấp nhận chuyển giao những công nghệ liên quan.\nKhi ấy, Siemens của Đức tỏ thái độ kiêu ngạo và đưa ra mức giá trên trời.\nTrung Quốc lập tức chuyển sang ký thỏa thuận với Kawasaki của Nhật Bản và Alstom của Pháp, những doanh nghiệp sẵn sàng chuyển giao công nghệ.\nTheo tác giả, giá cổ phiếu Siemens đã lao dốc ngay sau diễn biến này.\nĐến năm tiếp theo, Siemens phải thay đổi đội ngũ đàm phán và quay lại thị trường Trung Quốc, với mức giá chào bán bị cắt giảm tới một nửa.\nChỉ trong vài năm ngắn ngủi, Trung Quốc đã tiếp nhận, nghiên cứu và từng bước làm chủ ba hệ thống công nghệ đường sắt cao tốc đến từ Đức, Nhật Bản và Pháp.\nSau đó, Trung Quốc kết hợp những công nghệ ấy với kinh nghiệm xây dựng, vận hành trong nước để tiếp tục cải tiến và nâng cấp.\nĐến năm 2017, Trung Quốc cho ra mắt đoàn tàu cao tốc Phục Hưng, được giới thiệu là sản phẩm hoàn toàn do nước này tự nghiên cứu và phát triển.\nNgày nay, Trung Quốc đã hình thành mạng lưới đường sắt cao tốc quốc gia với cấu trúc “tám trục dọc, tám trục ngang”. Tổng chiều dài đường sắt cao tốc đang khai thác đã vượt 50.000 km.\nNói một cách đơn giản, Trung Quốc có thể tiếp nhận công nghệ nước ngoài bởi nước này sở hữu một thị trường với quy mô hàng chục triệu người tại các khu vực trọng điểm và nhu cầu đầu tư cực kỳ lớn.\nTrung Quốc có thể làm chủ những công nghệ tiếp nhận được bởi đã có sẵn nền tảng công nghiệp cùng năng lực nghiên cứu, phát triển.\nTrung Quốc có thể liên tục hạ giá thành sản xuất nhờ lợi thế quy mô của một thị trường thống nhất trên toàn quốc.\nBa điều kiện đó bổ sung cho nhau. Chỉ cần thiếu một trong ba, mô hình phát triển đường sắt cao tốc của Trung Quốc khó có thể thành công.\nViệt Nam muốn sao chép mô hình Trung Quốc, nhưng lại không có điều kiện cốt lõi nào\n​\nVấn đề của Việt Nam là cả ba điều kiện nói trên đều chưa đáp ứng được.\nTrước hết, quy mô thị trường quá nhỏ khiến Việt Nam không có đủ sức mặc cả để yêu cầu chuyển giao công nghệ.\nTuyến đường sắt cao tốc Bắc – Nam của Việt Nam chỉ dài 1.545 km.\nNhu cầu mua sắm tàu cao tốc trong giai đoạn đầu, dù tính ở mức cao nhất, cũng chỉ khoảng 50–80 đoàn tàu.\nQuy mô này thậm chí còn thấp hơn nhu cầu của một tỉnh Trung Quốc.\nĐối với các doanh nghiệp đường sắt Nhật Bản và châu Âu, lượng đơn hàng như vậy chỉ được xem là một thương vụ tương đối nhỏ.\nHọ hoàn toàn có thể kiếm lợi nhuận bằng cách bán thiết bị và đoàn tàu có sẵn, chẳng có lý do gì phải giao cả công nghệ cốt lõi cho Việt Nam.\nViệt Nam cũng muốn học theo Trung Quốc bằng cách yêu cầu thành lập liên doanh và chuyển giao công nghệ.\nNhưng các doanh nghiệp nước ngoài lại không chấp nhận cách làm này.\nCông nghệ đường sắt cao tốc là tài sản công nghiệp mà mỗi quốc gia phải mất hàng chục năm nghiên cứu, phát triển mới có thể tích lũy được.\nĐối tác nước ngoài có thể cung cấp thiết bị, tổ chức lắp ráp ngay tại Việt Nam và đào tạo nhân lực.\nTuy nhiên, các công nghệ thiết kế nền tảng, mã nguồn phần mềm điều khiển và những quy trình chế tạo then chốt sẽ không dễ dàng được chuyển giao toàn bộ.\nĐây chính là trở ngại mà Việt Nam liên tục gặp phải trong quá trình đàm phán.\nĐường sắt cao tốc không phải chỉ là một đoàn tàu chạy nhanh, mà là cả một hệ thống công nghiệp phức tạp.\nHệ thống ấy bao gồm ray thép liền mạch có độ bền cao, các cảm biến tín hiệu chính xác, động cơ điện kéo tàu, bộ bánh xe và giá chuyển hướng, cùng hệ thống cấp điện bằng dây tiếp xúc trên cao.\nMỗi bộ phận đều gắn với một chuỗi công nghiệp riêng biệt.\nViệt Nam hiện thậm chí chưa thể tự sản xuất những vòng bi đạt tiêu chuẩn dùng cho tàu cao tốc.\nCác loại cảm biến chính xác và hệ thống điều khiển điện tử cũng hoàn toàn phụ thuộc vào hàng nhập khẩu.\nVì vậy, ngay cả khi đối tác nước ngoài giao toàn bộ bản vẽ thiết kế, Việt Nam cũng khó tìm được những nhà máy trong nước đủ khả năng sản xuất các linh kiện tương ứng.\nCuối cùng, Việt Nam vẫn phải nhập khẩu linh kiện rời từ nước ngoài để đưa về lắp ráp.\nVề bản chất, đó vẫn chỉ là mô hình nhà máy lắp ráp, chẳng qua được khoác lên một lớp vỏ mới.\nKhó khăn cuối cùng là khoảng thiếu hụt vốn đầu tư quá lớn.\nTổng kinh phí dự kiến cho tuyến đường sắt cao tốc này lên tới khoảng 70 tỷ USD, tương đương gần 15% GDP của Việt Nam.\nTheo lập luận của tác giả, nếu chỉ dựa vào nguồn ngân sách công hằng năm, Việt Nam có tích góp suốt 30 năm cũng khó huy động đủ số tiền ấy.\nViệt Nam muốn vay tiền nước ngoài nhưng lại không muốn bị phụ thuộc vào bên cho vay.\nViệt Nam muốn Trung Quốc cung cấp vốn và công nghệ, nhưng đồng thời vẫn luôn cảnh giác với Trung Quốc, lo ngại sẽ bị ràng buộc vào các tiêu chuẩn kỹ thuật và chuỗi cung ứng do Trung Quốc kiểm soát.\nThỉnh thoảng, Việt Nam còn phải tìm cách lấy lòng Mỹ để chứng tỏ lập trường, liên tục thực hiện chính sách cân bằng giữa các cường quốc.\nViệt Nam vừa muốn tận dụng năng lực xây dựng hạ tầng và nguồn vốn của Trung Quốc, vừa không muốn phải trả cái giá của sự phụ thuộc.\nViệt Nam cũng muốn tiếp nhận công nghệ Nhật Bản và châu Âu, nhưng lại không sẵn lòng bỏ ra mức giá cao.\nKết quả của những cuộc giằng co qua lại ấy là dự án liên tục bị đẩy lùi hết năm này sang năm khác.\nThời điểm khởi công hết lần này đến lần khác bị trì hoãn.\nCho đến hiện tại, ngay cả một phương án huy động vốn hoàn chỉnh cũng vẫn chưa được xác định.\nĐường sắt cao tốc chưa khởi công, Việt Nam đã vội đổ tiền xây nhà máy\n​\nĐiều thể hiện rõ hơn cả sự thiếu nhất quán trong cách tính toán của Việt Nam chính là việc vội vàng triển khai nhà máy sản xuất ray thép công suất 700.000 tấn mỗi năm.\nTheo quy luật phát triển công nghiệp thông thường,\nnhu cầu phải đi trước, năng lực sản xuất mới theo sau.\nTrước hết, phải có quy hoạch mạng lưới đường sắt rõ ràng cùng các đơn hàng xây dựng đã được xác định.\nSau đó mới đầu tư xây dựng những nhà máy luyện thép và sản xuất ray tương ứng.\nKhi đó, năng lực sản xuất sẽ được mở rộng theo nhu cầu thực tế, tránh gây lãng phí nguồn lực.\nNgành sản xuất ray thép đường sắt cao tốc của Trung Quốc cũng đã phát triển theo con đường này.\nTừ quá trình tiếp nhận công nghệ nước ngoài cho đến khi hoàn toàn tự chủ sản xuất trong nước, ngành công nghiệp này từng bước lớn mạnh nhờ nhu cầu xây dựng mạng lưới đường sắt dài hàng chục nghìn kilômét.\nMỗi giai đoạn phát triển đều có đơn hàng thực tế làm chỗ dựa.\nNhưng Việt Nam lại làm hoàn toàn ngược lại.\nChưa biết tuyến đường sắt cao tốc có thực sự được xây dựng hay không, cũng chưa xác định được khi nào sẽ khởi công, Việt Nam đã vội đầu tư xây dựng nhà máy sản xuất ray thép đường sắt cao tốc công suất 700.000 tấn mỗi năm.\nGiả sử mỗi năm việc xây dựng một tuyến đường sắt cao tốc tiêu thụ khoảng 100.000 tấn ray thép, thì sau khi hoàn thành toàn bộ tuyến Bắc – Nam, nhu cầu trong nước cũng chỉ đủ duy trì hoạt động của nhà máy trong vài năm.\nPhần công suất còn lại buộc phải trông chờ vào thị trường xuất khẩu.\nThế nhưng, thị trường ray thép cao cấp trên thế giới từ lâu đã nằm trong tay các doanh nghiệp Trung Quốc, Nhật Bản và châu Âu.\nMột dây chuyền sản xuất mới của Việt Nam vừa thiếu kinh nghiệm tích lũy về công nghệ, vừa chưa có lợi thế về chi phí, lại chưa xây dựng được uy tín cung ứng trên thị trường.\nVới những điều kiện như vậy, việc giành được đơn hàng xuất khẩu là vô cùng khó khăn.\nNói thẳng ra, đây chính là một ví dụ điển hình của việc\nphát triển công nghiệp ngược quy trình\n.\nViệt Nam cho rằng chỉ cần xây nhà máy trước thì có thể tạo sức ép buộc các ngành công nghiệp khác phát triển theo.\nNhưng nước này lại bỏ qua một điều: nếu không có nhu cầu thực tế làm nền tảng, những khoản đầu tư lớn vào nhà xưởng và máy móc rất dễ trở thành tài sản nằm không, cuối cùng chỉ mang lại thua lỗ.\nĐường sắt cao tốc là phép thử năng lực của một quốc gia công nghiệp, không thể thành công chỉ bằng cách bắt chước\n​\nNhiều người vẫn thường cho rằng xây dựng đường sắt cao tốc chẳng qua chỉ là làm đường ray rồi mua tàu về chạy.\nChỉ cần có tiền là có thể thực hiện được.\nThế nhưng, thực tế hoàn toàn không đơn giản như vậy.\nĐường sắt cao tốc chính là hình ảnh thu nhỏ của toàn bộ hệ thống công nghiệp một quốc gia.\nNó đòi hỏi một thị trường thống nhất đủ lớn để phân bổ chi phí đầu tư.\nNó cần một nền công nghiệp hoàn chỉnh để tiếp nhận và làm chủ công nghệ.\nNó cần những kế hoạch phát triển dài hạn, ổn định để duy trì đầu tư liên tục.\nĐồng thời, nó đòi hỏi năng lực xây dựng cơ sở hạ tầng đủ mạnh để biến những bản quy hoạch thành công trình thực tế.\nTất cả những điều kiện ấy đều là thành quả mà Trung Quốc phải mất hàng chục năm mới tích lũy được.\nĐó không phải những thứ có thể dễ dàng học được bằng cách sao chép mô hình của nước khác hay thực hiện chính sách cân bằng giữa các cường quốc.\nViệt Nam luôn cho rằng Trung Quốc làm được thì mình cũng có thể làm được.\nNhưng Việt Nam đã quên rằng khi Trung Quốc bắt đầu phát triển đường sắt cao tốc, nước này đã có mạng lưới dài hàng chục nghìn kilômét trong quy hoạch để làm lợi thế đàm phán.\nTrung Quốc cũng đã có nền tảng công nghiệp tương đối hoàn chỉnh làm chỗ dựa.\nHơn nữa, Trung Quốc còn có khả năng huy động nguồn lực và tổ chức thực hiện trên phạm vi toàn quốc để bảo đảm các kế hoạch được triển khai.\nTrong khi đó, Việt Nam hiện chỉ có một tuyến đường sắt dài hơn 1.000 km, một nền tảng công nghiệp còn yếu và chính sách đối ngoại thường xuyên phải điều chỉnh để cân bằng quan hệ giữa các nước lớn.\nVới những điều kiện như vậy, Việt Nam lấy gì để tái hiện thành công của Trung Quốc?\nSao chép mô hình đường sắt cao tốc của Trung Quốc, mơ tưởng rằng chỉ cần tiếp nhận công nghệ nước ngoài là có thể nhanh chóng trở thành cường quốc công nghiệp thì rất dễ. Nhưng biến giấc mơ ấy thành hiện thực lại vô cùng khó khăn.\nViệc lùi thời điểm khởi công có lẽ mới chỉ là bước khởi đầu.\nNếu Việt Nam không thay đổi cách tư duy và những tính toán nền tảng, dự án đường sắt cao tốc Bắc – Nam rất có thể sẽ tiếp tục bị trì hoãn.\nTừ một kế hoạch phát triển trong 5 năm, dự án có nguy cơ biến thành lời hứa kéo dài suốt 20 năm.\nVà cuối cùng, nó có thể trở thành một giấc mơ quốc gia nữa: được nói đến rất nhiều, được vẽ ra vô cùng hoành tráng, nhưng mãi mãi không thể chạm tới.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 26,
+   "total_reactions": 8,
+   "base_score": 42.0,
+   "hot_score": 9.579,
+   "top_comments": [
+    {
+     "post_id": "44435130",
+     "number": 7,
+     "author": "BigGuy4U",
+     "url": "https://voz.vn/p/44435130/",
+     "created_at": "2026-11-22T10:14:59+00:00",
+     "reactions": 2,
+     "text": "Rồi cũng phải muối mặt nhờ Tàu hoặc bọn Nhật thôi\nĐ có công nghệ lõi trả treo được với ai"
+    },
+    {
+     "post_id": "44435116",
+     "number": 5,
+     "author": "basaf_13",
+     "url": "https://voz.vn/p/44435116/",
+     "created_at": "2026-11-22T10:13:48+00:00",
+     "reactions": 1,
+     "text": "Chứ không phải bị VN gài kèo làm quân xanh nên cáu à?\nĐang thèm chảy rãi ra mà bị VN chơi cho 1 cú nên cẩu điên vì tức mẹ nó ròy"
+    },
+    {
+     "post_id": "44435137",
+     "number": 9,
+     "author": "Karina (aespa)",
+     "url": "https://voz.vn/p/44435137/",
+     "created_at": "2026-11-22T10:15:50+00:00",
+     "reactions": 1,
+     "text": "chờ thời gian trả lời thôi, nó cũng rành địa chính trị ở đông lào quá mà"
+    },
+    {
+     "post_id": "44435145",
+     "number": 11,
+     "author": "SVYanTi",
+     "url": "https://voz.vn/p/44435145/",
+     "created_at": "2026-11-22T10:16:18+00:00",
+     "reactions": 1,
+     "text": "đọc bài viết nó nói có gì sai đâu, chỉ là các IQ cao nhà mình cố tình không hiểu vấn đề thôi"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300908",
+   "title": "Huế muốn giao phường, xã quản lý bữa ăn bán trú ở trường học, thay vì hiệu trưởng",
+   "url": "https://voz.vn/t/hue-muon-giao-phuong-xa-quan-ly-bua-an-ban-tru-o-truong-hoc-thay-vi-hieu-truong.1300908/",
+   "prefix": "",
+   "op_author": "manoao",
+   "op_created_at": "2026-11-22T09:24:11+00:00",
+   "article_url": "https://tuoitre.vn/hue-muon-giao-phuong-xa-quan-ly-bua-an-ban-tru-o-truong-hoc-thay-vi-hieu-truong-100261122133831459.htm",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "UBND TP Huế đang nghiên cứu phương án giao chính quyền phường, xã chịu trách nhiệm kiểm soát việc cung cấp bữa ăn bán trú tại các trường học, thay vì để hiệu trưởng trực tiếp phụ trách như hiện nay.\nÔng Hoàng Việt Cường - Chánh Văn phòng UBND TP Huế - cho biết TP đang nghiên cứu phương án giao cho các phường xã chịu trách nhiệm về việc cung cấp bữa ăn bán trú - Ảnh: NHẬT LINH\nNgày 22-11, UBND TP Huế cho biết Thường trực và Ban Thường vụ Thành ủy Huế đã chỉ đạo UBND thành phố về việc nghiên cứu phương án tổ chức cung cấp bữa ăn bán trú tại các trường học trên địa bàn.\nÔng Hoàng Việt Cường - Chánh Văn phòng UBND TP Huế - cho biết định hướng được đặt ra là giao chính quyền phường, xã đứng ra kiểm soát việc cung cấp bữa ăn bán trú cho các trường học thuộc địa bàn quản lý.\nĐịnh hướng này nhằm để chính quyền các phường, xã chịu trách nhiệm trong việc cung cấp bữa ăn bán trú, còn thầy cô sẽ tập trung vào chuyên môn dạy học.\nĐộng thái này được đưa ra trong bối cảnh Công an TP Huế vừa khởi tố vụ án, khởi tố bị can và bắt tạm giam hai hiệu trưởng trường tiểu học để điều tra hành vi nhận hối lộ liên quan đến việc cung cấp bữa ăn bán trú.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 21,
+   "total_reactions": 11,
+   "base_score": 43.0,
+   "hot_score": 9.003,
+   "top_comments": [
+    {
+     "post_id": "44434842",
+     "number": 4,
+     "author": "Cửu Long Lung Linh Khí",
+     "url": "https://voz.vn/p/44434842/",
+     "created_at": "2026-11-22T09:36:31+00:00",
+     "reactions": 2,
+     "text": "Khác nhau chứ , xưa chỉ có mình hiệu trưởng ăn thì nhà cung cấp A trích 5% chẳng hạn, nay phường xã quản lý thì phải trích 10-15% để gửi cả ban bệ phường xã, cuối cùng chỉ có các cháu là chả biết hốc cái gì vào mồm"
+    },
+    {
+     "post_id": "44434952",
+     "number": 10,
+     "author": "pav.95",
+     "url": "https://voz.vn/p/44434952/",
+     "created_at": "2026-11-22T09:50:12+00:00",
+     "reactions": 2,
+     "text": "Cũng ko cần phải nói nhiều quá. Tôi chỉ cần hỏi 1 câu là việc này có gì khó ko mà phải bàn nhiều thế\nvia\ntheNEXTvoz\nfor iPhone"
+    },
+    {
+     "post_id": "44434940",
+     "number": 9,
+     "author": "CrazyFoxz",
+     "url": "https://voz.vn/p/44434940/",
+     "created_at": "2026-11-22T09:49:00+00:00",
+     "reactions": 1,
+     "text": "hế is in the spotlight\ntừ đây tới cuối năm còn gì bung ra cho tụi tui hít hà luôn đi"
+    },
+    {
+     "post_id": "44434981",
+     "number": 12,
+     "author": "KamiTori 0.2",
+     "url": "https://voz.vn/p/44434981/",
+     "created_at": "2026-11-22T09:54:08+00:00",
+     "reactions": 1,
+     "text": "giao về siêu bộ quản lý thôi"
+    },
+    {
+     "post_id": "44435002",
+     "number": 13,
+     "author": "Ưng_Khuyển",
+     "url": "https://voz.vn/p/44435002/",
+     "created_at": "2026-11-22T09:57:35+00:00",
+     "reactions": 1,
+     "text": "rất đồng tình, nếu do siêu bộ quản lý thì ko bao giờ có chuyện tiêu cực"
+    },
+    {
+     "post_id": "44435166",
+     "number": 16,
+     "author": "Agent Orange",
+     "url": "https://voz.vn/p/44435166/",
+     "created_at": "2026-11-22T10:19:14+00:00",
+     "reactions": 1,
+     "text": "Khi có tiêu cực thì chửi hiệu trưởng được, chứ nếu chửi phường xã là ốp. Thôi rip phụ huynh và các cháu."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300712",
+   "title": "TikToker 33 triệu follow tặng iPhone cho người qua đường ở TP.HCM",
+   "url": "https://voz.vn/t/tiktoker-33-trieu-follow-tang-iphone-cho-nguoi-qua-duong-o-tp-hcm.1300712/",
+   "prefix": "",
+   "op_author": "blackmore30",
+   "op_created_at": "2026-11-21T12:43:45+00:00",
+   "article_url": "https://znews.vn/tiktoker-33-trieu-follow-tang-iphone-cho-nguoi-qua-duong-o-tphcm-post1698063.html",
+   "article_source": "znews.vn",
+   "article_excerpt": "Nhiều người xác nhận được TikToker Win William tặng iPhone, iPad khi đi trên đường tại TP.HCM.\n​\nD.K. nhận được iPhone Duo từ Win William. Ảnh:\nNhân vật cung cấp.\nKhoảng 16h ngày 20/11, khi đang đi dạo cùng bạn gần vòng xoay Nguyễn Tri Phương (TP.HCM), D.K. nhìn thấy người đàn ông mặc đồ đen có gương mặt giống một TikToker mình thường theo dõi. Anh nhờ bạn mở ứng dụng để kiểm tra và xác nhận đó là Win William - TikToker người Lào có 33 triệu lượt theo dõi, nổi tiếng với biệt danh \"ông hoàng livestream\".\nD.K. nhanh chóng tiến đến xin chụp ảnh cùng. Sau khi hỏi D.K. có theo dõi mình trên TikTok hay không và nhận được câu trả lời có, Win William bất ngờ tặng anh một chiếc iPhone Duo.\n\"Cầm trên tay món quà giá trị, tôi nói với Win William rằng mình rất run và hồi hộp. Lúc gặp ngoài đời, anh ấy trông rất đẹp trai\", D.K. kể lại với\nTri Thức - Znews.\nTheo D.K., thời điểm đó, Win William đi cùng một người quay phim và một nữ thông dịch viên. Tương tự D.K., một số người cũng xác nhận được nam TikToker tặng những món quà công nghệ giá trị.\nCũng trong chiều 20/11, anh Thanh Lâm, đại diện một quán bia trên đường Nguyễn Tri Phương (phường An Đông), nhận được tin nhân viên của mình được Win William tặng iPad.\n\"Món quà đến hoàn toàn ngẫu nhiên, không có sự sắp xếp từ trước. Lúc đó tôi không có ở quán, nhân viên được tặng quà rất vui\", anh kể lại.\nMột trường hợp khác là chị Như Ý, người nhận được một chiếc iPad khi tình cờ gặp Win William gần cổng chợ Hồ Thị Kỷ (phường Vườn Lài). Chị cho hay khi nhận ra nam TikToker thường xem trên mạng xã hội, chị dẫn con nhỏ đến gần xin chụp ảnh. Chị không nghĩ mình được tặng quà.\n\"Tôi thấy anh ấy ở ngoài đời nên rất bất ngờ. Lúc đó anh nói tiếng Anh, tôi không hiểu hết, chỉ thấy rất vui vì được gặp thần tượng\", chị Ý chia sẻ.\n​\nNhân viên quán anh Lâm nhận được một chiếc iPad. Ảnh:\nNhân vật cung cấp.\nHành trình tặng iPhone, iPad của Win William tại Việt Nam được nhiều người dân ghi lại và chia sẻ trên mạng xã hội, thu hút sự chú ý.\nNgày 21/11, đại diện một chuỗi cửa hàng công nghệ xác nhận với\nTri Thức - Znews\nrằng Win William đến một chi nhánh ở TP.HCM mua số lượng lớn iPhone, iPad vào chiều 20/11.\n\"Khách hàng này thanh toán bằng tiền cá nhân, không phải hoạt động hợp tác quảng cáo\", đại diện đơn vị thông tin.\nTrước đó, ngày 20/11, Win William chia sẻ hình ảnh mình có mặt tại Việt Nam. Anh đăng tải nhiều video ghi lại những hoạt động tặng quà, hoa hồng cho nhiều người dân ở TP.HCM. Anh đồng thời chia sẻ tình cảm dành cho Việt Nam, nơi luôn có vị trí đặc biệt trong trái tim mình.\nWin William là doanh nhân thương mại điện tử và nhà bán hàng livestream nổi tiếng người Lào, hoạt động chủ yếu tại Thái Lan. Anh được biết đến qua những phiên livestream TikTok Shop quy mô lớn, kết hợp bán hàng với các nội dung giải trí, tặng quà và chương trình tương tác với người xem.\nTheo\nKhaosad\n, tên tuổi của Win William gắn với những phiên phát sóng kéo dài, trong đó anh thường tổ chức các hoạt động tặng tiền, vàng và nhiều phần quà có giá trị cho người xem. Khả năng thu hút lượng lớn khán giả và tạo doanh số cao giúp anh được truyền thông Thái Lan gọi là \"ông hoàng livestream\".\nNgoài ra, Win William còn được biết đến là người góp phần tạo nên sức lan tỏa cho nhiều trào lưu trên mạng xã hội, trong đó có \"iPhone Kupi\", thu hút hàng triệu lượt xem video. Bên cạnh hoạt động kinh doanh, TikToker này còn xây dựng hình ảnh gắn với các chương trình hỗ trợ cộng đồng.",
+   "status": "ok",
+   "pages_scanned": 2,
+   "replies": 38,
+   "total_reactions": 24,
+   "base_score": 86.0,
+   "hot_score": 6.026,
+   "top_comments": [
+    {
+     "post_id": "44429108",
+     "number": 3,
+     "author": "blue_heart",
+     "url": "https://voz.vn/p/44429108/",
+     "created_at": "2026-11-21T12:51:55+00:00",
+     "reactions": 3,
+     "text": "Rác"
+    },
+    {
+     "post_id": "44429170",
+     "number": 6,
+     "author": "Cho'",
+     "url": "https://voz.vn/p/44429170/",
+     "created_at": "2026-11-21T13:02:06+00:00",
+     "reactions": 3,
+     "text": "Bữa có thằng củ lìn nào nước ngoài qua VN tặng xong lấy lại bị camera quay được mà"
+    },
+    {
+     "post_id": "44429208",
+     "number": 8,
+     "author": "Ma Bư Mập",
+     "url": "https://voz.vn/p/44429208/",
+     "created_at": "2026-11-21T13:06:29+00:00",
+     "reactions": 3,
+     "text": "Thằng này tặng thiệt đó. Có ng xác nhận trên toptop đó."
+    },
+    {
+     "post_id": "44434436",
+     "number": 21,
+     "author": "Ma Bư Mập",
+     "url": "https://voz.vn/p/44434436/",
+     "created_at": "2026-11-22T08:32:05+00:00",
+     "reactions": 3,
+     "text": "Với những ng xe ôm, vé số thì 1 slot gặp thằng này = 5 6 tháng làm. Nhục hay k đéo cần biết, cứ no bụng đã rồi tính. Còn thằng nào xạo lờ chê card thì tự nó biết thôi"
+    },
+    {
+     "post_id": "44434229",
+     "number": 14,
+     "author": "Tsar Bomba",
+     "url": "https://voz.vn/p/44434229/",
+     "created_at": "2026-11-22T08:05:26+00:00",
+     "reactions": 2,
+     "text": "Rác cái loằn. Nó tặng real đấy.\nCon bạn tôi đi chơi hôm đó thấy nó tặng đứa k quen thật"
+    },
+    {
+     "post_id": "44434265",
+     "number": 15,
+     "author": "Ma Bư Mập",
+     "url": "https://voz.vn/p/44434265/",
+     "created_at": "2026-11-22T08:10:21+00:00",
+     "reactions": 2,
+     "text": "1 slot từ 20 - 100tr thì anh có xếp hàng k ? Đang có nhiều ng đi tìm thằng này xin đồ lắm đó\n. Vozer phát card có 100 200 còn ào ào nữa là 200 100tr"
+    },
+    {
+     "post_id": "44429106",
+     "number": 2,
+     "author": "AnkCern",
+     "url": "https://voz.vn/p/44429106/",
+     "created_at": "2026-11-21T12:51:25+00:00",
+     "reactions": 1,
+     "text": "Đã ignore."
+    },
+    {
+     "post_id": "44429125",
+     "number": 5,
+     "author": "i5-4210u",
+     "url": "https://voz.vn/p/44429125/",
+     "created_at": "2026-11-21T12:54:26+00:00",
+     "reactions": 1,
+     "text": "Người đâu vừa đẹp zai vừa tốt bụng thế này"
+    },
+    {
+     "post_id": "44434155",
+     "number": 11,
+     "author": "Thiểm Tây 1949",
+     "url": "https://voz.vn/p/44434155/",
+     "created_at": "2026-11-22T07:53:11+00:00",
+     "reactions": 1,
+     "text": "thằng này tặng thiệt éo phải mõm như bọn tiktoker phương tây\ncon bé gần nhà t thằng này tặng cái iphone dou\ncon bé gần nhà f làm phục vụ nhà hàng thằng này vô ăn, nó hỏi có flow nó k, đưa đt nó kiểm tra, đúng nó tặng"
+    },
+    {
+     "post_id": "44434218",
+     "number": 13,
+     "author": "Yeu Thuy Sinh",
+     "url": "https://voz.vn/p/44434218/",
+     "created_at": "2026-11-22T08:03:11+00:00",
+     "reactions": 1,
+     "text": "Dm nhìn như bọn chết đói ấy, ghê vl"
+    },
+    {
+     "post_id": "44434525",
+     "number": 26,
+     "author": "Vua Nằm Thẳng",
+     "url": "https://voz.vn/p/44434525/",
+     "created_at": "2026-11-22T08:43:52+00:00",
+     "reactions": 1,
+     "text": "Bác thấy nhỏ thì bank tui 1 con được không\n, mãi yêu bác"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1298741",
+   "title": "'Bật mí' tiền công của lao động phổ thông dịp những tháng cuối năm",
+   "url": "https://voz.vn/t/bat-mi-tien-cong-cua-lao-dong-pho-thong-dip-nhung-thang-cuoi-nam.1298741/",
+   "prefix": "",
+   "op_author": "polypop",
+   "op_created_at": "2026-11-15T15:53:55+00:00",
+   "article_url": "https://thanhnien.vn/bat-mi-tien-cong-cua-lao-dong-pho-thong-dip-nhung-thang-cuoi-nam-185261113172027405.htm",
+   "article_source": "thanhnien.vn",
+   "article_excerpt": "Có người nhận 500.000 - 700.000 đồng cho một ngày làm việc. Những tháng cuối năm, lao động phổ thông ở TP.HCM tranh thủ từng công trình, chắt chiu tiền công với mong muốn có một cái tết đủ đầy hơn khi trở về quê.\nMột ngày công từ 500.000 - 700.000 đồng​\nNhững tháng cuối năm, nhu cầu trang trí, sửa sang nhà cửa và hoàn thiện công trình tăng lên, tạo thêm việc làm cho nhiều lao động phổ thông.\n7 giờ sáng, nhóm thợ đã có mặt tại một căn nhà trên đường Hoa Cúc (P.Cầu Kiệu, TP.HCM; trước là P.7, Q.Phú Nhuận). Người chuẩn bị dây điện, người kiểm tra dụng cụ, người bắt đầu leo lên mái hiên lắp đặt hệ thống đèn trang trí. Công việc diễn ra liên tục, người trên cao cố định các chi tiết, người bên dưới chuyền vật liệu và hỗ trợ.\nTrên đường Võ Văn Ngân (P.Thủ Đức, TP.HCM; trước là P.Bình Thọ, TP.Thủ Đức), hai người thợ đứng trên giàn giáo lắp đặt bảng hiệu. Một người giữ và căn chỉnh tấm bảng, người còn lại hỗ trợ cố định các vị trí. Phía dưới, khung sắt, thanh giằng và dụng cụ thi công được tập kết phục vụ công việc.\nNhững hình ảnh này cũng xuất hiện ở nhiều nơi khác tại TP.HCM. Sẽ không khó để nhận ra nhịp lao động tất bật của những lao động phổ thông trong thời điểm đã bước sang những tháng cuối năm.\nMưu sinh trong những tháng cuối năm",
+   "status": "ok",
+   "pages_scanned": 5,
+   "replies": 86,
+   "total_reactions": 102,
+   "base_score": 290.0,
+   "hot_score": 4.796,
+   "top_comments": [
+    {
+     "post_id": "44364818",
+     "number": 2,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44364818/",
+     "created_at": "2026-11-15T16:17:13+00:00",
+     "reactions": 3,
+     "text": "trên mấy nhóm việc thời vụ nhiều lừa đảo đa cấp lắm. Mà vẫn có nhiều ng bị lừa,\nviệc nào mà làm chân tay nhưng đơn giản, thế mà lương gần chục củ thì auto lừa đảo, đa cấp.\nhoặc thuê 1 kệ trong emart nên tuyển nhân viên trông kệ và đứng bán, rồi mua sp cty để hiểu rõ sp thì mới tư vấn cho khách, auto lừa đảo.\nbắt nhân viên phải nộp phí tuyển dụng, phí nộp hồ sơ, auto lừa đảo.\nđăng tin tuyển nhưng để ẩn danh, fb này đăng tin, nhưng add số zalo liên hệ lại là tên khác, auto đa cấp.\nCàng cuối năm càng nhiều tuyển dụng lừa đảo."
+    },
+    {
+     "post_id": "44364993",
+     "number": 3,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44364993/",
+     "created_at": "2026-11-15T17:04:43+00:00",
+     "reactions": 3,
+     "text": "Nghĩ mãi mà ko hiểu\ntâm lý bọn lừa đảo\nsao có thể lừa đảo ng khác như vậy?\nNhững ng tìm việc thời vụ này đa số toàn kinh tế eo hẹp, hoàn cảnh khó khăn hoặc ko xin đc việc cố định, hoặc bọn sinh viên vừa học vừa tìm việc parttime trang trải cs... sao chúng nó vẫn lừa những con ng đã bần cùng như vậy nhỉ?\nthậm chí khi ng tìm việc ko có tiền mua sp để dùng thử, thì bọn đa cấp đã chuyển bị sẵn dịch vụ vay bank để lấy tiền mua sp, như vậy đã ép ng đang nghèo phải dính vào nợ nần...\nko hiểu tâm lý bọn lừa đảo này."
+    },
+    {
+     "post_id": "44365138",
+     "number": 4,
+     "author": "Agent J",
+     "url": "https://voz.vn/p/44365138/",
+     "created_at": "2026-11-15T18:38:48+00:00",
+     "reactions": 3,
+     "text": "Vì bọn nó đc trả tiền hoặc kiếm được lợi ích từ việc lừa đảo đó thì cái lòng trắc ẩn mà trư đang có, k thể đòi hỏi từ tụi nó đc.\nTrư cứ bôn ba trải nghiệm thêm thì sẽ thấy đc xứ này vốn đc vận hành như thế. Đơn cử case mr Pips, shark Thủy shark Bình là lừa lớn, nhỏ hơn có lừa đảo người già HĐ kì nghỉ, nhỏ hơn như hùi sinh viên thì đa cấp, vừa rồi thì bọn bán hàng giả, KOLs...sau cùng thì bọn thực phẩm bẩn, thịt heo ngâm huyết bò, giá ngâm axit benzen, ốc ngâm xi măng. Hôm qua đọc thấy riềng mà nó còn ngâm chất gì tạo màu vàng..... Tất cả đều là canh me lừa lẫn nhau nên Trư đừng mong đợi lòng trắc ẩn. Hãy nên trang bị bộ kĩ nẵng để tránh bị lừa thôi."
+    },
+    {
+     "post_id": "44365154",
+     "number": 6,
+     "author": "Zz J4 Zz",
+     "url": "https://voz.vn/p/44365154/",
+     "created_at": "2026-11-15T18:54:35+00:00",
+     "reactions": 3,
+     "text": "Anh trai thất nghiệp đi nộp cũng chục công ty rồi mà nhìn cái lương cũng thấy chán đời lắm. Thu nhập đa số dao động từ 6 - 11 củ/tháng cho các vị trí bán hàng siêu thị, công nhân, tư vấn viên điện thoại, kể cả doanh nghiệp FDI. Ở SG đấy nhé.\nChả hiểu sao lên đây toàn rồng hổ lương 50 củ hay trăm củ ko. Cái GDP đầu người con Vịt là $5k/năm, tính ra cỡ $420/tháng tương đương 10 củ hơn thôi. T thấy chỉ số này phản ánh chính xác thực trạng hơn đấy."
+    },
+    {
+     "post_id": "44365177",
+     "number": 9,
+     "author": "Zz J4 Zz",
+     "url": "https://voz.vn/p/44365177/",
+     "created_at": "2026-11-15T19:31:46+00:00",
+     "reactions": 3,
+     "text": "9x, có vợ con. Vô nộp toàn tin tuyển dụng trên career, vnwork hay trang web chính thức công ty đấy. Tụi nó kêu phỏng vấn đàng hoàng mà.\nNếu chỉ tính lương cơ bản thì là 5.5 - 7.5 củ là đa số. Thêm KPI thì cao hơn chút.\nNhân viên siêu thị, nhà hàng fast food cũng toàn thu nhập 6,7 củ. Đám này vs công nhân là đang tuyển nhiều nhấy."
+    },
+    {
+     "post_id": "44365258",
+     "number": 13,
+     "author": "beegucci",
+     "url": "https://voz.vn/p/44365258/",
+     "created_at": "2026-11-15T21:34:56+00:00",
+     "reactions": 3,
+     "text": "mở thật tank à, mở chỗ của sthi cũ hồi xưa, mới check lại real nhe, gần tết qua bên mega an phú 32k/h cao hơn, sg giờ 27k/h thua grap nữa"
+    },
+    {
+     "post_id": "44365352",
+     "number": 16,
+     "author": "AnkCern",
+     "url": "https://voz.vn/p/44365352/",
+     "created_at": "2026-11-15T23:32:25+00:00",
+     "reactions": 3,
+     "text": "Thường thì cuối năm,Fujimart cũng tuyển thời vụ. Phỏng vấn ở trụ sở, gần bờ hồ. HR của cty làm việc trực tiếp. ko sợ lừa đảo. Tank ra Bắc, đến cái Fujimart nào tiện đường nhất rồi vào trong hỏi. Người ta chỉ cho. Thường thì mỗi ngàng hàng sẽ tuyển 2-3 người. Nhưng nhân viên thời vụ đôi khi sẽ phải sang phụ ngành hàng khác. Và phải chịu được lạnh vì lúc nào cũng có thể phải đi dí đầu vào tủ lạnh, tủ đông."
+    },
+    {
+     "post_id": "44365416",
+     "number": 19,
+     "author": "0388xx8888",
+     "url": "https://voz.vn/p/44365416/",
+     "created_at": "2026-11-16T00:03:43+00:00",
+     "reactions": 3,
+     "text": "công nhận nhà mình cần thuê người chở đồ xop,coc 1 lần loanh quanh 1km,tháng giả 9tr ngày làm 7 tiếng là nhiều,xong sớm về sớm ,đa số chỉ 6 tiếng,xe nhà cấp,ngày nào giả 300 ngày đấy.Lên fb đăng mà bọn nó toàn hỏi là môi giới à rồi sợ lừa này nọ,xong 2 đứa em gái 9x đến múc luôn,giờ vẫn đang làm tháng thứ 2.Xin việc cái làm luôn ăn 300 luôn ko có thử với theo làm gì tốn tg"
+    },
+    {
+     "post_id": "44366247",
+     "number": 24,
+     "author": "Vua Nằm Thẳng",
+     "url": "https://voz.vn/p/44366247/",
+     "created_at": "2026-11-16T01:54:34+00:00",
+     "reactions": 3,
+     "text": "Nói chung phức tạp lắm, làm việc trực tiếp công nhật vs công ty còn đỡ bị xù chứ làm cho trung gian tụi nó đã đớp đầu đớp đuôi mà còn có nguy cơ nghỉ rồi mà tụi nó còn tính chuyện đớp lương nữa. Ko phải ko ko mà người ta ko muốn đi làm tay chân đâu, đã khổ + bị khinh còn bị ăn cướp sức lao động nữa"
+    },
+    {
+     "post_id": "44366320",
+     "number": 28,
+     "author": "racervn",
+     "url": "https://voz.vn/p/44366320/",
+     "created_at": "2026-11-16T02:00:11+00:00",
+     "reactions": 3,
+     "text": "ý là chạy 2b xanh hoặc grab ấy, mình chạy thêm grab, chiều 5h ra chạy (bike với bike tiết kiệm thôi) 9h về còn được hơn 200k mà, nên chạy full ngày 500k là khỏe re, chưa kể thưởng hoàn thành cuốc"
+    },
+    {
+     "post_id": "44368688",
+     "number": 45,
+     "author": "Phanh Blank 2",
+     "url": "https://voz.vn/p/44368688/",
+     "created_at": "2026-11-16T04:20:40+00:00",
+     "reactions": 3,
+     "text": "Đây anh"
+    },
+    {
+     "post_id": "44369150",
+     "number": 46,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44369150/",
+     "created_at": "2026-11-16T04:49:16+00:00",
+     "reactions": 3,
+     "text": "Tank già rùi, trước làm nghề xuất ra tụng kinh gõ mõ. Nhưng đói quá nên hoàn tục, ai ngờ hoàn tục vẫn đói."
+    },
+    {
+     "post_id": "44369297",
+     "number": 47,
+     "author": "Dragon of Quảng Ninh",
+     "url": "https://voz.vn/p/44369297/",
+     "created_at": "2026-11-16T04:59:50+00:00",
+     "reactions": 3,
+     "text": "Vì anh bạn tìm vị trí công nhân, bán hàng. Việc cần đầu óc hay kiến thức thì lương cao hơn có gì lạ đâu? Lương trăm củ thì tôi chưa được trừ khi gộp hai vợ chồng thì gần bằng. Chứ 50 củ thì bình thường với tôi. Tôi làm Data Engineer cho bank."
+    },
+    {
+     "post_id": "44372430",
+     "number": 53,
+     "author": "kuti1025",
+     "url": "https://voz.vn/p/44372430/",
+     "created_at": "2026-11-16T08:54:11+00:00",
+     "reactions": 3,
+     "text": "tank hỏi thiệt hay giởn vậy tank? theo tank thì bắt nạt ức hiếp đứa thân cô thế cô túi không tiền nó dễ hơn hay bắt nạt đứa có tiền trong túi nó dễ dơn. trong thân tâm bọn này chỉ có đớp vs đớp thôi không có khái niệm tình thương là gì đâu mà đi s.nghĩ cho ng khác"
+    },
+    {
+     "post_id": "44365162",
+     "number": 7,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44365162/",
+     "created_at": "2026-11-15T19:09:55+00:00",
+     "reactions": 2,
+     "text": "Đang tính làm thời vụ ở aeon thảo điền, may ra tránh được tuyển dụng lừa đảo trên nhóm fb.\nCàng cuối năm càng lắm lừa đảo"
+    },
+    {
+     "post_id": "44365180",
+     "number": 10,
+     "author": "beegucci",
+     "url": "https://voz.vn/p/44365180/",
+     "created_at": "2026-11-15T19:35:43+00:00",
+     "reactions": 2,
+     "text": "làm gì có cái aeon nào ở thảo điền, dạo này kẹt quá chưa đem mì cho tank được\nkéo cáp cũng được 12tr đó, fuho vino cũng 15-20\nvào làm vincon xây dựng à fen"
+    },
+    {
+     "post_id": "44365189",
+     "number": 12,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44365189/",
+     "created_at": "2026-11-15T19:55:55+00:00",
+     "reactions": 2,
+     "text": "Nó gửi cái form này, tuyển thời vụ đến tháng 1 thôi mà yêu cầu lắm giấy tờ thế.\nChưa hiểu làm thời vụ thôi sao có đóng bảo hiểm?\nSang năm tank về bắc 1 tháng nên giờ chỉ tìm việc thời vụ thôi."
+    },
+    {
+     "post_id": "44365421",
+     "number": 20,
+     "author": "7 triệu rưỡi",
+     "url": "https://voz.vn/p/44365421/",
+     "created_at": "2026-11-16T00:07:28+00:00",
+     "reactions": 2,
+     "text": "Tiền công nhìn con số thì thấy khấm khá hơn ngày thường thật, nhưng ngẫm lại thợ xây hay lao động tự do không có bảo hiểm, dầm mưa dãi nắng lại còn bấp bênh ngày có việc ngày không. Trừ chi phí thuê trọ với ăn uống ở thành phố lớn xong thì số tiền mang về quê chắc cũng vừa vặn trang trải mấy ngày Tết chứ chẳng dư dả gì nhiều."
+    },
+    {
+     "post_id": "44365509",
+     "number": 21,
+     "author": "Zz J4 Zz",
+     "url": "https://voz.vn/p/44365509/",
+     "created_at": "2026-11-16T00:33:15+00:00",
+     "reactions": 2,
+     "text": "Có nhà bên tư bản bơm máu mỗi tháng nên cứ tàng tàng tìm việc thôi fen. Mà máu cũng bơm vừa đủ sống thôi nên ko có dư dả nhiều đâu vì bản thân bên đây cũng làm lương đâu cao đâu, lây lất qua ngày thôi.\nLúc trước ổng còn rất kén tìm việc, nhất quyết ko làm mấy việc chân tay hay thò mặt cho thiên hạ thấy đâu. H đói quá nên chịu mấy cái đó rồi nhưng mà yêu cầu ko xa nhà quá 10 km + lương đừng dưới 7 củ là ổng ok.\nBên VN mà thất nghiệp còn lây lất về quê sống với cha mẹ, chứ bên Đại bàng 7 nghiệp là khả năng cao xác định ra gầm cầu ở chứ ai cưu mang cho đâu, cũng chả sung sướng gì."
+    },
+    {
+     "post_id": "44366276",
+     "number": 25,
+     "author": "Jokerhero7",
+     "url": "https://voz.vn/p/44366276/",
+     "created_at": "2026-11-16T01:56:56+00:00",
+     "reactions": 2,
+     "text": "Tank chạy be 2 bánh mà, nó khóa tài khoản 2 tháng nay rồi, lý do vì tài xế quá ngon trai.\nTank ko có bằng lái 4b, cũng có tìm hiểu vin xanh nhưng thấy:\nhọc lấy bằng khoảng 20 củ,\nxế vin rất đông (nếu chuyển địa bàn xuống tỉnh như vũng tàu thì may ra khá hơn)\ngiờ phạt giao thông lại cao,\nhiện đang rỗng túi\nNên giờ chạy vin ko khả thi."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300914",
+   "title": "Liên danh Hàn - Pháp - Việt trúng gói thầu 416 triệu USD tại dự án đường sắt tốc độ cao Bắc – Nam",
+   "url": "https://voz.vn/t/lien-danh-han-phap-viet-trung-goi-thau-416-trieu-usd-tai-du-an-duong-sat-toc-do-cao-bac-nam.1300914/",
+   "prefix": "",
+   "op_author": "ga_cong_nghiep_quay2",
+   "op_created_at": "2026-11-22T09:42:01+00:00",
+   "article_url": "https://vietnamfinance.vn/lien-danh-han--phap--viet-trung-goi-thau-416-trieu-usd-tai-du-an-duong-sat-toc-do-cao-bac-nam-d154052.html",
+   "article_source": "vietnamfinance.vn",
+   "article_excerpt": "Theo thông tin được Chosun Biz đăng tải ngày 22/11, Bộ Đất đai, Cơ sở hạ tầng và Giao thông Hàn Quốc (MOLIT) cho biết một liên danh quốc tế gồm các doanh nghiệp Hàn Quốc, Pháp và Việt Nam đã trúng gói thầu nghiên cứu khả thi và thiết kế cơ sở cho dự án\nđường sắt tốc độ cao Bắc – Nam\n.\nVới giá trị hợp đồng lên tới 560 tỷ won, đây được đánh giá là thành tựu lớn nhất từ trước đến nay của Hàn Quốc trong lĩnh vực quy hoạch và thiết kế đường sắt tại thị trường nước ngoài.\nDự án đường sắt tốc độ cao Bắc – Nam của Việt Nam có tổng chiều dài dự kiến 1.541km, kết nối Hà Nội với TP. HCM. Tuyến đường sắt được thiết kế với hai đường ray và tốc độ khai thác tối đa lên tới 350km/h. Theo số liệu được phía Hàn Quốc dẫn lại, tổng mức đầu tư của dự án ước tính khoảng 95.000 tỷ won, tương đương 67,3 tỷ USD.\nLiên danh giành được hợp đồng có sự góp mặt của Tổng công ty Đường sắt quốc gia Hàn Quốc (Korea National Railway), hai doanh nghiệp Hàn Quốc là Sambo và Yooshin, cùng công ty tư vấn thiết kế đường sắt SYSTRA của Pháp và doanh nghiệp tư vấn thiết kế TEDI của Việt Nam.",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 11,
+   "total_reactions": 3,
+   "base_score": 17.0,
+   "hot_score": 3.68,
+   "top_comments": [
+    {
+     "post_id": "44434902",
+     "number": 3,
+     "author": "BennyHuynh",
+     "url": "https://voz.vn/p/44434902/",
+     "created_at": "2026-11-22T09:45:12+00:00",
+     "reactions": 2,
+     "text": "Tôi nhớ cách đây 2-3 tháng có 1 bài điểm báo tàu, thấy bọn tàu cẩu chửi rủa cay cú vì bị VN dùng làm quân xanh ép giá Hàn - Pháp - Đức."
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300920",
+   "title": "Chung cư lập tổ rà soát xe, cư dân lo lộ thông tin khi phải trình sổ đỏ, hợp đồng vay",
+   "url": "https://voz.vn/t/chung-cu-lap-to-ra-soat-xe-cu-dan-lo-lo-thong-tin-khi-phai-trinh-so-do-hop-dong-vay.1300920/",
+   "prefix": "",
+   "op_author": "manoao",
+   "op_created_at": "2026-11-22T09:51:50+00:00",
+   "article_url": "https://vietnamnet.vn/chung-cu-lap-to-ra-soat-xe-cu-dan-lo-lo-thong-tin-2577567.html",
+   "article_source": "vietnamnet.vn",
+   "article_excerpt": "Bị yêu cầu nộp sổ hồng, giấy đăng ký kết hôn và cả hợp đồng thế chấp ngân hàng để đối chiếu hồ sơ gửi xe ô tô, nhiều cư dân chung cư lo ngại nguy cơ lộ lọt dữ liệu cá nhân.\nCư dân băn khoăn\nTrước tình trạng quá tải hầm và tầng để xe, Ban Quản trị (BQT) một khu chung cư tại Hà Nội đã ban hành quyết định thành lập tổ công tác rà soát xe ô tô gồm 27 thành viên, 5 người là đại diện BQT, còn lại là cư dân tự nguyện tham gia.\nTổ công tác này yêu cầu toàn bộ chủ xe phải trình hồ sơ đối chiếu gồm sổ hồng, đăng ký xe... Cư dân phải trình ra giấy đăng ký kết hôn, giấy khai sinh nếu xe đứng tên người thân hoặc giấy đăng ký kinh doanh nếu xe đứng tên công ty để đối chiếu.\nTổ rà soát từ chối chấp nhận ảnh chụp sổ hồng trên ứng dụng định danh điện tử VNeID. Đối với những trường hợp sổ hồng hoặc đăng ký xe đang thế chấp ngân hàng, chủ xe buộc phải xin văn bản xác nhận của ngân hàng hoặc trình trực tiếp hợp đồng thế chấp, hoặc giấy tờ khác chứng minh sở hữu.\nQuy định này vấp phải phản ứng từ nhiều cư dân do lo ngại về nguy cơ lộ lọt dữ liệu cá nhân và gây phiền hà khi hầu hết chỗ đỗ xe thuộc thẩm quyền quản lý của chủ đầu tư/ban quản lý. Ngoài ra, khi đăng ký chỗ để xe đã trình đủ giấy tờ theo yêu cầu cho ban quản lý.\nNhiều chung cư đang quá tải chỗ đỗ ô tô.\nTrao đổi với\nVietNamNet\n, luật sư Diệp Năng Bình, Trưởng Văn phòng Luật sư Tinh Thông Luật, cho rằng về bản chất, việc thành lập tổ công tác gồm hàng chục cư dân không phải thành viên BQT để trực tiếp kiểm tra, đối chiếu giấy tờ tài sản của cư dân có nhiều căn cứ để nhận định đây là hành vi vượt quá thẩm quyền và trái nguyên tắc hoạt động của BQT.\nViệc 22 cư dân tự nguyện tham gia tổ công tác không làm phát sinh tư cách thành viên BQT, cũng không mặc nhiên trao cho họ quyền kiểm tra hồ sơ tài sản của những cư dân khác.\nVề căn cứ pháp lý, một quyết định mang tính nội bộ của BQT không thể tự mình tạo ra nghĩa vụ pháp lý buộc cư dân phải cung cấp những giấy tờ mà pháp luật không quy định hoặc các bên chưa có thỏa thuận.\nNgay cả trong trường hợp Hội nghị nhà chung cư thông qua chủ trương thành lập tổ giúp việc để hỗ trợ rà soát phương tiện, phạm vi hoạt động của tổ vẫn phải giới hạn trong nhiệm vụ được giao và không được trái quy định pháp luật.\nLuật sư Bình cho rằng các giấy tờ mà tổ công tác yêu cầu cung cấp đều chứa dữ liệu cá nhân. Theo Điều 4 Nghị định 356/2025/NĐ-CP, hình ảnh thẻ căn cước, căn cước công dân và thông tin tài chính, tín dụng thuộc nhóm dữ liệu cá nhân nhạy cảm.\nTrường hợp hồ sơ cư dân bị lộ lọt trong quá trình thu thập, chụp ảnh và lưu trữ, trách nhiệm pháp lý được xác định căn cứ vào vai trò, hành vi và lỗi của từng chủ thể. Căn cứ Điều 584 và Điều 592 Bộ luật Dân sự năm 2015, chủ thể gây thiệt hại còn có thể phải bồi thường thiệt hại ngoài hợp đồng.",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 5,
+   "total_reactions": 4,
+   "base_score": 13.0,
+   "hot_score": 2.864,
+   "top_comments": [
+    {
+     "post_id": "44434969",
+     "number": 2,
+     "author": "7 triệu rưỡi",
+     "url": "https://voz.vn/p/44434969/",
+     "created_at": "2026-11-22T09:52:26+00:00",
+     "reactions": 2,
+     "text": "Tự nhiên ở đâu lòi ra cái tổ công tác gồm toàn hàng xóm đi kiểm tra giấy tờ tài sản của nhau, buồn cười thật\nĐến lúc thông tin cá nhân với hợp đồng thế chấp ngân hàng bị tuồn ra ngoài thì không biết mấy vị trong tổ rà soát có đứng ra chịu trách nhiệm thay không hay lúc đấy lại bài cũ thu hồi quyết định."
+    },
+    {
+     "post_id": "44435117",
+     "number": 5,
+     "author": "Trần Bình",
+     "url": "https://voz.vn/p/44435117/",
+     "created_at": "2026-11-22T10:13:51+00:00",
+     "reactions": 1,
+     "text": "Người không phải cư dân mang xe vào gởi ở tầng hầm bãi xe của cư dân,làm cư dân ko có chỗ để xe,rà soát lại để cho mấy anh ko phải cư dân của tòa nhà cook chứ sao nữa\ncái này dễ nhất là cứ đưa Hợp đồng mua bán với chủ đầu tư hoặc hợp đồng thuê là được, chả cần CCCD, vì Hợp đồng mua bán nó đã bao gồm thông tin về nhân thân rồi"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1284704",
+   "title": "Sau giờ làm, công nhân trở về những căn phòng chỉ đủ để ở",
+   "url": "https://voz.vn/t/sau-gio-lam-cong-nhan-tro-ve-nhung-can-phong-chi-du-de-o.1284704/",
+   "prefix": "",
+   "op_author": "BrownGecko",
+   "op_created_at": "2026-10-01T08:21:45+00:00",
+   "article_url": "https://laodong.vn/cong-doan/sau-gio-lam-cong-nhan-tro-ve-nhung-can-phong-chi-du-de-o-1775367.ldo",
+   "article_source": "laodong.vn",
+   "article_excerpt": "Sau những giờ làm việc tại Khu công nghiệp Thăng Long (Hà Nội), nhiều công nhân trở về những căn phòng trọ chật hẹp, xuống cấp.​\nXen giữa những căn nhà của người dân ở gần Khu công nghiệp Thăng Long là các dãy trọ đã tồn tại hàng chục năm, trở thành nơi ở của nhiều thế hệ công nhân từ các tỉnh, thành về Hà Nội làm việc. Ảnh: Minh Hương.\nNơi nấu ăn đặt ở hành lang chung. Ảnh: Minh Hương.\nNhững nhà trọ cho thuê giá rẻ là lựa chọn của nhiều công nhân tỉnh lẻ. Ảnh: Minh Hương.\nhttps://laodong.vn/cong-doan/sau-gio-lam-cong-nhan-tro-ve-nhung-can-phong-chi-du-de-o-1775367.ldo",
+   "status": "ok",
+   "pages_scanned": 13,
+   "replies": 252,
+   "total_reactions": 281,
+   "base_score": 814.0,
+   "hot_score": 2.7,
+   "top_comments": [
+    {
+     "post_id": "43880740",
+     "number": 2,
+     "author": "Effoc",
+     "url": "https://voz.vn/p/43880740/",
+     "created_at": "2026-10-01T08:27:15+00:00",
+     "reactions": 3,
+     "text": "Giai cấp lãnh đạo nhìn khổ quá"
+    },
+    {
+     "post_id": "43880769",
+     "number": 3,
+     "author": "Hbt_investment",
+     "url": "https://voz.vn/p/43880769/",
+     "created_at": "2026-10-01T08:28:54+00:00",
+     "reactions": 3,
+     "text": "ê ê nha mới đầu tui tưởng ông thớt tự thêm tấm hình cuối\nHóa ra tác giả bài báo chắc chắn có nằm vùng trong này mới lấy tấm ảnh Huyền thoại đó vô"
+    },
+    {
+     "post_id": "43880793",
+     "number": 4,
+     "author": "iPhone 12 clock 99%",
+     "url": "https://voz.vn/p/43880793/",
+     "created_at": "2026-10-01T08:30:28+00:00",
+     "reactions": 3,
+     "text": "Sao vozer bảo công nhân toàn đi SH, satria dùng iphone đời mới trả góp? Mưu sinh muốn chết mịa ra kìa"
+    },
+    {
+     "post_id": "43880796",
+     "number": 5,
+     "author": "thang_bom",
+     "url": "https://voz.vn/p/43880796/",
+     "created_at": "2026-10-01T08:30:48+00:00",
+     "reactions": 3,
+     "text": "Đàn cừu coi bộ khổ\nThôi kiếp sau ráng đầu thai làm kiếp chó, hoặc lợn nhé"
+    },
+    {
+     "post_id": "43880799",
+     "number": 6,
+     "author": "ghostlab",
+     "url": "https://voz.vn/p/43880799/",
+     "created_at": "2026-10-01T08:31:01+00:00",
+     "reactions": 3,
+     "text": "Đi làm về mệt mỏi lại chui vào căn phòng oi bức thế này thì nghỉ ngơi gì nổi nữa..."
+    },
+    {
+     "post_id": "43880819",
+     "number": 7,
+     "author": "Đừng Xanh Như Lá",
+     "url": "https://voz.vn/p/43880819/",
+     "created_at": "2026-10-01T08:32:09+00:00",
+     "reactions": 3,
+     "text": "\"Căn phòng trọ nhỏ mà có thêm tiếng khóc tiếng cười của trẻ con thì càng ấm cúng.\nSẽ là nguồn động viên tinh thần cho chúng tôi sau giờ làm việc mệt mỏi tại nhà máy.\nChúng tôi lại càng chăm chỉ hăng say làm việc, để tương lai của mình và con sẽ sáng sủa thành công hơn.\"\nCông nhân đéo nói thế ."
+    },
+    {
+     "post_id": "43880827",
+     "number": 9,
+     "author": "boychuoitau",
+     "url": "https://voz.vn/p/43880827/",
+     "created_at": "2026-10-01T08:32:27+00:00",
+     "reactions": 3,
+     "text": "Ai cũng có quyền mưu cầu hạnh phúc, nhưng nhà tôi mà ntn tôi không dám lấy vợ luôn, đây lại còn thêm 1 nhóc nữa"
+    },
+    {
+     "post_id": "43880879",
+     "number": 13,
+     "author": "thuoclajet",
+     "url": "https://voz.vn/p/43880879/",
+     "created_at": "2026-10-01T08:34:57+00:00",
+     "reactions": 3,
+     "text": "đúng chứ ko sai nhưng mà đó là đội tầm 18 20 cái tuổi cần thể hiện chứ ko quan tâm gì nhiều, chứ bọn u30 đổ ra thì thực sự cả đống chi tiêu chả dám mua cái điện thoại mới chứ đừng nói gì đến iphone hay sh bác à"
+    },
+    {
+     "post_id": "43880932",
+     "number": 15,
+     "author": "thoisu24h01p",
+     "url": "https://voz.vn/p/43880932/",
+     "created_at": "2026-10-01T08:37:43+00:00",
+     "reactions": 3,
+     "text": "Có vợ chồng thằng bạn đang trọ ở phan huy ích hcm. Mấy hôm nay ngập nữa thấy nãn luôn. Mình thì chọn về quê dù cuộc sống cơ cực nhưng được cái rộng rãi thoãi mái, không khí trong lành."
+    },
+    {
+     "post_id": "43880970",
+     "number": 18,
+     "author": "Monitari",
+     "url": "https://voz.vn/p/43880970/",
+     "created_at": "2026-10-01T08:39:29+00:00",
+     "reactions": 3,
+     "text": "Trông khổ thật sự, như quả nhà cuối ảnh mà làm thêm đứa nữa thì đúng ối dồi ôi. Vợ chồng đi làm công nhân cả năm chắt bóp nuôi con chắc cũng dư 100 150 củ là căng. Nhìn quả đúng tương lại tăm tối, bảo sao học hết cấp 3 chỗ t cố sống cố chết vay mượn cũng cho con nó đi làm cu li nước ngoài, Khổ thì cũng khổ thật nhưng chí ít còn có tí le lói, như này là không thấy mặt trời luôn."
+    },
+    {
+     "post_id": "43880988",
+     "number": 19,
+     "author": "John117",
+     "url": "https://voz.vn/p/43880988/",
+     "created_at": "2026-10-01T08:40:01+00:00",
+     "reactions": 3,
+     "text": "Sống như này thì thôi nằm thẳng chứ lấy vợ sinh con làm đéo gì nữa. Đã sống 1 kiếp trâu ngựa rồi, không cần phải đẻ thêm ra trâu ngựa nữa đâu."
+    },
+    {
+     "post_id": "43880991",
+     "number": 20,
+     "author": "_Ếch Xanh",
+     "url": "https://voz.vn/p/43880991/",
+     "created_at": "2026-10-01T08:40:06+00:00",
+     "reactions": 3,
+     "text": "Và tất nhiên, đứa bé chả có tí đồ chơi nào ngoài cái điện thoại của mẹ"
+    },
+    {
+     "post_id": "43880999",
+     "number": 21,
+     "author": "pegakuto",
+     "url": "https://voz.vn/p/43880999/",
+     "created_at": "2026-10-01T08:40:42+00:00",
+     "reactions": 3,
+     "text": "Mèo khóc chuột\nlũ súc sanh vô sỉ."
+    },
+    {
+     "post_id": "43881007",
+     "number": 22,
+     "author": "Zenda99",
+     "url": "https://voz.vn/p/43881007/",
+     "created_at": "2026-10-01T08:41:02+00:00",
+     "reactions": 3,
+     "text": "Trên đời này chắc chỉ có ở Namek là chủ còn khổ hơn cả đầy tớ. Đúng là chế độ tôn vinh sự bình đẳng, làm theo năng lực hưởng theo nhu cầu có khác"
+    },
+    {
+     "post_id": "43881020",
+     "number": 24,
+     "author": "Monitari",
+     "url": "https://voz.vn/p/43881020/",
+     "created_at": "2026-10-01T08:41:55+00:00",
+     "reactions": 3,
+     "text": "không tiếp cận đc giáo dục tốt, trừ khi thiên tài ra còn không thì xác định lại làm công nhân như bố mẹ"
+    },
+    {
+     "post_id": "43881032",
+     "number": 29,
+     "author": "Huỳnh Cẩm Vy",
+     "url": "https://voz.vn/p/43881032/",
+     "created_at": "2026-10-01T08:42:34+00:00",
+     "reactions": 3,
+     "text": "Nghèo mà yên bình, cứ chill chill vậy thôi, có cơm ăn cơm, có mắm ăn mắm"
+    },
+    {
+     "post_id": "43881058",
+     "number": 30,
+     "author": "Monitari",
+     "url": "https://voz.vn/p/43881058/",
+     "created_at": "2026-10-01T08:44:16+00:00",
+     "reactions": 3,
+     "text": "Này ở quê thông thoáng mát mẻ là ngon rồi , như tôi vợ chồng vẫn phải bám trụ trên này vì về quê không biết làm gì ra tiền"
+    },
+    {
+     "post_id": "43881060",
+     "number": 31,
+     "author": "zozoJojo",
+     "url": "https://voz.vn/p/43881060/",
+     "created_at": "2026-10-01T08:44:23+00:00",
+     "reactions": 3,
+     "text": "Cơm này chắc cơm độn nấm hương, mắm cá mập"
+    },
+    {
+     "post_id": "43881105",
+     "number": 33,
+     "author": "teole",
+     "url": "https://voz.vn/p/43881105/",
+     "created_at": "2026-10-01T08:47:13+00:00",
+     "reactions": 3,
+     "text": "nhìn mấy ảnh này thấy xót xa ghê\nvậy mà lên fb mấy chỗ Maybe, Comcom cứ ngỡ GDP mình phải nằm trong nhóm G7"
+    },
+    {
+     "post_id": "43881115",
+     "number": 34,
+     "author": "Huỳnh Cẩm Vy",
+     "url": "https://voz.vn/p/43881115/",
+     "created_at": "2026-10-01T08:47:57+00:00",
+     "reactions": 3,
+     "text": "Ở quê có tiêu mấy đâu, Vy mỗ xin chính quyền hoàn cảnh khó khăn, được miễn học phí, tiền ăn bán trú cũng được giảm, con cái học trường làng thôi. Còn đồ ăn thì toàn tự kiếm, rau củ nhà trồng, thóc lúa thì mót ngoài đồng vài hôm đủ ăn cả năm, rảnh rỗi thì vợ đi mò cua bắt cá, chồng bắt chuột bọ ngoài đồng cũng đủ bữa"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1300925",
+   "title": "Công an TP Huế thông tin về vụ án mua bán dâm và vụ đưa nhận hối lộ ở trường học xôn xao mạng xã hội",
+   "url": "https://voz.vn/t/cong-an-tp-hue-thong-tin-ve-vu-an-mua-ban-dam-va-vu-dua-nhan-hoi-lo-o-truong-hoc-xon-xao-mang-xa-hoi.1300925/",
+   "prefix": "",
+   "op_author": "manoao",
+   "op_created_at": "2026-11-22T09:57:44+00:00",
+   "article_url": "https://tuoitre.vn/cong-an-tp-hue-thong-tin-ve-2-vu-an-mua-ban-dam-va-dua-nhan-hoi-lo-o-truong-hoc-xon-xao-mang-xa-hoi-100261121100113952.htm",
+   "article_source": "tuoitre.vn",
+   "article_excerpt": "Công an TP Huế đã khởi tố 2 vụ án liên quan đến hành vi đưa, nhận hối lộ tại hai trường tiểu học và vụ án xâm hại tình dục người chưa thành niên, mua bán dâm. Hai vụ việc hoàn toàn độc lập, không liên quan đến nhau.\nĐại tá Hồ Xuân Phương - Phó giám đốc Công an TP Huế - thông tin về hai vụ án gây xôn xao trên mạng xã hội ở Huế nhiều ngày qua - Ảnh: NHẬT LINH\nSáng 21-11, Đại tá Hồ Xuân Phương - Phó giám đốc Công an TP Huế - chính thức thông tin về hai vụ án đang gây xôn xao dư luận trên mạng xã hội những ngày qua.\nTheo Đại tá Phương, qua triển khai kế hoạch nắm tình hình, rà soát các hoạt động liên quan đến giáo dục và an ninh trật tự trên địa bàn, Cơ quan Cảnh sát điều tra Công an TP Huế đã khởi tố hai vụ án liên quan đến hành vi đưa, nhận hối lộ và các hành vi xâm hại tình dục người chưa thành niên, mua bán dâm.\nĐối với vụ án thứ nhất, công an xác định có dấu hiệu đưa, nhận hối lộ xảy ra tại Trường tiểu học Quảng Thành (phường Hóa Châu) và Trường tiểu học Trần Quốc Toản (phường Phú Xuân).\nQua rà soát, kiểm tra hoạt động kinh doanh và an toàn thực phẩm tại các cơ sở giáo dục, Cơ quan Cảnh sát điều tra Công an TP Huế đã khởi tố 2 bị can về hành vi đưa hối lộ, gồm Huỳnh Thị Châu (Giám đốc Công ty TNHH MTV thực phẩm Minh Châu) và Huỳnh Thị Ngọc Lan (chủ hộ kinh doanh thực phẩm Huỳnh Thị Ngọc Lan).\nĐồng thời cơ quan điều tra khởi tố 2 bị can về hành vi nhận hối lộ là ông Ngô Hoàng Quốc Dũng - Hiệu trưởng Trường tiểu học Quảng Thành và ông Dương Quang Nam - Hiệu trưởng Trường tiểu học Trần Quốc Toản.\nĐối với vụ án thứ hai, Đại tá Hồ Xuân Phương cho biết cơ quan công an đã làm rõ các hành vi liên quan đến việc giao cấu hoặc thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi, dâm ô với người dưới 16 tuổi, mua dâm người dưới 18 tuổi và môi giới mại dâm.\nĐến nay, cơ quan công an đã khởi tố 11 bị can liên quan đến vụ án. Các hành vi, trách nhiệm của những người liên quan đang tiếp tục được điều tra, làm rõ. Sau khi có kết luận cuối cùng, công an sẽ thông tin chính thức đến báo chí.\nĐại tá Phương nhấn mạnh hai vụ án trên hoàn toàn độc lập, khác nhau về nội dung, đối tượng và tình tiết. Tuy nhiên, lợi dụng những thông tin chưa được kiểm chứng, một số người đã gán ghép hai vụ việc với nhau, đăng tải và chia sẻ thông tin sai sự thật, gây ảnh hưởng đến uy tín của nhiều cá nhân, tổ chức.",
+   "status": "ok",
+   "pages_scanned": 1,
+   "replies": 3,
+   "total_reactions": 3,
+   "base_score": 9.0,
+   "hot_score": 2.003,
+   "top_comments": [
+    {
+     "post_id": "44435133",
+     "number": 4,
+     "author": "LAIBIBAN2026",
+     "url": "https://voz.vn/p/44435133/",
+     "created_at": "2026-11-22T10:15:26+00:00",
+     "reactions": 1,
+     "text": "Cứ lên thanh minh là dân lại biết cái gì thật cái gì không? hài vãi chưởng"
+    }
+   ],
+   "error": ""
+  },
+  {
+   "thread_id": "1285956",
+   "title": "Tiềm lực nhà thầu Trung Quốc vừa được cấp phép làm metro số 2 TPHCM",
+   "url": "https://voz.vn/t/tiem-luc-nha-thau-trung-quoc-vua-duoc-cap-phep-lam-metro-so-2-tphcm.1285956/",
+   "prefix": "",
+   "op_author": "Chuyên bán máy đục",
+   "op_created_at": "2026-10-06T00:57:02+00:00",
+   "article_url": "https://tienphong.vn/tiem-luc-nha-thau-trung-quoc-vua-duoc-cap-phep-lam-metro-so-2-tphcm-post1882522.tpo",
+   "article_source": "tienphong.vn",
+   "article_excerpt": "Nhà thầu Trung Quốc tham gia dự án metro số 2 (Bến Thành - Tham Lương) từng xây tuyến cao tốc 350 km/h đầu tiên của nước này và hàng loạt công trình đường sắt, cao tốc, cầu khác.\nVừa qua, Sở Xây dựng TP.HCM có quyết định cấp giấy phép hoạt động xây dựng cho Công ty HH Tập đoàn Cục 6 Đường sắt Trung Quốc (gọi tắt là Tập đoàn Đường sắt số 6 Trung Quốc - CRSG), cho phép doanh nghiệp tham gia dự án metro số 2 đoạn Bến Thành - Tham Lương với vai trò nhà thầu phụ cho Tập đoàn Đường sắt Trung Quốc - CREC (nhà thầu chính liên danh với Thaco làm tổng thầu EPC của dự án).\nTrong phần giới thiệu trên website chính thức, Công ty HH Tập đoàn Cục 6 Đường sắt Trung Quốc là công ty con thuộc Tổng công ty Đường sắt Trung Quốc và có vốn điều lệ 2,2 tỷ nhân dân tệ (khoảng 328 triệu USD).\nTập đoàn có trụ sở chính tại Bắc Kinh và có 15 công ty con và chi nhánh. Tính đến cuối năm 2024, tập đoàn có tổng số hơn 13.000 nhân viên, trong đó có hơn 8.300 cán bộ chuyên môn và kỹ thuật.\nCông ty sở hữu hơn 6.400 bộ máy móc thiết bị, gồm khoảng 17 máy khoan hầm các loại như máy dành cho tàu điện ngầm với đường kính lớp lót và điều kiện địa chất khác nhau, máy khoan hầm đường kính lớn cho đường sắt.\nVề số lượng dự án, công ty đang triển khai hơn 350 dự án đường sắt cao tốc, đường sắt hiện hữu, cao tốc, công trình đô thị, tàu điện ngầm và xây dựng nhà cửa, cũng như dịch vụ bảo trì, vận hành đường sắt và đường cao tốc, với năng lực sản xuất xây dựng hàng năm đạt 45 tỷ nhân dân tệ (6,71 tỷ USD).\nTập đoàn đã đảm nhận nhiều dự án kỹ thuật quy mô lớn trong và ngoài nước, tham gia xây dựng hơn 20 tuyến đường sắt trục chính, trong đó có tuyến Bắc Kinh - Quảng Châu và Bắc Kinh - Thượng Hải.\nTiềm lực nhà thầu Trung Quốc vừa được cấp phép làm metro số 2 TPHCM (https://tienphong.vn/tiem-luc-nha-thau-trung-quoc-vua-duoc-cap-phep-lam-metro-so-2-tphcm-post1882522.tpo)",
+   "status": "ok",
+   "pages_scanned": 6,
+   "replies": 110,
+   "total_reactions": 84,
+   "base_score": 278.0,
+   "hot_score": 0.994,
+   "top_comments": [
+    {
+     "post_id": "43924582",
+     "number": 3,
+     "author": "StoneCold166",
+     "url": "https://voz.vn/p/43924582/",
+     "created_at": "2026-10-06T01:12:36+00:00",
+     "reactions": 3,
+     "text": "Thằng nào cũng dc, miễn làm nhanh với đừng có tai nạn là dc.\nChứ kẹt xe với ngập nước quá rồi"
+    },
+    {
+     "post_id": "43924628",
+     "number": 4,
+     "author": "the last day",
+     "url": "https://voz.vn/p/43924628/",
+     "created_at": "2026-10-06T01:16:15+00:00",
+     "reactions": 3,
+     "text": "Chỉ cần 1 dòng trong CV là uy tín rồi\nTừng làm CL-HĐ"
+    },
+    {
+     "post_id": "43924657",
+     "number": 5,
+     "author": "hcdung",
+     "url": "https://voz.vn/p/43924657/",
+     "created_at": "2026-10-06T01:18:38+00:00",
+     "reactions": 3,
+     "text": "Biết là thằng nào cũng được miễn là ngon, bổ, rẻ... Nhìn TQ nó xây hệ thống cầu, đường cao tốc nhanh, chi phí rẻ mà sao qua nước Việt nó lại lầy lội, trầm trây, chậm tiến độ, đội vốn khiếp thế!"
+    },
+    {
+     "post_id": "43924676",
+     "number": 6,
+     "author": "Alibaban",
+     "url": "https://voz.vn/p/43924676/",
+     "created_at": "2026-10-06T01:20:43+00:00",
+     "reactions": 3,
+     "text": "Nhập gia tùy tục, thêm cái ông chủ đầu tư là VN thuê TQ làm CL-HĐ mà lại thuê thằng Pháp vào nghiệm thu mới ngu người chứ, năng lực quản trị và kiến thức ko có thì có cho người ngoài hành tinh làm thì vẫn delay và đội vốn thôi"
+    },
+    {
+     "post_id": "43924953",
+     "number": 10,
+     "author": "mrkenko0l",
+     "url": "https://voz.vn/p/43924953/",
+     "created_at": "2026-10-06T01:42:58+00:00",
+     "reactions": 3,
+     "text": "TQ làm ngon mà. Đội vốn các thứ thì toàn do bên mình là nhiều"
+    },
+    {
+     "post_id": "43924982",
+     "number": 11,
+     "author": "vominhgiang",
+     "url": "https://voz.vn/p/43924982/",
+     "created_at": "2026-10-06T01:46:41+00:00",
+     "reactions": 3,
+     "text": "Tiến độ đang dí căng lắm. các anh yên tâm là không chậm đâu.\nCty tôi làm B' TVGS đã vào phụ trách các ga ngầm từ tháng 3 rồi.\nTiền thì do Thaco và HPG chi, QLDA thì Ban Metro2 thuộc Ban Đường sắt đô thị\nTVGS chính thì do liên doanh 1 Pháp, 1 tàu, 2 VN."
+    },
+    {
+     "post_id": "43925270",
+     "number": 17,
+     "author": "vinata4",
+     "url": "https://voz.vn/p/43925270/",
+     "created_at": "2026-10-06T02:06:25+00:00",
+     "reactions": 3,
+     "text": "cả nước nhìn vào, ko ai dám làm láo đâu\ndự án trọng điểm, ko phe nào dám ăn đâu\nblah blah"
+    },
+    {
+     "post_id": "43925308",
+     "number": 20,
+     "author": "ngontrong",
+     "url": "https://voz.vn/p/43925308/",
+     "created_at": "2026-10-06T02:08:13+00:00",
+     "reactions": 3,
+     "text": "Ừ ngon mà."
+    },
+    {
+     "post_id": "43925417",
+     "number": 30,
+     "author": "mrkenko0l",
+     "url": "https://voz.vn/p/43925417/",
+     "created_at": "2026-10-06T02:14:12+00:00",
+     "reactions": 3,
+     "text": "Cái này tuyên đường sắt làm đã mất mẹ hơn chục năm vận hành 3 năm rồi chưa thấy bảo hành bảo trì thì nát còn gì. Cái gì chả phải bảo hành bảo trì nhà thầu nào a để xây xong quẳng đấy kệ mẹ cứ đi thì chả nát"
+    },
+    {
+     "post_id": "43925560",
+     "number": 40,
+     "author": "tennayvuadu16chu",
+     "url": "https://voz.vn/p/43925560/",
+     "created_at": "2026-10-06T02:22:58+00:00",
+     "reactions": 3,
+     "text": "Cát Linh - Hà Đông mà so với Bến Thành - Suối Tiên thì đúng cống rãnh so với đại dương."
+    },
+    {
+     "post_id": "43925703",
+     "number": 49,
+     "author": "ngontrong",
+     "url": "https://voz.vn/p/43925703/",
+     "created_at": "2026-10-06T02:32:57+00:00",
+     "reactions": 3,
+     "text": "Ô hô.... mấy anh làm công trình đểnh thật. Xây thì xây chứ chuyện thời tiết thì không tính tới.\nMãy đểnh mãy đểnh. Thảo nào xây nhà bên Thái sập mẹ nó nhà người ta.\nTại A tại B tại C.... chứ không phải tại các anh xây cất chất lượng như clq."
+    },
+    {
+     "post_id": "43926336",
+     "number": 52,
+     "author": "Siêu Chuối 2626",
+     "url": "https://voz.vn/p/43926336/",
+     "created_at": "2026-10-06T03:09:36+00:00",
+     "reactions": 3,
+     "text": "Yagi nó là siêu bão, là siêu bão đấy, ko ai thiết kế để mấy cái mái kia chịu đc siêu bão cả, vì như thế quá tốn kém. Lôi vụ bên Thái lại càng ngu, thằng đơn vị thiết kế nó công khai hồ sơ thiết kế rồi đó, thách bọn Thái chỉ ra được nó sai ở đâu. Tất cả lại im thin thít."
+    },
+    {
+     "post_id": "43926659",
+     "number": 54,
+     "author": "Alibaban",
+     "url": "https://voz.vn/p/43926659/",
+     "created_at": "2026-10-06T03:29:59+00:00",
+     "reactions": 3,
+     "text": "Hỏi khí không phải a sống ở SG hay HN ?\nTàu Nhật ở SG ngu méo chịu được, cứ trời mưa to là nó chạy chậm hoặc dừng chạy cmnl\nCái quẹt thẻ/vé tích hợp thì FPT can thiệp vào core tách ra riêng 1 trụ nên lúc nào quẹt vào cũng có độ delay nhất định để mở cửa. Máy bán vé thì cũng để làm kiểng chứ cũng chả xài được mấy, dây điện thì nhìn rối tù mù làm mất mẹ mỹ quan của Q2 (bọn này xài công nghệ lấy điện từ trên cao của thập niên 50 thế kỷ trước)\n=> Do SG nó quá kẹt rồi metro tạm gọi là 1 giải pháp thôi chứ nó cũng như loằn, chả thấy đại dương cm gì luôn. A thử kể mấy cái hay của đại dương mà a nói ra xem thế nào"
+    },
+    {
+     "post_id": "43928500",
+     "number": 78,
+     "author": "Iponien",
+     "url": "https://voz.vn/p/43928500/",
+     "created_at": "2026-10-06T05:36:57+00:00",
+     "reactions": 3,
+     "text": "suy nghĩ của anh giống kiểu: tôi mua shopee, shop ở quận 1 tôi ở quận 2, tại sao hàng phải gửi về hub Củ Chi\nanh muốn không bất lợi cho bản thân thì anh đi taxi hay xe máy thẳng từ Bình Tân qua Thủ Đức, đâu ai bắt ép anh đi metro, giống như anh muốn được giao hàng shopee nhanh không phải qua hub Củ Chi thì book Hỏa tốc đi"
+    },
+    {
+     "post_id": "43928545",
+     "number": 81,
+     "author": "Ironbreaker",
+     "url": "https://voz.vn/p/43928545/",
+     "created_at": "2026-10-06T05:43:09+00:00",
+     "reactions": 3,
+     "text": "Thì anh có thể chọn tự chạy xe hoặc đi xe bus, grab ...\nCó ai dí súng vào đầu bắt anh ngồi metro đâu ?\nĐéo hiểu bỉ bôi cl j, chắc phải làm cái metro từ Bình Tân nhà anh đi khắp SG mới vừa lòng"
+    },
+    {
+     "post_id": "43929752",
+     "number": 90,
+     "author": "hell.cat",
+     "url": "https://voz.vn/p/43929752/",
+     "created_at": "2026-10-06T07:26:49+00:00",
+     "reactions": 3,
+     "text": "Anti tới mất cả não à a, hỏng mấy tấm kính thì ảnh hưởng gì so với nứt hầm TT với sập cả cầu CT"
+    },
+    {
+     "post_id": "43925292",
+     "number": 18,
+     "author": "LX700h",
+     "url": "https://voz.vn/p/43925292/",
+     "created_at": "2026-10-06T02:07:40+00:00",
+     "reactions": 2,
+     "text": "ít ra nó éo làm rớt cái gối nào"
+    },
+    {
+     "post_id": "43925370",
+     "number": 24,
+     "author": "LX700h",
+     "url": "https://voz.vn/p/43925370/",
+     "created_at": "2026-10-06T02:11:43+00:00",
+     "reactions": 2,
+     "text": "éo bảo trì bảo dưỡng thì nát thôi chứ sao"
+    },
+    {
+     "post_id": "43925397",
+     "number": 28,
+     "author": "jabberwocky1803",
+     "url": "https://voz.vn/p/43925397/",
+     "created_at": "2026-10-06T02:12:57+00:00",
+     "reactions": 2,
+     "text": "Cl-hd nhà ga, tàu đúng kiểu nhà quê. Đi metro bọn nhật làm khác hẳn từ cổng vào ga! Hay do kiểu ngoài hn thích xưa cũ nhỉ."
+    },
+    {
+     "post_id": "43925586",
+     "number": 42,
+     "author": "Siêu Chuối 2626",
+     "url": "https://voz.vn/p/43925586/",
+     "created_at": "2026-10-06T02:25:12+00:00",
+     "reactions": 2,
+     "text": "Đọc kĩ nội dung bài báo chưa, hạng mục hỏng nặng nhất là do bão Yagi thì liên quan lìn gì đến thằng thi công"
+    }
+   ],
+   "error": ""
+  }
+ ]
+}
